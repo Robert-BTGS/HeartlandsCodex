@@ -1,1 +1,42 @@
-site_name: My Docs
+site_name: Heartlands Codex
+site_url: https://robert-btgs.github.io/HeartlandsCodex/
+
+theme:
+  name: torillic
+  logo: images/HeartlandsLogo.png
+  favicon: images/HeartlandsLogo.png
+  background_image: images/HeartlandsCodexBackground.jpg
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - content.action.edit
+    - content.backlinks
+    - content.search.suggest
+    - content.search.highlight
+
+# nav:
+#   - Home: index.md
+#   - Heartlands: 
+#       - Overview: Heartlands/index.md
+#       - NPCs: 
+#           - Kadian Emperor: Heartlands/NPCs/kadian_emperor.md
+#           # More NPCs...
+#       - Quests: []
+#       - Locations: []
+#       - Factions: []
+#       - Skills: []
+#   - "Heartlands: The Arena":
+#       - Overview: Heartlands_TheArena/index.md
+#       - NPCs: []
+#       - Quests: []
+#       - Locations: []
+#       - Combat: []
+#   - "Heartlands: The Lost Colony":
+#       - Overview: Heartlands_TLC/index.md
+#       - NPCs: []
+#       - Guilds: []
+#       - Magic: []
+
+plugins:
+  - search
+  - awesome-pages
