@@ -15,17 +15,17 @@ Learns quickly. Ancient. The oldest civilization in the Empire. Thinks themselve
 ## Base Attributes
 
 | Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|------|------|------|------|------|------|------|
-| 99    | 99   | 99    | 99    | 99    | 99    | 50 |
+|------     |------        |------      |------  |------      |------        |------ |
+| 35        | 50           | 50         | 30     | 40         | 25           | 50    |
 
 ## Skill Bonuses
 
 | Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------|------|------|------|------|------|------|------|
-| 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+|------    |------      |------   |------|------  |------  |------        |------        |
+| 0        | 10         | 0       | 0    | 0      | 0      | 5            | 10           |
 
 ## Resistences
- - Fire
+ - Magic Effectiveness +25%
 
 ## Other
 - Magic bonus of 100 points
