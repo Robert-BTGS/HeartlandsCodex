@@ -1,4 +1,19 @@
 # Marauder Mage
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Endurance
+
+## Skill Bonuses
+- Short Blade
+- Staff
+- Light Armor
+- Conjuration
+- Heavy Armor
+- Destruction
+- Speechcraft
+- Alchemy
+
+## Specialization
+- Magic

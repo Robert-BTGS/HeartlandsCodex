@@ -1,4 +1,19 @@
 # Knight
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Personality
+- Strength
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Blunt
+- Long Blade
+- Hand To Hand
+- Heavy Armor
+- Illusion
+- Speechcraft
+
+## Specialization
+- Combat

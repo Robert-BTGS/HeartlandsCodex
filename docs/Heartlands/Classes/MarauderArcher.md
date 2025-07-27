@@ -1,4 +1,19 @@
 # Marauder Archer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Speed
+- Strength
+
+## Skill Bonuses
+- Short Blade
+- Alchemy
+- Hand To Hand
+- Mercantile
+- Heavy Armor
+- Speechcraft
+- Unarmored
+- Marksman
+
+## Specialization
+- Stealth

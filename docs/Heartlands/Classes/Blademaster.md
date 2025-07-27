@@ -1,4 +1,19 @@
 # Blademaster
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- Long Blade
+- Short Blade
+- Block
+- Blunt
+- Hand To Hand
+- Light Armor
+- Speechcraft
+- Unarmored
+
+## Specialization
+- Combat

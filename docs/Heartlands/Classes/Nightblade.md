@@ -1,4 +1,19 @@
 # Nightblade
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Speed
+
+## Skill Bonuses
+- Short Blade
+- Restoration
+- Light Armor
+- Conjuration
+- Sneak
+- Destruction
+- Alchemy
+- Alteration
+
+## Specialization
+- Magic

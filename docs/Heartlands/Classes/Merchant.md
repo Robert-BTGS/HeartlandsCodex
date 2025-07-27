@@ -1,4 +1,19 @@
 # Merchant
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Personality
+- Strength
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Restoration
+- Mercantile
+- Speechcraft
+- Unarmored
+- Repair
+- Blunt
+
+## Specialization
+- Stealth

@@ -1,19 +1,18 @@
-# Marauder Boss
-
+# Battlemage Arena Combatant
 
 ## Favored Attributes
-- Willpower
+- Intelligence
 - Strength
 
 ## Skill Bonuses
 - Short Blade
 - Block
-- Hand To Hand
-- Unarmored
+- Light Armor
+- Conjuration
 - Heavy Armor
 - Destruction
-- Long Blade
-- Light Armor
+- Illusion
+- Alteration
 
 ## Specialization
-- Combat
+- Magic

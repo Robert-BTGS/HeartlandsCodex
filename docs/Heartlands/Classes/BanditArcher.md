@@ -1,4 +1,19 @@
 # Bandit Archer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Speed
+- Endurance
+
+## Skill Bonuses
+- Blunt
+- Speechcraft
+- Light Armor
+- Mercantile
+- Sneak
+- Hand To Hand
+- Marksman
+- Unarmored
+
+## Specialization
+- Combat

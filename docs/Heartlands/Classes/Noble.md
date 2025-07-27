@@ -1,4 +1,19 @@
 # Noble
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Speed
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Light Armor
+- Mercantile
+- Speechcraft
+- Hand To Hand
+- Alchemy
+- Long Blade
+
+## Specialization
+- Combat

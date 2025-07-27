@@ -1,4 +1,19 @@
 # Commoner
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Personality
+- Endurance
+
+## Skill Bonuses
+- Alchemy
+- Mercantile
+- Block
+- Blunt
+- Hand To Hand
+- Unarmored
+- Speechcraft
+- Sneak
+
+## Specialization
+- Stealth

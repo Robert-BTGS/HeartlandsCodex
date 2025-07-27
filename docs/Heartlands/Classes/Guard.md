@@ -1,4 +1,19 @@
 # Guard
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- Long Blade
+- Block
+- Blunt
+- Hand To Hand
+- Heavy Armor
+- Unarmored
+- Speechcraft
+- Marksman
+
+## Specialization
+- Combat

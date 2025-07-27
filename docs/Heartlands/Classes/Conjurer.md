@@ -1,4 +1,19 @@
 # Conjurer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Willpower
+
+## Skill Bonuses
+- Short Blade
+- Alteration
+- Sneak
+- Conjuration
+- Speechcraft
+- Destruction
+- Illusion
+- Restoration
+
+## Specialization
+- Magic

@@ -1,4 +1,19 @@
 # Witch
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Luck
+
+## Skill Bonuses
+- Short Blade
+- Speechcraft
+- Light Armor
+- Conjuration
+- Alchemy
+- Herbology
+- Illusion
+- Alteration
+
+## Specialization
+- Magic

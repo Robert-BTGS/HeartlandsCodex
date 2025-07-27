@@ -1,4 +1,19 @@
 # Blade
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- Long Blade
+- Short Blade
+- Block
+- Blunt
+- Heavy Armor
+- Sneak
+- Hand To Hand
+- Unarmored
+
+## Specialization
+- Combat

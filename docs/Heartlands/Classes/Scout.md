@@ -1,4 +1,19 @@
 # Scout
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- Short Blade
+- Blunt
+- Hand To Hand
+- Light Armor
+- Heavy Armor
+- Mercantile
+- Long Blade
+- Alchemy
+
+## Specialization
+- Combat

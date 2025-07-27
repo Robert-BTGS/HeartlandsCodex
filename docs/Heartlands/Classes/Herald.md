@@ -1,4 +1,19 @@
 # Herald
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Personality
+
+## Skill Bonuses
+- Short Blade
+- Hand To Hand
+- Light Armor
+- Mercantile
+- Marksman
+- Unarmored
+- Long Blade
+- Speechcraft
+
+## Specialization
+- Combat

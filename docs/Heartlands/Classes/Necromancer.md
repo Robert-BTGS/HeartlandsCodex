@@ -1,4 +1,19 @@
 # Necromancer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Willpower
+
+## Skill Bonuses
+- Blunt
+- Restoration
+- Short Blade
+- Conjuration
+- Alchemy
+- Destruction
+- Sneak
+- Alteration
+
+## Specialization
+- Magic

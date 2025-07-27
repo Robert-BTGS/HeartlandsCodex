@@ -1,4 +1,19 @@
 # Champion
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Strength
+- Strength
+
+## Skill Bonuses
+- Blunt
+- Block
+- Sneak
+- Speechcraft
+- Unarmored
+- Hand To Hand
+- Alchemy
+- Mercantile
+
+## Specialization
+- Combat

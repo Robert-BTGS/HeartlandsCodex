@@ -1,4 +1,19 @@
 # Priest
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Personality
+
+## Skill Bonuses
+- Blunt
+- Alchemy
+- Restoration
+- Conjuration
+- Speechcraft
+- Herbology
+- Block
+- Alteration
+
+## Specialization
+- Magic

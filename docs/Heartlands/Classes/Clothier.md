@@ -1,4 +1,19 @@
 # Clothier
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Speed
+
+## Skill Bonuses
+- Blunt
+- Block
+- Repair
+- Sneak
+- Speechcraft
+- Hand To Hand
+- Unarmored
+- Mercantile
+
+## Specialization
+- Stealth

@@ -1,4 +1,19 @@
 # Guard Battlemage
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Strength
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Light Armor
+- Restoration
+- Heavy Armor
+- Destruction
+- Sneak
+- Long Blade
+
+## Specialization
+- Combat

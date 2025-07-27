@@ -1,4 +1,19 @@
 # Pauper
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Luck
+
+## Skill Bonuses
+- Blunt
+- Block
+- Hand To Hand
+- Mercantile
+- Sneak
+- Speechcraft
+- Alchemy
+- Short Blade
+
+## Specialization
+- Stealth

@@ -1,4 +1,19 @@
 # Farmer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Personality
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Blunt
+- Hand To Hand
+- Marksman
+- Speechcraft
+- Unarmored
+- Axe
+
+## Specialization
+- Combat

@@ -1,4 +1,19 @@
 # Bandit Boss
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Strength
+- Willpower
+
+## Skill Bonuses
+- Alteration
+- Block
+- Light Armor
+- Mercantile
+- Sneak
+- Hand To Hand
+- Short Blade
+- Marksman
+
+## Specialization
+- Combat

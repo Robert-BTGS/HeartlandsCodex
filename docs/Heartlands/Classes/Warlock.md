@@ -1,4 +1,19 @@
 # Warlock
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Willpower
+- Luck
+
+## Skill Bonuses
+- Short Blade
+- Restoration
+- Light Armor
+- Enchanting
+- Alchemy
+- Destruction
+- Illusion
+- Wand
+
+## Specialization
+- Magic

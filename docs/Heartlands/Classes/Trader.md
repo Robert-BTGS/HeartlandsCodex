@@ -1,4 +1,19 @@
 # Trader
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Personality
+
+## Skill Bonuses
+- Blunt
+- Block
+- Mercantile
+- Sneak
+- Speechcraft
+- Repair
+- Axe
+- Hand To Hand
+
+## Specialization
+- Stealth

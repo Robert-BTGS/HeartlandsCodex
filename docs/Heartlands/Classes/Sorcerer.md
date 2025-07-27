@@ -1,4 +1,19 @@
 # Sorcerer
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Endurance
+
+## Skill Bonuses
+- Alchemy
+- Restoration
+- Wand
+- Conjuration
+- Heavy Armor
+- Destruction
+- Staff
+- Alteration
+
+## Specialization
+- Magic

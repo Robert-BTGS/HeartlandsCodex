@@ -1,4 +1,19 @@
 # Forgemaster
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- ALchemy
+- Blunt
+- Axe
+- Restoration
+- Heavy Armor
+- Repair
+- Speechcraft
+- Unarmored
+
+## Specialization
+- Combat

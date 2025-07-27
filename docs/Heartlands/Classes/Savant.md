@@ -1,4 +1,19 @@
 # Savant
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Intelligence
+- Personality
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Alchemy
+- Mercantile
+- Speechcraft
+- Long Blade
+- Hand To Hand
+- Sneak
+
+## Specialization
+- Stealth

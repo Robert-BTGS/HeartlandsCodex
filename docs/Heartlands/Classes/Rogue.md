@@ -1,4 +1,19 @@
 # Rogue
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Personality
+- Speed
+
+## Skill Bonuses
+- Short Blade
+- Block
+- Alchemy
+- Speechcraft
+- Light Armor
+- Herbology
+- Illusion
+- Mercantile
+
+## Specialization
+- Combat

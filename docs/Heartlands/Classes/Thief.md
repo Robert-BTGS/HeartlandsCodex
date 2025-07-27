@@ -1,4 +1,19 @@
 # Thief
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Speed
+
+## Skill Bonuses
+- Marksman
+- Mercantile
+- Light Armor
+- Sneak
+- Speechcraft
+- Repair
+- Short Blade
+- Hand To Hand
+
+## Specialization
+- Stealth

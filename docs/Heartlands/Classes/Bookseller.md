@@ -1,4 +1,19 @@
 # Bookseller
 
 
-All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.
+## Favored Attributes
+- Endurance
+- Strength
+
+## Skill Bonuses
+- Blunt
+- Block
+- Hand To Hand
+- Unarmored
+- Speechcraft
+- Sneak
+- Illusion
+- Mercantile
+
+## Specialization
+- Stealth
