@@ -1,5 +1,6 @@
 # Noble
 
+Nobles rule through lineage, wealth, and influence, entangled in endless politics. Their decisions ripple through villages and battlefields alike. 
 
 ## Favored Attributes
 - Willpower

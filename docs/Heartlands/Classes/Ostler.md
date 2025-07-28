@@ -1,5 +1,6 @@
 # Ostler
 
+Ostlers tend stables and caravans, ensuring horses and wagons are battle-ready. They are unsung heroes of travel and commerce. 
 
 ## Favored Attributes
 - Endurance

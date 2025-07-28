@@ -1,5 +1,6 @@
 # Knight
 
+Knights embody honor, duty, and martial prowess. Sworn to protect their lords and lands. Their oaths bind them as much as their swords.
 
 ## Favored Attributes
 - Personality

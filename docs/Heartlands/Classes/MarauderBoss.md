@@ -1,5 +1,6 @@
 # Marauder Boss
 
+Commanding brutal warbands, Marauder Bosses are feared leaders of chaos. Their cunning and cruelty make them dangerous foes. 
 
 ## Favored Attributes
 - Willpower

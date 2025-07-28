@@ -1,5 +1,6 @@
 # Sorcerer
 
+Sorcerers wield innate magic coursing through their blood, unpredictable and wild. Unlike Mages, they rely on raw instinct rather than study, making their power both dangerous and awe-inspiring. 
 
 ## Favored Attributes
 - Intelligence

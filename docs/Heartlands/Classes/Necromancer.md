@@ -1,5 +1,6 @@
 # Necromancer
 
+Necromancers wield forbidden magic, commanding the dead to serve their will. Feared by all, they walk the line between life and death, drawing power from decay. 
 
 ## Favored Attributes
 - Intelligence

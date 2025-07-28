@@ -1,5 +1,6 @@
 # Herald
 
+Heralds bear the banners and proclamations of kings and lords. They deliver news, issue challenges, and announce victories in booming voices.
 
 ## Favored Attributes
 - Intelligence

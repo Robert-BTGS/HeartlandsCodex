@@ -1,5 +1,6 @@
 # Clothier
 
+Clothiers craft fine garments for nobles and practical attire for travelers. They blend artistry with utility, ensuring heroes are as prepared for court as they are for combat. 
 
 ## Favored Attributes
 - Intelligence

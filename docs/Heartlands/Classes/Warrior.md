@@ -1,5 +1,6 @@
 # Warrior
 
+Warriors are the backbone of any army, known for strength and resilience. They face danger head-on, wielding heavy weapons and unyielding courage. 
 
 ## Favored Attributes
 - Endurance

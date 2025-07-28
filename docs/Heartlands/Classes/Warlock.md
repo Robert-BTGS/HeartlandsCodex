@@ -1,5 +1,6 @@
 # Warlock
 
+Warlocks strike pacts with dark entities, trading service for forbidden power. Their magic is tainted by otherworldly whispers and shadowy bargains. 
 
 ## Favored Attributes
 - Willpower

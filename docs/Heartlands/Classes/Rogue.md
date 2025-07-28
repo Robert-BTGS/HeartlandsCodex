@@ -1,5 +1,6 @@
 # Rogue
 
+Clever and resourceful, Rogues survive on cunning rather than brute force. They slip through defenses, exploit weaknesses, and strike at the perfect moment. 
 
 ## Favored Attributes
 - Personality

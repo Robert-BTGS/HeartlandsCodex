@@ -1,5 +1,6 @@
 # Guard Archer
 
+Guard Archers protect cities from high walls, raining arrows on invaders. Their discipline and aim make them indispensable during sieges. 
 
 ## Favored Attributes
 - Speed

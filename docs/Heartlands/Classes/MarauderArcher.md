@@ -1,5 +1,6 @@
 # Marauder Archer
 
+These raiders rain arrows in chaotic assaults, covering their allies’ brutal charges. Their lack of discipline is offset by sheer ferocity. 
 
 ## Favored Attributes
 - Speed

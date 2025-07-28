@@ -1,5 +1,6 @@
 # Forgemaster
 
+Masters of the forge, they craft weapons and armor worthy of legends. Their creations hold both artistry and strength.
 
 ## Favored Attributes
 - Endurance

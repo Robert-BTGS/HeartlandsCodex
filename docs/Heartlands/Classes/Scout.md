@@ -1,5 +1,6 @@
 # Scout
 
+Scouts are swift adventurers skilled in tracking and reconnaissance. They range far ahead of armies, gathering vital intelligence and striking with speed. 
 
 ## Favored Attributes
 - Endurance

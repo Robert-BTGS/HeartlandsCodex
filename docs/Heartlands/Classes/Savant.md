@@ -1,5 +1,6 @@
 # Savant
 
+Savants are scholars whose vast knowledge grants them strange and unexpected powers. They uncover hidden truths of the world and twist them into practical magic. 
 
 ## Favored Attributes
 - Intelligence

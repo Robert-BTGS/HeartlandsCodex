@@ -1,5 +1,6 @@
 # Marauder
 
+Savage and relentless, Marauders raid villages and caravans without mercy. Their warbands spread chaos wherever they roam. 
 
 ## Favored Attributes
 - Endurance
