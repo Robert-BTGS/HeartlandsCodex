@@ -1,4 +1,3 @@
 # Illusion
 
-All the information about the schools of magic
-
+create light, conceal, charm, paralyze or alter

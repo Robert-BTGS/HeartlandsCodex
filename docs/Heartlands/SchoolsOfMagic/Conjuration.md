@@ -1,4 +1,3 @@
 # Conjuration
 
-All the information about the schools of magic
-
+art of summoning creatures from other planes

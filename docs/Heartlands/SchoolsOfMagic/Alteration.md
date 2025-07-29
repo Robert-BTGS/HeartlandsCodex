@@ -1,4 +1,3 @@
 # Alteration
 
-All the information about the schools of magic
-
+altering the physical world
