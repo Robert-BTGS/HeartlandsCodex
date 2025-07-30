@@ -1,6 +1,3 @@
 # Ghost
 
-
-
-This page is incomplete! 
-
+Ghosts are the lingering remnants of souls bound to the mortal realm, their skeletal forms draped in tattered, ethereal robes that drift like smoke. They glide silently through the air, their hollow eye sockets glowing faintly with a cold, unnatural light. Drawn to places of tragedy and unrest, ghosts feed on fear, sapping warmth and life from those who cross their path. Their touch chills to the bone, and their wails can unravel the courage of even the bravest warriors. Though many are mindless echoes of the dead, some retain fragments of their former selves—twisting memory and regret into a vengeful will that refuses to fade.
