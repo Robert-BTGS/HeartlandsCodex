@@ -1,7 +1,4 @@
 # Birds
-Chicken: While humble on the outside, they are keen-eyes swentinels, quick to sound their alarm at the first sign of nature. Their crests blaze crimson like a warriors helm and their sharp beaks and clawed feet  belie a surprising ferocity when defending their brood. In certain folk tales, white feathered hens are said to ward off evil spirits. 
 
-Legends whisper of chickens that drink moonlight, laying eggs of silver or gold, guarded fiercely from theives and tricksters. 
-
-
+Birds are the sky’s restless wanderers, from sparrows and finches that spread seeds and song to raptors that ride the wind with piercing eyes and razor talons. Seen as divine messengers in many cultures, they can be fierce defenders of their nests, swarming intruders in a flurry of beaks and claws. In the arena, trained war‑hawks and hunting falcons are prized for their speed and precision, striking to blind or disorient in a heartbeat.
 

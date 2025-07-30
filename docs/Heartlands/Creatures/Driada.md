@@ -1,7 +1,5 @@
 # Driada
 
+Driada are mystical guardians of the forest, their forms a graceful blend of woman and tree. Their skin bears the texture and hue of living bark, while hair like cascading leaves shifts with the seasons—lush green in summer, fiery red in autumn, and bare branches in winter’s rest. They move with the stillness of deep woods, yet strike with the swiftness of wind through the canopy, wielding vines, roots, and thorned branches as living weapons. Driada are deeply bound to their chosen grove, drawing strength from the soil beneath them and the ancient trees around them.
 
-
-
-This page is incomplete! 
-
+Corrupted Driada are forest guardians twisted by blight, shadow magic, or the lingering touch of death. Their once‑lush foliage withers to blackened thorns, and their bark‑like skin splits to reveal oozing sap the color of dried blood. Where they walk, grass shrivels and roots curl away, and their whispers carry promises of despair. No longer protectors, these beings lure intruders deeper into the woods, only to ensnare them in vines that drain life until nothing remains but husk and bone.
