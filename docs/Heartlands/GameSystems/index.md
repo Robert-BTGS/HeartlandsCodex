@@ -1,3 +1,3 @@
 # Game Systems
 
-ALl of the systems in the game.... there are many
+All of the systems in the game.... there are many

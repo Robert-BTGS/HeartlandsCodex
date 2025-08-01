@@ -1,4 +1,4 @@
 # NPCs
 
-All the inofrmation about all the non player chracters you will meet around the world.
+All the information about all the non player chracters you will meet around the world.
 
