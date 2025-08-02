@@ -1,10 +1,4 @@
 # Attributes
 
 
-Strength
-Speed
-Endurance
-Intelligence
-Willpower
-Personality
-Luck
+These are the attributes that govern your affectiveness with skills.
