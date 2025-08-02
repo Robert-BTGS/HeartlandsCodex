@@ -20,9 +20,9 @@ Pale people from the Pale Wastes, far to the north of the Kadian Empire. They ar
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 0        | 0          | 10      | 5    | 5      | 10     | 0            | 0            |
+| Axe  | Block | Blunt  | Hand To Hand  | Heavy Armor | Long Blade  | Repair  | Short Blade  | Sneak |
+|------|------ |------  |------         |------       |------       |------   |------        | ----  |
+| 5    | 5     | 10     | 5             | 10          | 5           | 10      | 5            | 5     |
 
 
 ## Resistences

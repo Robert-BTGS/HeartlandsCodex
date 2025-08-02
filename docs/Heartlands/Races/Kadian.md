@@ -20,9 +20,9 @@ Learns quickly. Ancient. The oldest civilization in the Empire. Thinks themselve
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 0        | 10         | 0       | 0    | 0      | 0      | 5            | 10           |
+| Alteration  | Conjuration | Destruction  | Enchanting  | Illusion  | Restoration  | Short Blade  | Staff  | Wand |
+|------       |------       |------        |------       |------     |------        |------        |------  |---   |
+| 10          | 10          | 10           | 5           | 5         | 5            | 5            | 10     | 5    |
 
 ## Resistences
  - Magic Effectiveness +25%

@@ -21,9 +21,11 @@ Desert dwellers who are born into a strict caste system that leaves little room 
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 5        | 0          | 0       | 0    | 0      | 0      | 0            | 0            |
+| Alchemy  | Hand To Hand | Illusion  | Long Blade  | Mercantile  | Restoration  | Short Blade  | Sneak  | Speechcraft |
+|------    |------        |------     |------       |------       |------        |------        |------  | ---         |
+| 5        | 5            | 5         | 5           | 10          | 5            | 5            | 5      | 10          |
+|Unarmored |
+| 5        |
 
 
 ## Resistences

@@ -21,9 +21,12 @@ Unique in their heritage, these island dwellers adhere to their matriarchal mona
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |---         |------   |------|------  |------  |------        |------        |
-| 5        | 5          | 0       | 10   | 0      | 0      | 0            | 5            |
+| Alchemy  | Alteration | Axe  | Destruction  | Enchanting | Heavy Armor | Long Blade | Marksman | Mercantile | Speechcraft | 
+|------    |---         |------|------        |------      |-------------|------------|----------|------------|-------------|
+| 5        | 5          | 10   | 5            |5           |5            | 5          | 5        | 5          | 5           |
+| Staff |
+| 5     |
+
 
 ## Resistences
  - Magic +25%

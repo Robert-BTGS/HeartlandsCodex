@@ -21,9 +21,9 @@ Peaceful and spiritual mountainfolk that walk the line between their cousins’ 
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 10       | 0          | 0       | 0    | 5      | 0      | 5            | 0            |
+| Alchemy  | Block | Conjuration  | Enchanting  | Hand To Hand  | Illusion  | Staff  | Unarmored  | Wand |
+|------    |------ |------        |------       |------         |------     |------  |------      |----  |
+| 10       | 5     | 5            | 5           | 10            | 5         | 5      | 10         | 5    |
 
 
 ## Resistences

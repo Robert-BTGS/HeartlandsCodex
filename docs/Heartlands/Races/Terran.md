@@ -20,9 +20,9 @@ Usually, you can find these people plying their skills as humble farmers and lab
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 0        | 0          | 5       | 0    | 5      | 5      | 0            | 0            |
+| Block  | Blunt | Heavy Armor  | Herbology  | Light Armor  | Marksman  | Mercantile  | Repair  | Restoration | Sneak |
+|------  |------ |------        |------      |------        |------     |------       |------   | ---------   | ----- |
+| 5      | 5     | 5            | 10         | 5            | 10        | 5           | 5       | 5           | 5     |
 
 
 ## Resistences

@@ -21,9 +21,9 @@ Disparate jungle dwellers who believe they descend from the destroyer gods from 
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Repair  | Axe  | Block  | Blunt  | Conjuration  | Destruction  |
-|------    |------      |------   |------|------  |------  |------        |------        |
-| 0        | 0          | 5       | 0    | 0      | 0      | 10           | 5            |
+| Conjuration  | Destruction | Herbology  | Light Armor  | Marksman  | Repair  | Short Blade  | Sneak  | Wand |
+|------        |------       |------      |------        |------     |------   |------        |------  |      |
+| 10           | 5           | 10         | 10           | 5         | 5       | 5            | 5      | 5    |
 
 ## Resistences
  - Poison +25%
