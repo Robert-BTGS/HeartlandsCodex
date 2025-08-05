@@ -1,4 +1,4 @@
-# Didren Gods
+# Didreinic Gods
 
 ## The Bad Gods:
 

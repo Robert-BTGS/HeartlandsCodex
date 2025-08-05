@@ -1,4 +1,4 @@
-# Adren Gods
+# Adreinic Gods
 
 ## The Good Gods:
 
