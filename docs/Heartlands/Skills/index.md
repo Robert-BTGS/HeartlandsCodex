@@ -26,5 +26,5 @@ Staff
 Unarmored
 Wand
 
-
+Add perks to each.
 

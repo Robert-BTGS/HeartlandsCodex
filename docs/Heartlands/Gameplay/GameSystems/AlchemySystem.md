@@ -1,3 +1,5 @@
 # Alchemy System
 
-The art of potion making
+The art of potion making.
+
+Add recipes here.
