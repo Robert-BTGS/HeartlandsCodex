@@ -21,7 +21,7 @@ What holds the shape of a world? What laws bind weight to stone, or breath to fl
 * Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
 * Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
 * Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
+* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells.
 * Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
 * Master Alteration: Lvl 125, tier 5 spells.
 

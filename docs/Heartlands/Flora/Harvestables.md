@@ -6,7 +6,7 @@
 
 * Hustlewort: restore health, damage magic, fortify personality
 
-* BlueBell: restore health, fortify endurance, damage strength
+* Blue Bell: restore health, fortify endurance, damage strength
 
 * Cornflower: restore magic, restore health, restore speed
 

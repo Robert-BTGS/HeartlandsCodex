@@ -1,6 +1,6 @@
 # Mages Guild
 
-Guild Ranks and quests
+## Guild Ranks and quests
 
 Mage Initiate:
 Quest: Find a tome containing a basic illumination spell and use it to navigate a dark, enchanted library to find a book.

@@ -16,7 +16,7 @@ Forged for survival, born of labor. The axe is not a weapon of finesse—it is a
 * Bloodlust: Lvl 30, you deal 6% bonus damage for every 1% of your missing health.
 * Jagged Edge: Lvl 40, 50% chance to apply bleed to enemies when using axes.
 * Rending Strikes: Lvl 50, attacks with axes deplete more item health from armor.
-* Bloodfury: Lvl 60, you deal 12% bonus damage for every 1% of 
+* Bloodfury: Lvl 60, you deal 12% bonus damage for every 1% of your missing health.
 * Serrated Edge: Lvl 70, bleeding applied with axes last 50% longer.
 * Slightly Rusty: Lvl 80, 10-40% chance to poison based on axe durability.
 * Bloodrage: Lvl 90, you deal bonus damage to injured enemies while weilding axes.
