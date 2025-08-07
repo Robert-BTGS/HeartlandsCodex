@@ -1,30 +1,7 @@
 # Skills
 
 
-Alchemy
-Alteration
-Axe
-Block
-Blunt
-Conjuration
-Destruction
-Enchanting
-Hand To Hand
-Heavy Armor
-Herbology
-Illusion
-Light Armor
-Long Blade
-Marksman
-Mercantile
-Repair
-Restoration
-Short Blade
-Sneak
-Speechcraft
-Staff
-Unarmored
-Wand
+These are the skills that make up your character. They include major, minor and miscellaneous skills, depending upon your class.
 
 
 

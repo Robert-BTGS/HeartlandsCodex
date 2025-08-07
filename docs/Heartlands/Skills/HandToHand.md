@@ -11,18 +11,18 @@ Muscle and bone, driven by instinct, shaped through trial. Hand-to-Hand combat s
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Firm Grip: Lvl 10, You are much less likely to be disarmed when using knuckle weapons.
+* Rhythm of Battle: Lvl 20, When you kill an enemy with your fists you gain back 5 percent of your health.
+* Cheap Shot: Lvl 30, When starting each combat encounter with just fists you deal an extra 10 percent damage until you take damage.
+* Scrappy: Lvl 40, Hand to hand weapons have a 10 percent chance to apply bleeding damage.
+* Bellringer: Lvl 50, 25% chance to knock off an opponents headgear with hand to hand weapons.
+* Defensive Maneuvers: Lvl 60, Activate time dilation more often.
+* Soul Strike: Lvl 70, fist attacks are considered silvered.
+* Brawlstar: Lvl 80, While fighting with only your fists you do 20 percent more damage and take 25 percent less damage.
+* Knuckle Duster: Lvl 90, High chance to disarm when hitting opponents hands.
+* Knockout: Lvl 100, 50 percent chance to ragdoll an enemy if you punch them in the head.
+* Pressure Point: Lvl 110, When attacking with just your fists you ignore 30 percent of light armor.
+* Punching Up: Lvl 120, When attacking with hand to hand weapons you ignore 30 percent of heavy armor.
+* Perfect strikes: Lvl 125, Percentage chance to inflict Catatonic; paralyzed, silenced, and has their magic drained.
 
 
