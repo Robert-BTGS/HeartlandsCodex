@@ -3,22 +3,22 @@
 
 Words are the sword, sharp with wit. Guile is your hammer, blunt yet precise. Charm is your armor, turning foe to friend.
 
-Speech is a weapon, wielded with poise or provocation. A master of eloquence knows that wit cuts, guile bludgeons, and charm deflects with ease. Every conversation becomes a contest of intent—subtle, shifting, and sharp. Whether soothing tempers or steering decisions, mastery lies not in volume, but in precision. Influence is not granted—it is claimed.
+Speech is a weapon, wielded with poise or provocation. A master of eloquence knows that wit cuts, guile bludgeons, and charm deflects with ease. Every conversation becomes a contest of intent, subtle, shifting, and sharp. Whether soothing tempers or steering decisions, mastery lies not in volume, but in precision. Influence is not granted, it is claimed.
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Grease the Wheels: Lvl 10, Able to bribe NPCs, bypassing the disposition game.
+* Read the Room: Lvl 20, NPCs have facial responses to putting player hand over a card.
+* The Benefit of Doubt: Lvl 30, Negate negative starting disposition based on race.
+* Hear me out: Lvl 40, Disposition decreases more slowly over time while persuading a character.
+* Well Known: Lvl 50, You get +5 disposition with all NPCs.
+* You don’t say?!: Lvl 60, Player has a chance to double positive disposition gains.
+* Street Cred: Lvl 70, Bribes are significantly cheaper.
+* Did you hear that?: Lvl 80, Persuading someone to their max will also give a small boost in disposition to everyone within a radius.
+* Very Charismatic: Lvl 90, All interactions have a +1 to their base effectiveness.
+* Take your time: Lvl 100, Disposition no longer decreases over time while persuading.
+* What I meant to say was…: Lvl 110, Chance based on player’s luck to ignore the disposition effect of the first negative response when interacting with an NPC.
+* Friend Shaped: Lvl 120, Removes hated interactions while persuading.
+* Big Reputation: Lvl 125, You get +30 disposition with all NPCs.
 
 
