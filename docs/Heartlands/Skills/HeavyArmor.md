@@ -11,18 +11,18 @@ Armor is not merely protection, but principle. Each chain, each fitted piece is 
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Durable: Lvl 10, 5% of damage received while wearing heavy armor is reflected as durability damage on the attackers weapon.
+* Fluted Armor: Lvl 20, When wearing a full set of heavy armor arrows are more likely to be reflected.
+* Sure Footing: Lvl 30, Heavy armor no longer slows you down.
+* Matching Set: Lvl 40, If wearing a matching set of armor the armor rating is increased by 10 percent.
+* Power House: Lvl 50, Hand to hand damage dealt when wearing heavy armor gauntlets is increased by 25 percent.
+* Spiked Armor: Lvl 60, When hitting player with melee attack, enemies take damage.
+* Thick Plates: Lvl 70, Your armor takes 30 percent less durability damage.
+* Athlete: Lvl 80, Reduced weight of full sets of heavy armor.
+* Resonance Ward: Lvl 90, 10% magic resist when wearing full set of heavy armor.
+* Perfect Fit: Lvl 100, Wearing a full set of heavy armor has no weight.
+* Armored Arcanist: Lvl 110, Armor reduction from heavy armor to spell effectiveness is reduced 50%.
+* Contingency: Lvl 120, Gain invulnerability when dropping to 10% health.
+* Brace for Impact: Lvl 125, While stationary you take 50 percent less damage.
 
 

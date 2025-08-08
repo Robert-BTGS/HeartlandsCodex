@@ -5,22 +5,22 @@ Beguile the minds and betray the senses of even the keenest folk. Perception is 
 
 A subtle, more practiced approach to magic. Illusion focuses on manipulating perception, emotion, and thought. There are those who see this as deception, but is that truly their own belief? Or a seed of doubt planted there by an outsider?
 
-A practiced distortion of truth, Illusion weaves doubt into certainty, sound into silence, presence into absence. Its spells manipulate sight, thought, and emotion—not through brute force, but suggestion. Often mistaken for deception, it is instead a reshaping of experience itself. Whether confusion, calm, or charm, the result is the same: what was never there now feels undeniable.
+A practiced distortion of truth, Illusion weaves doubt into certainty, sound into silence, presence into absence. Its spells manipulate sight, thought, and emotion; not through brute force, but suggestion. Often mistaken for deception, it is instead a reshaping of experience itself. Whether confusion, calm, or charm, the result is the same: what was never there now feels undeniable.
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Trickster: Lvl 10, Illusion spells last 5% longer.
+* Phantom Terror: Lvl 20, Demoralize and frenzy effects reduce magic resistance by 15%.
+* Moonchild: Lvl 30, Gain bonus to illusion during night.
+* Apprentice Illusion: Lvl 40, tier 2 spells.
+* Malevolence: Lvl 50, Apply two illusion effects to the same target.
+* Mage Bane: Lvl 60, When any illusion effect ends in combat the target is silenced for 10 seconds.
+* Journeyman Illusion: Lvl 70, tier 3 spells.
+* Lasting Impression: Lvl 80, Calming or Charming someone has a chance to result in a small permanent disposition buff.
+* Unseen Influence: Lvl 90, You can cast illusion spells without breaking invisibility.
+* Expert Illusion: Lvl 100, tier 4 spells.
+* Grand Deception: Lvl 110, Leave behind an illusion of yourself when killing an enemy.
+* Madness: Lvl 120, If you successfully cast demoralize or frenzy on target, it lowers their skills by 50% for the duration of the effect.
+* Master Illusion: Lvl 125, tier 5 spells.
 
 

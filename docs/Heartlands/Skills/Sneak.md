@@ -3,22 +3,22 @@
 
 The art of going unnoticed and undetected. Disappear in crowds, meld with shadows, and catch your foes off guard.
 
-Sneak is the discipline of becoming less than—less than ambient sound, less presence than your form would imply, less certainty than light and dark. Crowds conceal, shadows embrace, and movement becomes a whisper. It is not cowardice, but control: the art of reaching the heart of danger without ever being seen.
+Sneak is the discipline of becoming less than... less than ambient sound, less presence than your form would imply, less certainty than light and dark. Crowds conceal, shadows embrace, and movement becomes a whisper. It is not cowardice, but control: the art of reaching the heart of danger without ever being seen.
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Sneak Attack: Lvl 10, Attacks from stealth do 2x damage.
+* Weakpoint: Lvl 20, Sneak attacks ignore a very slight amount of armor.
+* Padfoot: Lvl 30, Your speed is not reduced while sneaking.
+* Nocturnal: Lvl 40, You become significantly harder to detect at night.
+* Nerve strike: Lvl 50, Sneak attacks have a slight chance to paralyze enemies.
+* Fatal Blow: Lvl 60, Sneak Attacks do 5x damage.
+* Muted Casting: Lvl 70, The first spell cast while sneaking does not make noise.
+* Shade: Lvl 80, Enter time dilation when entering stealth.
+* Light on your toes: Lvl 90, You report no noise events for walking event when not crouching.
+* Ghostveil: Lvl 100, Enter time dilation when 50% detected while sneaking.
+* Spectre: Lvl 110, Become invisible for a short time when sneaking.
+* Reaper: Lvl 120, Sneak attacks do not make noise.
+* Phantom Blade: Lvl 125, Chance to instantly kill when sneak attacking.
 
 

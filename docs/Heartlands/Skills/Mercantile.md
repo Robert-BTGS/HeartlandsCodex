@@ -3,22 +3,22 @@
 
 Commerce is your bread and butter. You know how to barter beyond just coins with kind words, a good reputation, and influence.
 
-Commerce is more than coin—it is conversation, timing, and charisma. This discipline measures worth more than gold, taking into account reputation, and influence as a currency of their own. Skilled merchants know when to speak, when to wait, and when it may be better to take a loss. Every trade is a game of advantage, and the board is ever shifting.
+Commerce is more than coin, it is conversation, timing, and charisma. This discipline measures worth more than gold, taking into account reputation, and influence as a currency of their own. Skilled merchants know when to speak, when to wait, and when it may be better to take a loss. Every trade is a game of advantage, and the board is ever shifting.
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Good eye: Lvl 10, You find 10% more gold in containers.
+* Play the Odds: Lvl 20, Slight chance to gain increased gold from successful arena bets.
+* Very persuasive: Lvl 30, Misc items that would normally be worthless can be sold for 1 gold.
+* Flea Market: Lvl 40, Item durability no longer affects the items’ value.
+* Investor: Lvl 50, Allows you to give merchants up to 500 gold to increase their standard buying baseline.
+* Anything for a Sale: Lvl 60, Can sell any kind of item to any kind of vendor.
+* Bulk Order: Lvl 70, when buying 10 or more things of the same skill or type you get a discount.
+* Charm Sale: Lvl 80, Selling Enchanted items that are depleted will no longer affect their value.
+* Economics: Lvl 90, All Vendors in the world have 500 more gold baseline to barter with.
+* This looks cracked…: Lvl 100,High value items have a chance to drop 10% in cost.
+* Better than new!: Lvl 110, Items you repair over 100 percent are worth more.
+* Equivalent Exchange: Lvl 120, Buy and sell Items at base cost.
+* No Questions Asked: Lvl 125, Sell stolen items to any vendor.
 
 

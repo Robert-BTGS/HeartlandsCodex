@@ -7,18 +7,18 @@ A craft passed down through hunters and rangers. Marksmanship turns distance int
 
 # Perks
 
-* Defense Proficiency: Lvl 10, shields last slightly longer.
-* Spell Efficiency: Lvl 20, alteration spells cost 10% less to cast.
-* Defense Mastery: Lvl 30, shield spells are slightly more resistant.
-* Apprentice Alteration: Lvl 40, tier 2 spells.
-* Breaking and Entering: Lvl 50, lockpicking spells no longer make a sound.
-* Weight of Worlds: Lvl 60, burden spells have a chance to paralyze their target.
-* Journeyman Alteration: Lvl 70, tier 3 spells.
-* Persistent Change: Lvl 80, alteration spells you cast last 30% longer.
-* Spell Penetration: Lvl 90, alteration spells that affect targets ignore 30% of target magic resist.
-* Expert Alteration: Lvl 100, tier 4 spells.
-* Arcane Adaptation: Lvl 110, you gain a slight resistance to damage from spells
-* Security Breach: Lvl 120, you can open doors and containers locked by mundane locks.
-* Master Alteration: Lvl 125, tier 5 spells.
+* Recycling: Lvl 10, 10 percent chance to be able to recover arrows from corpses.
+* Superior Fletching: Lvl 20, Arrow dropoff is slightly reduced.
+* Laminated Bowstring: Lvl 30, Durability loss is reduced by 25%.
+* Counter shot: Lvl 40, Hitting an archer with an arrow has a 10% to negate their accuracy for 5 seconds.
+* Scavenger: Lvl 50, 50% chance to recover arrows from corpses.
+* Headshot: Lvl 60, High increase to damage boost for head shots.
+* Armmolad: Lvl 70, Drawing and firing an arrow within 2 seconds deals 15% more damage.
+* Headhunter: Lvl 80, Headshots Blind and Paralyze the target for 3 seconds.
+* Pincushion: Lvl 90, Chest hits with arrows have chance to ragdoll, and arm hits have high chance to disarm.
+* Shadow shot: Lvl 100, High chance to fire a second arrow.
+* Subtle Shot: Lvl 110, Arrows make no sound on impacting non enemies.
+* Sniper’s Focus: Lvl 120, Drawing bow with arrow dilates time.
+* Fatal Shot: Lvl 125, Headshots kill target instantly.
 
 
