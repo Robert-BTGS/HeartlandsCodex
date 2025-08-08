@@ -1,4 +1,4 @@
 # Shackles
 
-Shackles are twisted, spectral jailers bound in rusted chains and fragments of broken manacles that rattle with every step. Their gaunt, unnatural forms seem half‑corporeal, flickering between shadow and substance as they move. Shackles stalk their prey with slow, deliberate menace before lashing out with barbed chains that coil around limbs, dragging victims into their cold, crushing embrace. Those ensnared feel their strength drained away, as if the weight of a lifetime’s sins were pressing upon them.
+Shackles are nightmarish plant beasts bound in rusted chains, their twisted, vine-woven bodies sprouting jagged thorns and coiling tendrils. At their core gapes a wide, jagged-petaled maw lined with hardened, root-like teeth, capable of snapping through bone and armor alike. The chains, half-buried in their fibrous flesh, drag along the ground with a constant metallic rattle, serving both as restraints and as weapons—whipping outward to ensnare prey before hauling it into the creature’s waiting mouth.
 
