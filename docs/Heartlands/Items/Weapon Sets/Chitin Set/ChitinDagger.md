@@ -1,5 +1,4 @@
 # Chitin Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+The powerful mandible of a razorgill makes for a strong blade.

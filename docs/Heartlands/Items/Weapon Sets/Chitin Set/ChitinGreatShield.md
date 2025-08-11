@@ -1,5 +1,4 @@
 # Chitin Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+The backplates of a razorgill offer a durable, but deceptively light shield.

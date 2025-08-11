@@ -1,5 +1,4 @@
 # Iron Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+An ideal weapon for soldiers and adventurers who need something dependable without the extravagance.

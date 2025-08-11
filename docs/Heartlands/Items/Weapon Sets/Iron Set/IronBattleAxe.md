@@ -1,5 +1,4 @@
 # Iron Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+An implement as capable at shattering bones as it is rending flesh.

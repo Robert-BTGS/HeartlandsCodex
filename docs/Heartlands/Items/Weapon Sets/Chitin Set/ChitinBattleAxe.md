@@ -1,5 +1,4 @@
 # Chitin Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+The razor-sharp gill of some sea-beast are wrought to an iron head, yielding a vicious weapon.

@@ -1,5 +1,4 @@
 # Iron Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Simple, deadly, effective. There is no need for pageantry when dealing in death.

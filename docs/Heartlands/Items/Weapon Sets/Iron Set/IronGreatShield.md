@@ -1,5 +1,4 @@
 # Iron Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A large, heavy thing that would be just as content as the door to a small fort as a personal shield.

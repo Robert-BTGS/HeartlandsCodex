@@ -1,5 +1,3 @@
 # Chitin Arrow
 
-
-All the information about all the items you might come across in the world of Heartlands.
-
+A cruel looking serrated tip is lashed to the end of this arrow's haft.

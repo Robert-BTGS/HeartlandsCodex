@@ -1,5 +1,4 @@
 # Chitin Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Thorax plating from the razorgill makes for a fine shield.

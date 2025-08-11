@@ -1,5 +1,4 @@
 # Iron Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Simple, yet effective. These are found far and wide because of the readily available materials.

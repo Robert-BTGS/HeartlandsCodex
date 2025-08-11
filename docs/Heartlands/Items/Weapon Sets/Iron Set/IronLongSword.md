@@ -1,5 +1,4 @@
 # Iron Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Reliable and easy to replace. This is a staple of frontier garrisons and small militias.

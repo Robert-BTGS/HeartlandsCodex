@@ -1,5 +1,4 @@
 # Iron Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A sturdy staff of forged iron, set with a large peridot to channel the arcane energies.

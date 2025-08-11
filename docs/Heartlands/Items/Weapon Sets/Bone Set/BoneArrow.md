@@ -1,4 +1,3 @@
-# Bone Arrow
+# Bone Arrow 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Grafters often use the scraps from their trade to fashion arrowheads and other trinkets.

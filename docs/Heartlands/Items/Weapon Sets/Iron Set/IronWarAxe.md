@@ -1,5 +1,4 @@
 # Iron War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Smaller than a battleaxe, but weighted to more easily use in a single hand, often with a shield in the other.

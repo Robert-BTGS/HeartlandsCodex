@@ -1,5 +1,4 @@
 # Iron Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Some have said that this style of shield is rough and unwieldy. They have also said they would rather have it than a straw mattress.

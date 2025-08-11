@@ -1,5 +1,4 @@
 # Chitin War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Sturdy joint plating from the razorgill makes for a versatile weapon.

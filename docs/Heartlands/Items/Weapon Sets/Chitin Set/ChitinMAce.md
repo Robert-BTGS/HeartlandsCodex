@@ -1,5 +1,4 @@
 # Chitin Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Some of the smaller leftovers from making other weapons has allowed for an effective mace.

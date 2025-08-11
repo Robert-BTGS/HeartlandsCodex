@@ -1,5 +1,4 @@
 # Iron Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+These often serve as visual deterrents to would be thieves and highwaymen. 

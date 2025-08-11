@@ -1,5 +1,4 @@
 # Iron Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A peridot is set in a hammered gold housing to allow the caster to focus their arcane powers through the wand.
