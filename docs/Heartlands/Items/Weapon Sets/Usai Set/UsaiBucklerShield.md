@@ -1,5 +1,5 @@
 # Usai Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The Usai Buckler Shield appears to be a small but sturdy round shield, designed for quick, agile defense.
 

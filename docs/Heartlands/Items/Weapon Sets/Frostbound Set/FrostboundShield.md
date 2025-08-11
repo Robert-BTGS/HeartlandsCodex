@@ -1,5 +1,5 @@
 # Frostbound Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Not just a tool of defense—it is a bulwark of winter itself, immovable and relentless.
 

@@ -1,4 +1,4 @@
 # Kadian Mace
 
-All the information about all the items you might come across in the world of Heartlands.
+The intricate details etched into the mace's head suggest a refined design, combining utility and artistry.
 

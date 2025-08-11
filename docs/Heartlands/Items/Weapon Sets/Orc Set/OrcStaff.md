@@ -1,5 +1,5 @@
 # Orc Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Serves as a powerful bludgeoning weapon and a symbol of authority among orc shamans and chiefs.
 

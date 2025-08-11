@@ -1,5 +1,5 @@
 # DiKadian Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though heavier than standard shields, its balanced design allows a stalwart bearer to anchor the front line
 

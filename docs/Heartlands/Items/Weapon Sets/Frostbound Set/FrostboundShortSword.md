@@ -1,5 +1,5 @@
 # Frostbound Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+When swung, it barely makes a sound, and its magic can dampen the heat of life around it
 

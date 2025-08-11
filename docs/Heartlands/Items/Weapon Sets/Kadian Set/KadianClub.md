@@ -1,5 +1,5 @@
 # Kadian Club
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The large, sturdy head is adorned with heavy metal studs, designed to smash through armor and shields with ease.
 

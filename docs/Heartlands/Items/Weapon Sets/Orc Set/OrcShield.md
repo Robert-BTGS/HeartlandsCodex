@@ -1,5 +1,5 @@
 # Orc Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The perfect defense for orcs on the frontlines, capable of enduring even the harshest strikes while maintaining offensive capability.
 

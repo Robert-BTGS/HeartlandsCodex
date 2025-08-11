@@ -1,5 +1,5 @@
 # Kyanite Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A finely crafted bow made from polished kyanite, reinforced with enchanted strings. Its elegance is matched only by its power, delivering arrows with both pinpoint accuracy and mystical force
 

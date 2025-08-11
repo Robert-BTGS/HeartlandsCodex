@@ -1,5 +1,5 @@
 # Kadian Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its elegant arc is forged from dark, polished wood that enhances both its beauty and strength, while a finely twisted string stretches across its body, poised for a swift release of arrows.
 

@@ -1,5 +1,5 @@
 # DiKadian Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Despite its size, the buckler’s design allows for swift movement and quick parries, making it ideal for those who favor agility over brute force
 

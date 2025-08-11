@@ -1,5 +1,5 @@
 # Frostbound Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its edge holds a razor‑sharp frostbite, capable of leaving wounds that burn with cold and slow the victim’s blood.
 

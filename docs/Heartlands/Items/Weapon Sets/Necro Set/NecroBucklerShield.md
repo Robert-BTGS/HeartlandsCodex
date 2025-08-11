@@ -1,5 +1,5 @@
 # Necro Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though compact, it radiates a necrotic aura that saps the strength of attackers, making it as offensive as it is defensive.
 

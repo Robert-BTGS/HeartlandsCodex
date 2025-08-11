@@ -1,5 +1,5 @@
 # Frostbound Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+They are an extension of the ice itself, turning the user’s hands into devastating tools of winter.
 

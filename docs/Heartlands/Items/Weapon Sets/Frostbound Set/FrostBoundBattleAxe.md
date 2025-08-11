@@ -1,5 +1,5 @@
 # Frostbound Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each swing carries the weight of a frozen storm, slowing enemies and sometimes locking their joints in place with sudden ice.
 

@@ -1,5 +1,5 @@
 # Viridium Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Swift and reliable, it’s perfect for close-quarters combat, with each strike delivering a subtle pulse of grounding energy to stagger foes.
 

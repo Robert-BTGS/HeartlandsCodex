@@ -1,5 +1,5 @@
 # Elven Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+When the moon rises, the blade sings its song—swift as the night breeze, sharp as a falling star
 

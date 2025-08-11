@@ -1,4 +1,4 @@
 # Bone Battle Axe
 
-All the information about all the items you might come across in the world of Heartlands.
+The remains of some great beast have been grafted to metal and wrought into an implement of war.
 

@@ -1,5 +1,5 @@
 # Necro Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It amplifies necromantic spells, allowing the wielder to summon, curse, and drain with terrifying potency.
 

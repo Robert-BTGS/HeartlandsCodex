@@ -1,5 +1,5 @@
 # Silver Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its sharp edge excels at both slashing and thrusting, and the silver makes it a formidable weapon against dark magic and creatures of the night.
 

@@ -1,5 +1,5 @@
 # Frostbound Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+When raised in battle or ritual, it summons storms of ice, stills flame, and cloaks allies in protective veils of cold.
 

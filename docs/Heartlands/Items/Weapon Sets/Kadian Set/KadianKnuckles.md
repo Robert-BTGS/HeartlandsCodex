@@ -1,5 +1,5 @@
 # Kadian Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Their reinforced structure and sharp ridges make them a deadly tool for delivering powerful punches that can crush armor and bone alike.
 

@@ -1,4 +1,4 @@
 # Bone Staff
 
-All the information about all the items you might come across in the world of Heartlands.
+Fangs and horns are revered by grafters, and that reverence can be seen in this staff.
 

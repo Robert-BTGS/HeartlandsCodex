@@ -1,5 +1,5 @@
 # Silver Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Light yet lethal, these knuckles are ideal for quick brawls and are particularly effective against supernatural enemies.
 

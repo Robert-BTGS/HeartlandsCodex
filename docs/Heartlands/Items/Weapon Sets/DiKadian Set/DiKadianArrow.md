@@ -1,4 +1,4 @@
 # DiKadian Arrow
 
-All the information about all the items you might come across in the world of Heartlands.
+A perfectly balanced arrow with a polished ash shaft, iron‑forged head, and carefully fletched hawk feathers
 

@@ -1,5 +1,5 @@
 # Kyanite Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A tall, elegant staff carved from pure kyanite, humming with arcane energy. Used by powerful mages, it channels spells with remarkable precision
 

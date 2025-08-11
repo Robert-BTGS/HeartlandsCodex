@@ -1,5 +1,5 @@
 # Elven Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Graceful in defense, reactive in battle, and often infused with spells that can deflect magic or bolster allies nearby.
 

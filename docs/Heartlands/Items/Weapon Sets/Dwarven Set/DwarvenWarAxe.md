@@ -1,5 +1,5 @@
 # Dwarven War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The axe head is heavy and broad, capable of splitting both shields and steel with a single, deliberate blow
 

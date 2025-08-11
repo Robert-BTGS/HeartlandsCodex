@@ -1,5 +1,4 @@
 # Usai Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+With its robust design, the Usai Mace is ideal for smashing through enemy defenses, making it a preferred choice for warriors who value brute force.

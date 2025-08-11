@@ -1,5 +1,5 @@
 # Dwarven Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though it lacks the elegance of elven design, it more than makes up for it with durability and raw, vicious functionality
 

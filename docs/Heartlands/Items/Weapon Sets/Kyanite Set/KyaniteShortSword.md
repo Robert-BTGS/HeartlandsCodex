@@ -1,5 +1,5 @@
 # Kyanite Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though compact, it carries a strong magical resonance that boosts the wielder’s speed and accuracy, making it deadly in skilled hands.
 

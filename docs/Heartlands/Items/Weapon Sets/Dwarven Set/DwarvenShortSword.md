@@ -1,5 +1,5 @@
 # Dwarven Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Designed more for effectiveness than elegance, this sword is a favorite among dwarven tunnel sentries, shield‑brothers, and vanguard skirmishers.
 

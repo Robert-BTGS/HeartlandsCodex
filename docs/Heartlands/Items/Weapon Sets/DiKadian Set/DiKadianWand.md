@@ -1,5 +1,5 @@
 # DiKadian Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Channels radiant fire, bright enough to blind foes or melt steel
 

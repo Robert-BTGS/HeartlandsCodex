@@ -1,5 +1,5 @@
 # Viridium Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each punch delivers a grounded shock, disrupting enemies’ balance and striking with the strength of stone.
 

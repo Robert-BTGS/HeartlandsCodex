@@ -1,5 +1,4 @@
 # Necro War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Designed for carnage, it tears through enemies while spreading a rotting curse that weakens and corrupts over time.

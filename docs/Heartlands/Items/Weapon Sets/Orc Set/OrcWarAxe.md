@@ -1,5 +1,5 @@
 # Orc War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Favored by orc berserkers, the war axe embodies the brutal nature of orc combat.
 

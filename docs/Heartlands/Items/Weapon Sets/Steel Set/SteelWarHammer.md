@@ -1,5 +1,5 @@
 # Steel War Hammer
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Multiple angles along the striking edge of this hammer allows for focused points of impact.
 

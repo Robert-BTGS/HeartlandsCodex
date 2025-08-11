@@ -1,5 +1,5 @@
 # Silver Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Known for its effectiveness against magical beasts and dark entities, it is a favorite among hunters of the supernatural.
 

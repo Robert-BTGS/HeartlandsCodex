@@ -1,5 +1,5 @@
 # Usai Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It is an ideal wand for the skilled mage, offering both elegance and incredible magical potential.
 

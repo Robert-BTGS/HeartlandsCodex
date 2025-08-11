@@ -1,5 +1,5 @@
 # Usai Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+As piercing as the cold winds from the lands it came from.
 

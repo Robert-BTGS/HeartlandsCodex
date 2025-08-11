@@ -1,5 +1,5 @@
 # DiKadian Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The blade vibrates with each swing, stoking the warrior’s battle rage and rallying allies to the fray.
 

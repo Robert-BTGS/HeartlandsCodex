@@ -1,5 +1,5 @@
 # Orc Club
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its simplicity is its strength—delivering crushing blows that can break bones and shatter shields with brutal force.
 

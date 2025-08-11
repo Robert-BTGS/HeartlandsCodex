@@ -1,5 +1,5 @@
 # Necro Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each crushing blow carries a necrotic shock, splintering bone and weakening the spirit of its victims.
 

@@ -1,5 +1,5 @@
 # Usai Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+This sword excels in both offense and defense, making it a versatile choice for any warrior.
 

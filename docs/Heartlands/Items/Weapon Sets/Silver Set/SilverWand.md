@@ -1,5 +1,5 @@
 # Silver Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The silver enhances the effectiveness of spells against dark creatures and magical entities.
 

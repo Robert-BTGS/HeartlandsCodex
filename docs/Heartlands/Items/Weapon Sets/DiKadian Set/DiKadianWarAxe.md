@@ -1,5 +1,5 @@
 # DiKadian War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A symbol of both honor and domination, the war axe is often wielded by DiKadian chieftains and elite skirmishers alike
 

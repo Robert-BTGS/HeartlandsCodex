@@ -1,4 +1,4 @@
 # Bone Short Sword
 
-All the information about all the items you might come across in the world of Heartlands.
+This blade is often the entry point for apprentice grafters: the design is small enough to not waste material, yet intricate enough for theory and book learning to be applied.
 

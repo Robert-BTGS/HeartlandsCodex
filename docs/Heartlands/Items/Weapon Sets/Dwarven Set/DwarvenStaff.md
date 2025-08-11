@@ -1,5 +1,5 @@
 # Dwarven Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Balanced perfectly for its wielder, allowing seamless transitions between defensive wards and crushing blows when enemies draw too near
 

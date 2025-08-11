@@ -1,5 +1,5 @@
 # Necro Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Every punch carries a necrotic sting, weakening the enemy’s vitality and spreading decay with each brutal strike.
 

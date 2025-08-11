@@ -1,5 +1,5 @@
 # Kadian War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its detailed hilt and sturdy shaft ensure that it can withstand the harshest of battles while delivering devastating blows to any opponent.
 

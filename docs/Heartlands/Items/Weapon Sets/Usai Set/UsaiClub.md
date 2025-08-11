@@ -1,5 +1,5 @@
 # Usai Club
 
 
-All the information about all the items you might come across in the world of Heartlands.
+This weapon's balance between power and control suggests it is meant for striking with great force while still being maneuverable enough for swift attacks.
 

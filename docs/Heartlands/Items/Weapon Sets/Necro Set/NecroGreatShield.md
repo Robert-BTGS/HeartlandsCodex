@@ -1,5 +1,5 @@
 # Necro Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It not only blocks physical blows but pulses with dark energy that repels holy magic and weakens those who dare strike it.
 

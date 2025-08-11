@@ -1,5 +1,5 @@
 # Frostbound Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Cleaves through armor like it’s warm butter—and the very air around it shatters into frost.
 

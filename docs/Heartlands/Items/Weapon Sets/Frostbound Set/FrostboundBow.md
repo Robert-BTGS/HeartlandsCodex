@@ -1,5 +1,5 @@
 # Frostbound Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The bow itself never melts or grows slick, immune to flame and time alike
 

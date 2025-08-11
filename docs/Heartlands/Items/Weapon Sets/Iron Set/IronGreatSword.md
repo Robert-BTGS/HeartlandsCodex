@@ -1,5 +1,5 @@
 # Iron Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The weight of this weapon makes it more club than sword, but its two handed grip allow it to be wielded with surprising finesse.
 

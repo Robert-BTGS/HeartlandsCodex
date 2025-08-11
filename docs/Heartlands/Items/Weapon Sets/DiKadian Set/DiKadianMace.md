@@ -1,5 +1,5 @@
 # DiKadian Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+With each swing, the mace cleaves through bone and metal as if it were paper thin 
 

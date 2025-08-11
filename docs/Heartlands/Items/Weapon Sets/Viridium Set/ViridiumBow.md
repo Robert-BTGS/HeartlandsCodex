@@ -1,5 +1,5 @@
 # Viridium Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A beautifully crafted bow made of enchanted wood reinforced with strands of veridium crystal.
 

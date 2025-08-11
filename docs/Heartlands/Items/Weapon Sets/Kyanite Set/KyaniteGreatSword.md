@@ -1,5 +1,5 @@
 # Kyanite Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A massive sword forged from the rare and powerful kyanite crystal, with an edge that gleams with arcane energy.
 

@@ -1,5 +1,5 @@
 # Kadian Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Featuring a vibrant green core surrounded by intricate engravings, this staff serves both as a conduit for magic and a tool of authority in battle.
 

@@ -1,5 +1,5 @@
 # Frostbound Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+An instrument of shattering, slowing, and overwhelming with the inevitability of winter itself.
 

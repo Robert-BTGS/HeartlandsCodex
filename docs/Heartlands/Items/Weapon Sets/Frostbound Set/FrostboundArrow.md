@@ -1,5 +1,5 @@
 # Frostbound Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The arrowhead is a jagged shard of everice—an enchanted crystal colder than death and sharper than obsidian.
 

@@ -1,5 +1,5 @@
 # Necro Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+When fired, it carries with it a whisper of the grave—piercing flesh and spreading a chill that seeps deep into the soul.
 

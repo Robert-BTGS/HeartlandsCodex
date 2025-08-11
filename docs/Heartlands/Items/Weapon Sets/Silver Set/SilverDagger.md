@@ -1,5 +1,5 @@
 # Silver Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its sharp edge makes it especially effective against supernatural creatures and enemies vulnerable to silver, offering precision with deadly intent.
 

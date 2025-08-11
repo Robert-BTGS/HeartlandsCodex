@@ -1,5 +1,5 @@
 # Silver War Hammer
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The weight and design make it perfect for heavy combat, while the silver head is especially potent against creatures of darkness and the undead.
 

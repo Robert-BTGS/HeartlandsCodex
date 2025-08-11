@@ -1,5 +1,5 @@
 # DiKadian Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It stands as both protection and symbol of their unbreakable will.
 

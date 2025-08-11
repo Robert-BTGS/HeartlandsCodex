@@ -1,5 +1,5 @@
 # Necro Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Perfect for swift, deadly strikes, it leaves lingering necrotic wounds that fester long after the cut has been made.
 

@@ -1,5 +1,5 @@
 # Orc Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A heavy, jagged longsword forged from rough steel or iron, with a broad blade made for powerful, cleaving strikes.
 

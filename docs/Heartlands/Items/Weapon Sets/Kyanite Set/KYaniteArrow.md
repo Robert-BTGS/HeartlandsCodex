@@ -1,5 +1,4 @@
 # Kyanite Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A sleek, crystalline arrow with a sharp kyanite tip. Known for its precision and magical resonance

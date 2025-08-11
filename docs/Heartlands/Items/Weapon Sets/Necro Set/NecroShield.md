@@ -1,5 +1,5 @@
 # Necro Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It offers solid protection while exuding a draining aura that saps the stamina of attackers, turning defense into a weapon of attrition.
 

@@ -1,5 +1,5 @@
 # Viridium Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It offers massive protection, and when struck, releases a grounding wave that stabilizes the wielder and repels incoming force with elemental resolve.
 

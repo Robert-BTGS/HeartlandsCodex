@@ -1,4 +1,3 @@
 # Bone Shield
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Because of the nature of grafting, the craftsman often travels with hunting parties. It is likely that whoever made this shield saw the fearsome monster adorning it firsthand.

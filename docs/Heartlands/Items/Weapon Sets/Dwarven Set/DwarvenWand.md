@@ -1,5 +1,5 @@
 # Dwarven Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though small in stature, it channels powerful, earthbound spells—shattering stone, summoning flame, and reinforcing allies with the resilience of the mountains.
 

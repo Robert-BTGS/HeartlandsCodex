@@ -1,5 +1,5 @@
 # Viridium Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its swings carry the weight of mountains, channeling earth-shaking power with every blow
 

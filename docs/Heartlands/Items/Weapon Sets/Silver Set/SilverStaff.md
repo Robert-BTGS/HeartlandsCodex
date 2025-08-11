@@ -1,5 +1,5 @@
 # Silver Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A reliable weapon, while its shimmering surface amplifies magical abilities, especially against dark or cursed forces.
 

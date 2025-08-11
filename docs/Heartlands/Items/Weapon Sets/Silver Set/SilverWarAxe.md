@@ -1,5 +1,5 @@
 # Silver War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A powerful war axe with a sharp, silver-bladed edge, made for cleaving through enemies with deadly force.
 

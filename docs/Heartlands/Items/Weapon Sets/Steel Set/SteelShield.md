@@ -1,5 +1,5 @@
 # Steel Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Two reinforced cutouts allow for the user versatility in using weapons, and using kinetic force to parry and redirect enemy strikes.
 

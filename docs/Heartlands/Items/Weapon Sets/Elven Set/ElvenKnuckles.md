@@ -1,5 +1,5 @@
 # Elven Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Designed for quick, dexterous blows, they are favored by elven duelists, sentinels, and those who prefer finesse over brute strength.
 

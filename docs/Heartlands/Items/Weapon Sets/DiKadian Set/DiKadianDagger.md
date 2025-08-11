@@ -1,5 +1,5 @@
 # DiKadian Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+This dagger is as much a tool for stealth as it is a weapon for those who seek to deliver swift and fiery retribution.
 

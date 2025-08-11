@@ -1,5 +1,5 @@
 # Elven Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The staff is as much a tool of wisdom as it is a weapon of great power.
 

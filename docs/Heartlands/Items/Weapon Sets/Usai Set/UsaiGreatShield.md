@@ -1,5 +1,4 @@
 # Usai Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+The shield's shape offers excellent coverage, making it an ideal choice for absorbing heavy blows and defending against a wide range of attacks.

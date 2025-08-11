@@ -1,5 +1,5 @@
 # Steel Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It is likely that the original design of these bows focused on implementing metal to strengthen scarce material. Now, the added weight and reinforced arms make for a deadly, if unwieldy, bow.
 

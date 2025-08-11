@@ -1,5 +1,5 @@
 # Orc Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The orc battle axe is as brutal as its creators, favored for its efficiency in close combat and brutal strikes.
 

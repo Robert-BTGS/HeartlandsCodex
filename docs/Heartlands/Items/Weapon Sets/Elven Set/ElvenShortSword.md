@@ -1,5 +1,5 @@
 # Elven Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Fluid, precise, and unerringly true, this blade’s elegance and balance speak for themselves.
 

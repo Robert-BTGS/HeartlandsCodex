@@ -1,5 +1,5 @@
 # Kadian Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The large, rounded design makes it ideal for blocking incoming strikes, while its central boss allows for a powerful counterattack.
 

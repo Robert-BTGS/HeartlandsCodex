@@ -1,5 +1,5 @@
 # Viridium Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Quick and precise, it slices through armor and wards alike, leaving behind a trace of energy that disrupts magical defenses.
 

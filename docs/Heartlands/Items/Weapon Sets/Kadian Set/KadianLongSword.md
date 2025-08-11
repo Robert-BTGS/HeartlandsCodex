@@ -1,5 +1,5 @@
 # Kadian Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The blade is long and pointed, allowing for swift, cutting strikes at a distance while retaining the power necessary for close-range combat
 

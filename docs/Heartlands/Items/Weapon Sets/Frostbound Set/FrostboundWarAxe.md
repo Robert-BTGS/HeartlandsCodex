@@ -1,5 +1,5 @@
 # Frostbound War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+More than a tool of war—it is a statement of cold endurance and unrelenting strength.
 

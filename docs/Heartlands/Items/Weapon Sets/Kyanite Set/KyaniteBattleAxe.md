@@ -1,5 +1,5 @@
 # Kyanite Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its sharpness and magical properties make it a deadly weapon, capable of cutting through the toughest foes while imbuing its strikes with arcane energy.
 

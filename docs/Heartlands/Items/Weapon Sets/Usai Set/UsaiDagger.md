@@ -1,5 +1,5 @@
 # Usai Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The overall structure of the dagger emphasizes agility and stealth, making it a perfect weapon for swift attacks in tight spaces.
 

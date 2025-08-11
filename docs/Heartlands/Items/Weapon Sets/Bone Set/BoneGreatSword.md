@@ -1,4 +1,4 @@
 # Bone Great Sword 
 
-All the information about all the items you might come across in the world of Heartlands.
+Great is the monster that slays many mortal. Greater still is the grafter that shapes the bones of the monster to slay other monsters.
 

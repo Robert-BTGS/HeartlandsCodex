@@ -1,5 +1,5 @@
 # Steel Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The geometric cut of the fire quartz crystal allows seemless integration with the casters magics, allowing for intuitive casting.
 

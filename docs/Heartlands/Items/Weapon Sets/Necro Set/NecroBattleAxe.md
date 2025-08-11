@@ -1,5 +1,5 @@
 # Necro Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Forged for carnage, it feeds off the vitality of its victims, leaving behind a trail of lifeless husks and lingering dread.
 

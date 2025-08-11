@@ -1,5 +1,5 @@
 # Dwarven Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The fletching is minimal but precise, crafted from dark-feathered cliff raptors bred in the high crags
 

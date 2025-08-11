@@ -1,5 +1,5 @@
 # Elven Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Crafted not only to strike true, but to do so with barely a sound
 

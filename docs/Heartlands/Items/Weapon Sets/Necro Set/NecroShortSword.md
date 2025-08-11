@@ -1,5 +1,5 @@
 # Necro Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+This shortsword delivers precise cuts that spread decay, eating away at both flesh and willpower.
 

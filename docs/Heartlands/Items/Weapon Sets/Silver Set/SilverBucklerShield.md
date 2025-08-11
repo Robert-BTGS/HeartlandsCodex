@@ -1,5 +1,5 @@
 # Silver Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Ideal for parrying and deflecting magic, especially against dark or cursed forces.
 

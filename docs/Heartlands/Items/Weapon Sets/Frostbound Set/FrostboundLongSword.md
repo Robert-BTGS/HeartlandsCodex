@@ -1,5 +1,5 @@
 # Frostbound Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+It cuts not only flesh, but courage—sapping the warmth from both body and spirit.
 

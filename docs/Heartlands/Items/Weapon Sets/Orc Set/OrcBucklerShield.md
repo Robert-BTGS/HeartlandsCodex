@@ -1,5 +1,4 @@
 # Orc Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Roughly crafted, it provides dependable defense in close combat, ideal for orcs who favor speed and mobility in battle.

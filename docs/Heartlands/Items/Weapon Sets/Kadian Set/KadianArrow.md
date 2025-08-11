@@ -1,5 +1,5 @@
 # Kadian Arrow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its sleek, wooden shaft is dark and smooth, adorned with intricate etchings that mark its noble origins. The arrowhead is uniquely shaped, a sharp, tri-pronged metal point that ensures swift penetration into targets
 

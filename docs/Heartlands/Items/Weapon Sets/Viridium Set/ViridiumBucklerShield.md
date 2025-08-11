@@ -1,5 +1,5 @@
 # Viridium Buckler Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A small, lightweight shield formed from layered bark and veined with veridium crystal
 

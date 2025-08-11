@@ -1,5 +1,5 @@
 # Elven Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Not only a weapon but a symbol of heritage, attunement, and unbroken harmony with nature and magic.
 

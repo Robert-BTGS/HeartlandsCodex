@@ -1,5 +1,5 @@
 # Elven War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A cherished relic among woodland vanguards—used to cleave through both enchanted armor and the creeping vines of corrupted forests.
 

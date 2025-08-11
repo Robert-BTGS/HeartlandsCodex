@@ -1,5 +1,5 @@
 # Orc Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its unrefined design reflects the raw, untamed power it commands, often invoking earth and fire magic in battle.
 

@@ -1,5 +1,5 @@
 # Elven Club
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Favored by elven healers and druids who may find themselves forced into combat, or those who prefer to subdue their opponents with a non-lethal touch.
 

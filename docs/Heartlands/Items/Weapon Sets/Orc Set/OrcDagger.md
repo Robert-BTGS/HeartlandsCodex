@@ -1,5 +1,5 @@
 # Orc Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+May not be elegant, but it’s deadly in the hands of an orc, perfect for stealthy strikes or finishing off weakened foes.
 

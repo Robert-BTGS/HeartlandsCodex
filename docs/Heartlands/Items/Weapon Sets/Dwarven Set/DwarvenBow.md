@@ -1,5 +1,5 @@
 # Dwarvenn Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its draw is heavy, requiring immense strength, but its arrows strike like hammer blows, capable of penetrating light armor and splintering shields.
 

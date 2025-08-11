@@ -1,5 +1,4 @@
 # Elven Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A blade that embodies grace and lethality in equal measure

@@ -1,5 +1,5 @@
 # Kyanite War Hammer
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each thunderous blow releases a burst of arcane force, capable of staggering enemies and shattering magical barriers with ease.
 

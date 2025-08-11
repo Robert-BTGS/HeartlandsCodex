@@ -1,5 +1,5 @@
 # Silver Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its reflective surface not only deflects attacks but can also serve to blind or daze foes, making it a versatile choice for defenders facing dark enemies.
 

@@ -1,5 +1,5 @@
 # Dwarven Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Designed to slip over thick dwarven gloves or gauntlets, they turn fists into weapons capable of caving in helmets or shattering bones
 

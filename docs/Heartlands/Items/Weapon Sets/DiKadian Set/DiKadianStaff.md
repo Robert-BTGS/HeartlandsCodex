@@ -1,5 +1,5 @@
 # DiKadian Staff
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Summoning quakes, shaping molten rock, or erecting walls of living flame and stone
 

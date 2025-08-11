@@ -1,5 +1,5 @@
 # Kadian Buckler
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its round, metal body is adorned with intricate etchings that represent the Kadian kingdom's heritage and symbols of valor.
 

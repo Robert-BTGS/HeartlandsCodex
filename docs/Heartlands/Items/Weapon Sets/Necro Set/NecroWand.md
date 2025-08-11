@@ -1,5 +1,5 @@
 # Necro Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Perfect for precise spellcasting, it channels necrotic energy into focused bolts of decay and soul-sapping curses.
 

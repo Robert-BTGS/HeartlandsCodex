@@ -1,5 +1,4 @@
 # DiKadian Bow
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+This bow is as capable of striking down enemies from great distances 

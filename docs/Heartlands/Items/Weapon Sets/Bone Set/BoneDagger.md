@@ -1,4 +1,4 @@
 # Bone Dagger
 
-All the information about all the items you might come across in the world of Heartlands.
+Bone, grafted to steel, shaped to kill. Metal bandings offer strength along the length of the blade.
 

@@ -1,5 +1,5 @@
 # Elven Wand
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Lightweight and perfectly balanced, it responds to the slightest gesture, allowing its wielder to weave spells of illusion, healing, or elemental grace
 

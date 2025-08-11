@@ -1,5 +1,5 @@
 # DiKadian Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The blade’s weight is perfectly balanced for rapid assaults, allowing its wielder to strike with the speed of a volcanic eruption
 

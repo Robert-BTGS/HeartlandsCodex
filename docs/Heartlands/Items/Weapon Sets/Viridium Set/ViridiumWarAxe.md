@@ -1,5 +1,4 @@
 # Viridium War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Built for ferocious swings and elemental impact, it strikes with the fury of a landslide

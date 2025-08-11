@@ -1,5 +1,5 @@
 # Kyanite Hammer
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Delivers shockwaves with each blow, shaking the earth beneath its target and making it a powerful weapon against both physical and magical foes.
 

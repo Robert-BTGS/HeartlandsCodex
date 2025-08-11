@@ -1,5 +1,5 @@
 # Steel Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Long blades have been attached to a fairly simple knuckle, turning a normally mundane weapon into a vicious implement of ferocity.
 

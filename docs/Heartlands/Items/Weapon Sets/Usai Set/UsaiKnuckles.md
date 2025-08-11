@@ -1,5 +1,5 @@
 # Usai Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The grip is designed for maximum comfort and control, allowing for rapid, successive punches, ideal for skilled fighters and those who excel in hand-to-hand combat.
 

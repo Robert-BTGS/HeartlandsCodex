@@ -1,5 +1,5 @@
 # Steel Dagger
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Quick, silent, and deadly—perfect for close encounters, quick strikes, or a well-placed surprise from the shadows.
 

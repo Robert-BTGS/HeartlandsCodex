@@ -1,5 +1,5 @@
 # DiKadian Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The grip—crafted from ironwood and wrapped in drake‑hide—absorbs shock and feels warm to the touch
 

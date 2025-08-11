@@ -1,5 +1,5 @@
 # Orc Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its heavy, uneven blade cleaves through armor with ease, making it a favored weapon of orc warriors who prefer overwhelming force in combat.
 

@@ -1,5 +1,5 @@
 # Elven Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each blow carries a pulse of earthbound force, cracking armor and spirit alike.
 

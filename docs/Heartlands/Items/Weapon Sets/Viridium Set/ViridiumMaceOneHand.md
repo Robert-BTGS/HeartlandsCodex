@@ -1,5 +1,5 @@
 # Viridium One Handed Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+With each strike, it sends out a resonating thrum of natural force, capable of shattering armor and disrupting magical focus.
 

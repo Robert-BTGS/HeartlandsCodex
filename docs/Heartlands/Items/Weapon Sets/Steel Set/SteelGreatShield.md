@@ -1,5 +1,5 @@
 # Steel Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Crossguards are rarely found on daggers, but this dagger seems to be forged to catch and control incoming attacks.
 

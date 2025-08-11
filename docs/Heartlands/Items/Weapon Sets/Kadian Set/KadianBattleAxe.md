@@ -1,5 +1,5 @@
 # Kadian Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its large, curved blade is forged from steel of the highest quality, with a golden hue that gleams in the sunlight.
 

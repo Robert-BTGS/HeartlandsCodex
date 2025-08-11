@@ -1,5 +1,5 @@
 # Silver Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its gleaming head is perfect for smashing through armor, and its silver composition makes it especially effective against dark creatures and the undead.
 

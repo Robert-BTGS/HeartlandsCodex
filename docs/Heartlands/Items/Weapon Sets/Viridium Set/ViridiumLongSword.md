@@ -1,5 +1,5 @@
 # Viridium Long Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Light enough for fluid combat, yet strong enough to cleave with elemental force, it’s ideal for those who blend martial skill with nature’s might.
 

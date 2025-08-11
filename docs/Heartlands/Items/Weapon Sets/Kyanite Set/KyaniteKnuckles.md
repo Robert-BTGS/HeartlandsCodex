@@ -1,5 +1,5 @@
 # Kyanite Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Reinforced knuckles made from polished kyanite, turning every punch into a strike of raw power.
 

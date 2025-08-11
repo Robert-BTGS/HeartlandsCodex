@@ -1,5 +1,5 @@
 # Orc Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Favored by orc warriors who prefer fast, overwhelming assaults rather than prolonged duels.
 

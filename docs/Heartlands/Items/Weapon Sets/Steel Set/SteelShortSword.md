@@ -1,5 +1,5 @@
 # Steel Short Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+This blade is more similar to a stiletto than sword. Its cruel, waved blade makes for devastating internal trauma.
 

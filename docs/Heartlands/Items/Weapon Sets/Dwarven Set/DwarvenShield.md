@@ -1,5 +1,5 @@
 # Dwarven Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Though simple in form, its presence on the battlefield speaks of centuries of tradition and immovable defense.
 

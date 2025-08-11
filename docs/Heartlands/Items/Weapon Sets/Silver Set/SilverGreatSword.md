@@ -1,5 +1,5 @@
 # Silver Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The razor-sharp edge is perfect for cutting through armor, and its shine makes it particularly effective against creatures vulnerable to silver.
 

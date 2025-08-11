@@ -1,5 +1,5 @@
 # Kyanite Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A sturdy shield forged from gleaming kyanite, pulsing with protective energy. It offers excellent defense against both physical attacks and magical spells
 

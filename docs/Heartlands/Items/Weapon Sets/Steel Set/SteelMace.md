@@ -1,5 +1,4 @@
 # Steel Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Heavy spikes are mounted through a solid sphere of steel. It is as deadly as it is elegant.

@@ -1,5 +1,5 @@
 # Usai Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The overall aesthetic combines both elegance and functionality, making it a prized piece in the Usai armory.
 

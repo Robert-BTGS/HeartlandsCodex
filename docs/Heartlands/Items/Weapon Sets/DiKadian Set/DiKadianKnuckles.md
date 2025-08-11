@@ -1,5 +1,5 @@
 # DiKadian Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+When clutched around the fist, the DiKadian Knuckles amplify every punch into a searing strike
 

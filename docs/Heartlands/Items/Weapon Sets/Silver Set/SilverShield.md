@@ -1,5 +1,5 @@
 # Silver Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Not only does it provide exceptional defense, but its reflective surface can disorient foes, while its silver construction offers added protection against magical and cursed attacks.
 

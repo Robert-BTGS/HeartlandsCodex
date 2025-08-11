@@ -1,5 +1,5 @@
 # Kyanite War Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Its strikes cut deep and disrupt magical defenses, making it a fearsome weapon against both armored foes and sorcerers alike.
 

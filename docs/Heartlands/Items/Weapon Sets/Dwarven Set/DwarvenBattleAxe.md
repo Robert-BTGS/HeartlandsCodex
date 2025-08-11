@@ -1,5 +1,5 @@
 # Dwarven Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+The heavy, broad axe head is forged from enchanted iron, with a thick cutting edge that can easily cut through armor and shields alike
 

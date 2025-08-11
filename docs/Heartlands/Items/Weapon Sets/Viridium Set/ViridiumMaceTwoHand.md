@@ -1,5 +1,5 @@
 # Viridium Two Handed Mace
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A massive, double-handed hammer embedded with glowing veridium along its head.Every swing feels like a tectonic event.
 

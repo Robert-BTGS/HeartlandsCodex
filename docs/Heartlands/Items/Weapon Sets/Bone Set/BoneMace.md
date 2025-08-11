@@ -1,4 +1,4 @@
 # Bone Mace One Handed 
 
-All the information about all the items you might come across in the world of Heartlands.
+It is often a mark of poor grafting that leaves so much metal exposed. Though, like all else, there are exceptions to this rule.
 

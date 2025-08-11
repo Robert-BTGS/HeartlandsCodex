@@ -1,5 +1,5 @@
 # Iron Knuckles
 
 
-All the information about all the items you might come across in the world of Heartlands.
+A vicious evolution of a punching dagger. The design is meant to make the weapon an extension of its users arm.
 

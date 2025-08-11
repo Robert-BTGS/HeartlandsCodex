@@ -1,5 +1,4 @@
 # DiKadian Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
-
+When swung, the greatsword leaves a trail of radiant light in its wake, as though the very dawn follows its path.

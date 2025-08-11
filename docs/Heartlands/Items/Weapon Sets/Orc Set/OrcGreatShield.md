@@ -1,5 +1,5 @@
 # Orc Great Shield
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Built to withstand the hardest blows and protect orc warriors as they charge into battle with unyielding force.
 

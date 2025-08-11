@@ -1,5 +1,5 @@
 # Elven Battle Axe
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Each edge is razor-sharp, designed for fluid, sweeping strikes that combine elegance with lethal force
 

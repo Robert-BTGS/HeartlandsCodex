@@ -1,5 +1,5 @@
 # Dwarven Great Sword
 
 
-All the information about all the items you might come across in the world of Heartlands.
+Despite its weight, it is perfectly balanced, capable of sweeping arcs that cleave through shields and foes alike
 
