@@ -4,3 +4,9 @@ When cut, it releases a heady fragrance—sweet, floral, and warm—that seems t
 
 In coastal kingdoms, mango is offered in rites of welcome, said to seal bonds of trust between host and guest.
 
+![Mango](../../../images\mango_12-8-2,025_19-24-22.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

@@ -4,3 +4,9 @@ Dark, jewel‑like clusters of sweetness and thorns, thriving along brambled hed
 
 In old tales, patches of blackberries mark the boundaries of fae territory, and those who pluck the fruit without offering thanks risk drawing the attention of trickster spirits.
 
+![Blackberry](../../../images\blackberry_12-8-2,025_19-17-26.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

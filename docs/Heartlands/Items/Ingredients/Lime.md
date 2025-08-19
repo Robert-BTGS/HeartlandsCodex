@@ -4,3 +4,9 @@ Where a lemon is the sun, the lime is the spark—quick, bright, and bracing, ab
 
 Sailors carry limes not just to ward off sickness, but to anchor their spirits during long stretches at sea, believing its zest can keep the soul from drifting into dangerous dreams. 
 
+![Lime](../../../images\lime_12-8-2,025_19-31-41.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

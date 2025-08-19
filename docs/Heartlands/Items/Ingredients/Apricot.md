@@ -4,4 +4,9 @@ Sunkissed with velevety skin, and a sweet fragrant flesh. In alchemical practice
 
 
 
+![Apricot](../../../images\apricot_12-8-2,025_19-30-18.png)
 
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

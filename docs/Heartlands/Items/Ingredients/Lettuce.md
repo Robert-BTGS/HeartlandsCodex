@@ -4,3 +4,9 @@ Soft to the touch and mild in taste, it is a plant of calm and renewal, favored 
 
 Among healers, lettuce is steeped into mild draughts that ease sleeplessness and calm frayed tempers, while in field‑magic it is used as a charm to encourage peace between disputing parties.
 
+![Lettuce](../../../images\lettuce_12-8-2,025_20-47-51.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

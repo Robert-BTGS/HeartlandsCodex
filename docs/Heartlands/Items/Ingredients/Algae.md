@@ -4,3 +4,10 @@ Quiet weavers of magic beneath still waters, forming soft, drifting carpets in l
 
 Alchemists must take care, for improperly dried algae can sour a potion, turning its magic unstable- sometimes explosively so. 
 
+![Algae](../../../images\algae_13-8-2,025_19-34-13.png)
+![Algae](../../../images\algae_13-8-2,025_19-34-26.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

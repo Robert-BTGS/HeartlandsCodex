@@ -4,3 +4,9 @@ Slice it open, and the air fills with a sharp, invigorating fragrance that cuts 
 
 Seafaring traditions prize the lemon as a ward against sickness on long voyages, while healers in the highlands use its zest in talismans meant to protect against deceit.
 
+![Lemon](../../../images\lemon_12-8-2,025_19-23-58.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

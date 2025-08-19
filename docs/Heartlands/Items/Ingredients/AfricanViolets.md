@@ -6,3 +6,9 @@ Delicate, velevet-petaled blooms that shimmer with a faint silvery sheen under m
 
 Folklore warns, that blooms plucked without care will wither instantly, losing their power; only those harvested while humming softly to the plant will retain their full potency. 
 
+![African Violet](../../../images\Violet_12-8-2,025_20-55-7.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

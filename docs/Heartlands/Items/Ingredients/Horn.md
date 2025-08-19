@@ -4,3 +4,9 @@ A relic shrouded in speculation, its origin lost to time and rumor. Smooth in so
 
 Alchemists approach such a horn with caution, for its magic is unpredictable. Ground to powder, it may strengthen potions of protection or ignite destructive spells with sudden force; whole, it can serve as a powerful conduit, amplifying the will of the one who wields it.
 
+![Horn](../../../images\horn_12-8-2,025_3-32-46.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

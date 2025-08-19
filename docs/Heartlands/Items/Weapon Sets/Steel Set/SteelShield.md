@@ -3,3 +3,8 @@
 
 Two reinforced cutouts allow for the user versatility in using weapons, and using kinetic force to parry and redirect enemy strikes.
 
+![Steel Shield](../../../images\Steel Shield_11-8-2,025_23-21-33.png)
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

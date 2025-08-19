@@ -5,3 +5,13 @@ Red Apples, shaded as warmly as the autumn sun, are prized for vitality tonics a
 
 Alchemists warn: An apple plucked under a new moon may carry a hidden curse, twisting its magic into something more perilous. 
 
+![Apple](../../../images\apple_12-8-2,025_19-6-29.png)
+![Apple](../../../images\apple_12-8-2,025_19-7-12.png)
+![Apple](../../../images\apple_12-8-2,025_19-7-38.png)
+![Apple](../../../images\apple_12-8-2,025_19-8-29.png)
+![Apple](../../../images\apple_12-8-2,025_19-13-26.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

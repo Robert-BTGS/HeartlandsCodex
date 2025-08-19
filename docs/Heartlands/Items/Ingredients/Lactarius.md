@@ -4,3 +4,9 @@ Lactarius is a curious woodland mushroom, its cap smooth and often ringed with s
 
 Gathering lactarius is not without risk. Some varieties nourish and heal, their sap a gentle balm for fever or inflammation; others burn on the tongue and in the blood, carrying toxins that dance on the edge between medicine and poison
 
+![Lactarius](../../../images\lactarius_12-8-2,025_20-50-2.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

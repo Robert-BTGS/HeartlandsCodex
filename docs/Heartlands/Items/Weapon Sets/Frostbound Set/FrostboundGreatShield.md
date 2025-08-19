@@ -3,3 +3,9 @@
 
 It can be braced to anchor the front line or used to bash foes with bone‑shattering force.
 
+![Frostbound Great Shield](../../../images\Frostbound Great Shield_11-8-2,025_23-45-43.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

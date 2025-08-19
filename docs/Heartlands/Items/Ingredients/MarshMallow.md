@@ -4,3 +4,9 @@ Its roots are thick and pale, holding a sweet, mucilaginous sap that herbalists 
 
 In ancient village lore, marsh mallow root was steeped into teas for travelers returning from long journeys, to wash away the weariness of the road.
 
+![Marsh Mallow](../../../images\Marsh Mallow_12-8-2,025_20-54-21.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

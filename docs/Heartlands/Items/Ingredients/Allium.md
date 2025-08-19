@@ -6,3 +6,9 @@ In ancient grimoires, it is said that silver petaled allium blooms only bloom un
 
 While common forms grow in sunlit fields and kitchen gardens, wild mountain allium is far more dangerous to harvest- its sharp scent draws hungry nightbeasts that feed on its rare magic vitality. 
 
+![Allium](../../../images\Allium_12-8-2,025_20-54-1.png)
+
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |

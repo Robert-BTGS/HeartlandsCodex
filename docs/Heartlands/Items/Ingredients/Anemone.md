@@ -6,3 +6,7 @@ Alchemists value anemones for their connections to the fleeting nature of life- 
 
 In folklore, white anemones are offered to soothe restless spirits, while red varieties often hold the power to ward off misfortune and betrayal. The rare midnight anemone, with petals the color of a moonless sky, is rumored to grant visions of the past and future when brewed into a starlight infused draught. 
 
+## Item stats
+| Weight  | Value | Armor  |
+|---------|-------|--------|
+| 0.0     | 0.0   | 0.0    |
