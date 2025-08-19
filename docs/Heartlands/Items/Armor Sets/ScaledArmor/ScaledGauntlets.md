@@ -1,5 +1,0 @@
-# Scaled Gauntlets
-
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Dwarven Cuirass
-
-
-Incomplete!
-

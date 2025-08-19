@@ -1,5 +1,0 @@
-# Necro Gauntlets
-
-
-Incomplete!
-

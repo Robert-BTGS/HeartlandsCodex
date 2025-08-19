@@ -1,5 +1,0 @@
-# Steel Cuirass
-
-
-Incomplete!
-

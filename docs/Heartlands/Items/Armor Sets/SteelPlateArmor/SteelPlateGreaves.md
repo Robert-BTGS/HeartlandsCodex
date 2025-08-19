@@ -1,5 +1,0 @@
-# Steel Plate Greaves
-
-
-Incomplete!
-

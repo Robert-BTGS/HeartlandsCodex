@@ -1,4 +1,0 @@
-# Kadian Boots
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Assassin Helmet
-
-
-Incomplete!
-

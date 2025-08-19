@@ -1,5 +1,0 @@
-# Silver Armor Set
-
-
-Incomplete!
-

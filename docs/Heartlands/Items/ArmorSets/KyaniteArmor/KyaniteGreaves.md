@@ -1,9 +1,9 @@
-# Unique Helmet 001
+# Kyanite Greaves
 
 
-![Unique Helmet 001]
+![Kadian Greaves]
 
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 55     |
+| 0.0     | 0.0   | 815    |

@@ -1,5 +1,0 @@
-# Elven Armor Set
-
-
-Incomplete!
-

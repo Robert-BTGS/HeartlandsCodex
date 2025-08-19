@@ -1,5 +1,0 @@
-# Assassin Armor Set
-
-
-Incomplete!
-

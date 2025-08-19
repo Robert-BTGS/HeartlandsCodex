@@ -1,4 +1,0 @@
-# Cloth Cuirass
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Viridium Gauntlets
-
-
-Incomplete!
-

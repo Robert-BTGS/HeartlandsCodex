@@ -1,5 +1,0 @@
-# Studded Leather Boots
-
-
-Incomplete!
-

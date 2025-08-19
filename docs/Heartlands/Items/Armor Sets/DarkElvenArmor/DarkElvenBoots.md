@@ -1,5 +1,0 @@
-# Dark Elven Boots
-
-
-Incomplete!
-

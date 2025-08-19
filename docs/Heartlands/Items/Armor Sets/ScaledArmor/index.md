@@ -1,5 +1,0 @@
-# Scaled Armor Set
-
-
-Incomplete!
-

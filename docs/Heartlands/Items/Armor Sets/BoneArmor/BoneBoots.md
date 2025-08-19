@@ -1,5 +1,0 @@
-# Bone Boots
-
-
-Incomplete!
-

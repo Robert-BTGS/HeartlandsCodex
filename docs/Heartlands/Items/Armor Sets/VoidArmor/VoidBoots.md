@@ -1,5 +1,0 @@
-# Void Boots
-
-
-Incomplete!
-

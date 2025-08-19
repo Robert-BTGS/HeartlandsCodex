@@ -1,5 +1,0 @@
-# Guard Helmet
-
-
-Incomplete!
-

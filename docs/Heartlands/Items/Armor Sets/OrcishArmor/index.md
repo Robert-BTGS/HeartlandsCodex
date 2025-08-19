@@ -1,5 +1,0 @@
-# Orcish Armor Set
-
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Hunter Armor Set
-
-
-Incomplete!
-

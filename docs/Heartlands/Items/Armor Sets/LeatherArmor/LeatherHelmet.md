@@ -1,5 +1,0 @@
-# Leather Helmet
-
-
-Incomplete!
-

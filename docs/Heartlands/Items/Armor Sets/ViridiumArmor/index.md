@@ -1,5 +1,0 @@
-# Viridium Armor Set
-
-
-Incomplete!
-

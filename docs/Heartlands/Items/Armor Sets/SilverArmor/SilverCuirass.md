@@ -1,5 +1,0 @@
-# Silver Cuirass
-
-
-Incomplete!
-

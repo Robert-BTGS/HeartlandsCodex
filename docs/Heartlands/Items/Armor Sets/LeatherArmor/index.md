@@ -1,5 +1,0 @@
-# Leather Armor Set
-
-
-Incomplete!
-

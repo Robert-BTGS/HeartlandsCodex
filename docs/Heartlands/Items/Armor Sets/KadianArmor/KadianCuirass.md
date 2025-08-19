@@ -1,5 +1,0 @@
-# Kadian Cuirass
-
-
-Incomplete!
-

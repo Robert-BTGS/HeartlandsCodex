@@ -1,5 +1,0 @@
-# Scaled Helmet
-
-
-Incomplete!
-

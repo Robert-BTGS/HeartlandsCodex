@@ -1,5 +1,0 @@
-# Kadian Gauntlets
-
-
-Incomplete!
-

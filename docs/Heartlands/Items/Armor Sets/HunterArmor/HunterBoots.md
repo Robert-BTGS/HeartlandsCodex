@@ -1,5 +1,0 @@
-# Hunter Boots
-
-
-Incomplete!
-

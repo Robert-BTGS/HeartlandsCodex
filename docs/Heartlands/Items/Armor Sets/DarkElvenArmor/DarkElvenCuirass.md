@@ -1,5 +1,0 @@
-# Dark Elven Cuirass
-
-
-Incomplete!
-

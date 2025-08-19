@@ -1,5 +1,0 @@
-# Leather Gauntlets
-
-
-Incomplete!
-

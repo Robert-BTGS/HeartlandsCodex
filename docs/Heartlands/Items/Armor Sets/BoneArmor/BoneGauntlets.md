@@ -1,5 +1,0 @@
-# Bone Gauntlets
-
-
-Incomplete!
-

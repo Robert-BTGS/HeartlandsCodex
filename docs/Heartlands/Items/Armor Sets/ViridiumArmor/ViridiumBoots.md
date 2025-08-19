@@ -1,5 +1,0 @@
-# Viridium Boots
-
-
-Incomplete!
-

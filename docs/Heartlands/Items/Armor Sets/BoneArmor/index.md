@@ -1,5 +1,0 @@
-# Bone Armor Set
-
-
-Incomplete!
-

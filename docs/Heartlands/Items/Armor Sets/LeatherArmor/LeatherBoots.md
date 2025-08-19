@@ -1,5 +1,0 @@
-# Leather Boots
-
-
-Incomplete!
-

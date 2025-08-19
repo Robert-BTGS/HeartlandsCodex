@@ -1,5 +1,0 @@
-# Cloth Gauntlets
-
-
-Incomplete!
-

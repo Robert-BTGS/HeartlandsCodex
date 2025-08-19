@@ -1,5 +1,0 @@
-# Cloth Armor Set
-
-
-Incomplete!
-

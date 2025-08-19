@@ -1,5 +1,0 @@
-# Void Armor Set
-
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Assassin Boots
-
-
-Incomplete!
-

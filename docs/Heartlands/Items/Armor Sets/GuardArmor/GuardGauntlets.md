@@ -1,5 +1,0 @@
-# Guard Gauntlets
-
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Elven Cuirass
-
-
-Incomplete!
-

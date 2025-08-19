@@ -1,5 +1,0 @@
-# Void Cuirass
-
-
-Incomplete!
-

@@ -1,9 +1,8 @@
-# Unique Helmet 001
+# Kyanite Cuirass
 
 
-![Unique Helmet 001]
-
+![Kyanite Cuirass]
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 55     |
+| 0.0     | 0.0   | 1540   |

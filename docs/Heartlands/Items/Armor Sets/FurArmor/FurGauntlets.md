@@ -1,5 +1,0 @@
-# Fur Gauntlets
-
-
-Incomplete!
-

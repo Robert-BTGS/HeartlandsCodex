@@ -1,5 +1,0 @@
-# Silver Helmet
-
-
-Incomplete!
-

@@ -1,5 +1,0 @@
-# Steel Armor Set
-
-
-Incomplete!
-

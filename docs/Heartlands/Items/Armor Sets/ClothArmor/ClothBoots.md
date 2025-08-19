@@ -1,5 +1,0 @@
-# Cloth Boots
-
-
-Incomplete!
-

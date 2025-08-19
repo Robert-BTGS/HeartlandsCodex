@@ -1,9 +1,9 @@
-# Unique Helmet 001
+# Kyanite Gauntlets
 
 
-![Unique Helmet 001]
+![Kyanite Gauntlets]
 
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 55     |
+| 0.0     | 0.0   | 453    |
