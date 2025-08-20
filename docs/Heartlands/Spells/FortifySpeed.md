@@ -1,0 +1,13 @@
+# Fortify Speed
+
+* School of Magic: Restoration
+
+* Spell Type: Self, Projectile
+
+* Magic Effects: Fortify Speed
+
+* Damage Type: Magic
+
+* Description: 
+
+

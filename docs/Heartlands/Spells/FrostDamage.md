@@ -1,0 +1,13 @@
+# Frost Damage
+
+* School of Magic: Destruction
+
+* Spell Type: Channel, Projectile, Ground, Sky, Rune
+
+* Magic Effects: Frost Damage
+
+* Damage Type: Magic
+
+* Description: 
+
+
