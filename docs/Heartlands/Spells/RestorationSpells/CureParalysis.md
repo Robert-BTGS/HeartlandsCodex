@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Removes all paralysis currently affecting the target.
+* Description: Relieves the target affected by a paralyze spell.
 
 

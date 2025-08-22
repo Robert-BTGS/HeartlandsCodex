@@ -1,4 +1,4 @@
-# Shock Damage
+# Shock Shield
 
 * School of Magic: Alteration
 

@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Temporarily weakens the target’s overall magical ability, reducing effectiveness across all schools of magic.
+* Description: Temporarily weakens the target’s overall magical ability, reducing effectiveness in casting spells.
 
 

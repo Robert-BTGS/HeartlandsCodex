@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Gradually replenishes the target’s magic, returning it to normal after being damaged or drained.
+* Description: Gradually replenishes the target’s magic, useful when enchanting objects or casting spells.
 
 

@@ -1,6 +1,6 @@
 # Fire Shield
 
-* School of Magic: Destruction
+* School of Magic: Alteration
 
 * Spell Type: Self
 

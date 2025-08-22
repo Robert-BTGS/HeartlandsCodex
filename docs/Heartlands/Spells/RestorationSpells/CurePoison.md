@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Removes all poison currently affecting the target.
+* Description: Removes all poison and its effects.
 
 

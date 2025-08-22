@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Removes all common diseases currently affecting the target.
+* Description: Instantaneously heals any negative effects caused by a disease.
 
 

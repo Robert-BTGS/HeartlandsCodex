@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: The caster renders the target paralyzed and unable to move.
+* Description: The caster makes it so the target is unable to move.
 
 

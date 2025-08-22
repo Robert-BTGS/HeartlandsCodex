@@ -8,6 +8,6 @@
 
 * Damage Type: Magic
 
-* Description: Temporarily lowers the target’s illusion skill, reducing effectiveness of illusion spells they cast.
+* Description: Temporarily lowers the target’s illusion skill, reducing their ability to summon creatures or weapons.
 
 
