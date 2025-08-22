@@ -6,6 +6,6 @@ Some of the smaller leftovers from making other weapons has allowed for an effec
 ![Chitin Mace](../../../images\Chitin Mace_11-8-2,025_23-15-30.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 16.0    | 81.0  | 9.0    |

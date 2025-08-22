@@ -6,6 +6,6 @@ This dagger is as much a tool for stealth as it is a weapon for those who seek t
 ![DiKadian Dagger](../../../images\DiKadian Dagger_11-8-2,025_23-28-48.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 6.9     | 238.0 | 5.0    |

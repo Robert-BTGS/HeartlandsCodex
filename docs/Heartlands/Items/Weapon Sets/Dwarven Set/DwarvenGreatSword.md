@@ -8,4 +8,4 @@ Despite its weight, it is perfectly balanced, capable of sweeping arcs that clea
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 50.3    | 3025.0| 13.0   |

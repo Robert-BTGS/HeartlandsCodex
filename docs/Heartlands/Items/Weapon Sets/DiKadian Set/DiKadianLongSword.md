@@ -6,6 +6,6 @@ The grip—crafted from ironwood and wrapped in drake‑hide—absorbs shock and
 ![DiKadian Long Sword](../../../images\DiKadian Long Sword_11-8-2,025_23-29-5.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 39.2    | 1769.0| 13.0   |

@@ -8,4 +8,4 @@ More than a weapon, it’s a symbol of dwarven resolve.
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 37.7    |1550.0 | 11.0   |

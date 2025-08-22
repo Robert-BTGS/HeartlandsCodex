@@ -8,4 +8,4 @@ Designed to slip over thick dwarven gloves or gauntlets, they turn fists into we
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 3.7     | 114.0 | 6.0    |

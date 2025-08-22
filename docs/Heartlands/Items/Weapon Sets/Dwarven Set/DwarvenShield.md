@@ -8,4 +8,4 @@ Though simple in form, its presence on the battlefield speaks of centuries of tr
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 29.0    | 765.0 | 3.0    |

@@ -6,6 +6,6 @@ All the information about all the items you might come across in the world of He
 ![Chitin Staff](../../../images\Chitin Staff_11-8-2,025_23-15-51.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 8.0     | 70.0  | 3.0    |

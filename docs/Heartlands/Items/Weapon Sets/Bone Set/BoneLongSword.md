@@ -5,6 +5,6 @@ The legacy of a warrior begins with the forging of their weapon. The legacy of t
 ![Bone Long Sword](../../../images\Bone Long Sword_11-8-2,025_23-18-51.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 25.5    | 663.0 | 12.0   |

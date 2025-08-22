@@ -6,6 +6,6 @@ The razor-sharp gill of some sea-beast are wrought to an iron head, yielding a v
 ![Chitin Battle Axe](../../../images\Chitin Battle Axe_11-8-2,025_23-13-37.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 27.0    | 130.0 | 12.0   |

@@ -5,6 +5,6 @@ It is often a mark of poor grafting that leaves so much metal exposed. Though, l
 ![Bone Mace One Handed](../../../ Items\Weapon Sets\Bone Set\BoneMace.md)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 20.4    | 516.0 | 9.0    |

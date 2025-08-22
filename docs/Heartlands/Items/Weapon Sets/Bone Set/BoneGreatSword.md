@@ -5,6 +5,6 @@ Great is the monster that slays many mortal. Greater still is the grafter that s
 ![Bone Great Sword](../../../images\Bone Great Sword_11-8-2,025_23-18-30.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 30.6    | 1008.0| 13.0   |

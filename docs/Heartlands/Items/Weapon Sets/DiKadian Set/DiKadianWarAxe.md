@@ -6,6 +6,6 @@ A symbol of both honor and domination, the war axe is often wielded by DiKadian 
 ![DiKadian War Axe](../../../images\DiKadian War Axe_11-8-2,025_23-34-44.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 15.7    | 1037.0| 7.0    |

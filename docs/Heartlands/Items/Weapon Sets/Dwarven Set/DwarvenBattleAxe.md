@@ -7,4 +7,4 @@ The heavy, broad axe head is forged from enchanted iron, with a thick cutting ed
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 56.6    | 2488.0| 12.0   |

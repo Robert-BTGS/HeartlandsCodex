@@ -6,6 +6,6 @@ Balanced for powerful overhead swings and punishing forward drives, it’s wield
 ![DiKadian War Hammer](../../../images\DiKadian War Hammer_11-8-2,025_23-34-47.png) 
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 54.8    | 2212.0| 14.0   |

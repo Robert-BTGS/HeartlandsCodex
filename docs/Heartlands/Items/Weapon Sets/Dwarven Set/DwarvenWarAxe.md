@@ -8,4 +8,4 @@ The axe head is heavy and broad, capable of splitting both shields and steel wit
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 27.2    | 1167.0| 8.0    |

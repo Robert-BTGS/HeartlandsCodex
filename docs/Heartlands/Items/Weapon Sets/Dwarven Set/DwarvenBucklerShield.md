@@ -8,4 +8,4 @@ Though modest in size, it carries the same indomitable craftsmanship found in ev
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 10.5    | 478.0 | 2.5    |

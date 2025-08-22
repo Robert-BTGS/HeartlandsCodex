@@ -8,4 +8,4 @@ Balanced perfectly for its wielder, allowing seamless transitions between defens
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 16.8    | 1340.0| 3.0    |

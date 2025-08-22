@@ -6,6 +6,6 @@ The blade’s weight is perfectly balanced for rapid assaults, allowing its wiel
 ![DiKadian Short Sword](../../../images\DiKadian Short Sword_11-8-2,025_23-29-18.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 14.7    | 459.0 | 8.0    |

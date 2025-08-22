@@ -5,6 +5,6 @@ Grafters can only work fresh bone, and though there are ways to prolong the deca
 [Bone Knuckles](../../../images\Bone knuckles_11-8-2,025_23-18-36.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.2     | 38.0  | 7.0    |

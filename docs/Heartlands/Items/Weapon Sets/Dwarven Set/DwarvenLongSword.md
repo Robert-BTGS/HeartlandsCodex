@@ -8,4 +8,4 @@ Its blade is broad and ridged, designed to deliver crushing slashes and controll
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 41.9    | 1990.0| 11.0   |

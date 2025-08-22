@@ -6,6 +6,6 @@ Though heavier than standard shields, its balanced design allows a stalwart bear
 ![DiKadian Great Shield](../../../images\DiKadian Great Shield_11-8-2,025_23-28-53.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 50.9    | 1089.0| 6.5    |

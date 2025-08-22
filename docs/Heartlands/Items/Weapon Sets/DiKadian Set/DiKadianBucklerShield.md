@@ -6,6 +6,6 @@ Despite its size, the buckler’s design allows for swift movement and quick par
 ![DiKadian Buckler Shield](../../../images\DiKadian Buckler Shield_11-8-2,025_23-28-36.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 9.8     | 425.0 | 2.5    |

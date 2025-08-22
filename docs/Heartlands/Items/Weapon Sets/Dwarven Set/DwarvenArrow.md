@@ -8,4 +8,4 @@ The fletching is minimal but precise, crafted from dark-feathered cliff raptors 
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.2     | 19.0  | 7.0    |

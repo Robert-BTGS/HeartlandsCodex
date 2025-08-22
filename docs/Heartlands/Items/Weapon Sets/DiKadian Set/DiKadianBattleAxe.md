@@ -6,6 +6,6 @@ The blade vibrates with each swing, stoking the warrior’s battle rage and rall
 ![DiKadian Battle Axe](../../../images\DiKadian Battle Axe_11-8-2,025_23-28-24.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 52.9    | 2212.0| 12.0   |

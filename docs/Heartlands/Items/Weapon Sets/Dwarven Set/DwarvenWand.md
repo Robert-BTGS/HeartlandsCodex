@@ -8,4 +8,4 @@ Though small in stature, it channels powerful, earthbound spells—shattering st
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.6     | 765.0 | 4.0    |

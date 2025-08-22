@@ -8,4 +8,4 @@ Though it lacks the elegance of elven design, it more than makes up for it with 
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 54.5    | 1225.0| 5.5    |

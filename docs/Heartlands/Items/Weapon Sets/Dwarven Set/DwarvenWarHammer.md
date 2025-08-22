@@ -8,4 +8,4 @@ Dwarves prize this weapon not only for its sheer destructive power, but for the 
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 58.7    | 2488.0| 14.0   |

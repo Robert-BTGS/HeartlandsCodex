@@ -8,4 +8,4 @@ Designed more for effectiveness than elegance, this sword is a favorite among dw
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 15.7    | 516.0 | 6.0    |

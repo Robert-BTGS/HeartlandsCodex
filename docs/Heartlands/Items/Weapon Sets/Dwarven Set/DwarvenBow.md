@@ -8,4 +8,4 @@ Its draw is heavy, requiring immense strength, but its arrows strike like hammer
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 16.8    | 823.0 | 8.0    |

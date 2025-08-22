@@ -6,6 +6,6 @@ With each swing, the mace cleaves through bone and metal as if it were paper thi
 ![DiKadian Mace](../../../images\DiKadian Mace_11-8-2,025_23-29-10.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 31.3    | 1378.0| 10.0   |

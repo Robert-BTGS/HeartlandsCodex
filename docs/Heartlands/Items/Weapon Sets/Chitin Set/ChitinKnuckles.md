@@ -6,6 +6,6 @@ All the information about all the items you might come across in the world of He
 ![Chitin Knuckles](../../../images\Chitin knuckles_11-8-2,025_23-15-17.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 1.8     | 6.0   | 5.0    |
