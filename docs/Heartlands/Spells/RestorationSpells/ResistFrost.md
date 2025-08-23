@@ -1,4 +1,4 @@
-# Resist Fost
+# Resist Frost
 
 * School of Magic: Restoration
 
