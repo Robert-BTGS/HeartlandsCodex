@@ -1,4 +1,4 @@
-# Potions
+# Very Strong Potion Of Restore Health
 
 All the information about all the items you might come across in the world of Heartlands.
 

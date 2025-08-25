@@ -1,4 +1,4 @@
-# Very Weak Potion Of Fortify Health
+# Average Potion Of Fortify Repair
 
 All the information about all the items you might come across in the world of Heartlands.
 

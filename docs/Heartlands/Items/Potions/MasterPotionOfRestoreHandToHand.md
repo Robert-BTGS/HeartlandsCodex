@@ -1,4 +1,4 @@
-# Potions
+# Master Potion Of Restore Hand To Hand
 
 All the information about all the items you might come across in the world of Heartlands.
 

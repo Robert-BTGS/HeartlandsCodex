@@ -1,4 +1,4 @@
-# Potions
+# Very Weak Potion Of Restore Luck
 
 All the information about all the items you might come across in the world of Heartlands.
 
