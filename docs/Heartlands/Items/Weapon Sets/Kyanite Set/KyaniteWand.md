@@ -5,6 +5,6 @@ Ideal for focused spellcasting, it enhances magical control and increases the po
 
 ![Kyanite Wand](../../../images\Kyanite Wand_11-8-2,025_23-48-18.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 3.3     | 1106.0| 2.0    |

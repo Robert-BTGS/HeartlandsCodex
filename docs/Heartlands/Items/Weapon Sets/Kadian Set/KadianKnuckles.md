@@ -6,6 +6,6 @@ Their reinforced structure and sharp ridges make them a deadly tool for deliveri
 ![Kadian Knuckles](../../../images\Kadian Knuckles_11-8-2,025_23-43-43.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 4.1     | 140.0 | 7.0    |

@@ -5,6 +5,6 @@ Forged for carnage, it feeds off the vitality of its victims, leaving behind a t
 
 ![Necro Battle Axe](../../../images\Necro Battle Axe_11-8-2,025_23-48-37.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 75.0    | 3871.0| 12.0   |

@@ -5,6 +5,6 @@ Built to withstand the hardest blows and protect orc warriors as they charge int
 
 ![Orc Great Shield](../../../images\Orc Great Shield_11-8-2,025_23-27-3.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 47.3    | 952.0 | 6.0    |

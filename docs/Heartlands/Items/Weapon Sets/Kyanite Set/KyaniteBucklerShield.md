@@ -5,6 +5,6 @@ Its light weight allows for quick, agile defense, while the crystal's magical pr
 
 ![Kyanite Buckler Shield](../../../images\Kyanite Buckler Shield_11-8-2,025_23-47-5.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 13.2    | 691.0 | 2.0    |

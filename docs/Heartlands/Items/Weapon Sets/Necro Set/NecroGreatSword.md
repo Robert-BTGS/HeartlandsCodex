@@ -5,6 +5,6 @@ A massive, bone-forged blade veined with dark energy, this greatsword cleaves th
 
 ![Necro Great Sword](../../../images\Necro Great Sword_11-8-2,025_23-49-10.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 66.7    | 4704.0| 14.0   |

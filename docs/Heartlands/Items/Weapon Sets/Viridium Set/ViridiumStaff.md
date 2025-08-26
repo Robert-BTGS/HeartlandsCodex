@@ -5,6 +5,6 @@ It channels deep, natural magic—amplifying elemental spells and offering a ste
 
 ![Viridium Staff](../../../images\Viridium Staff_11-8-2,025_23-51-34.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

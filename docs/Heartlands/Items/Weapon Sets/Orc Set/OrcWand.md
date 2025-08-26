@@ -5,6 +5,6 @@ Its unrefined design reflects the raw, untamed power it commands, often invoking
 
 ![Orc Wand](../../../images\orc Wand_11-8-2,025_23-28-9.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.3     | 595.0 | 2.0    |

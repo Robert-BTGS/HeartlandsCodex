@@ -5,6 +5,6 @@ The Usai Buckler Shield appears to be a small but sturdy round shield, designed 
 
 ![Usai Buckler Shield](../../../images\Usai Buckler Shield_11-8-2,025_23-22-58.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

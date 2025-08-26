@@ -6,6 +6,6 @@ Its razor-sharp, triangular blade tapers to a fine point, capable of piercing th
 ![Kadian Dagger](../../../images\Kadian Dagger_11-8-2,025_23-43-23.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 8.3     | 327.0 | 6.0    |

@@ -5,6 +5,6 @@ Its gleaming head is perfect for smashing through armor, and its silver composit
 
 ![Silver Mace](../../../images\Silver Mace_11-8-2,025_23-25-20.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 26.9    | 1033.0| 11.0   |

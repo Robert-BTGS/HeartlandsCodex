@@ -5,6 +5,6 @@ With each strike, it sends out a resonating thrum of natural force, capable of s
 
 ![Viridium One Handed Mace](../../../images\Viridium mace one Hand_11-8-2,025_23-51-7.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

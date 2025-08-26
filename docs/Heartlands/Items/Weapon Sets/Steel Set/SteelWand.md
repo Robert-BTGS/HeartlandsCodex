@@ -5,6 +5,6 @@ The geometric cut of the fire quartz crystal allows seemless integration with th
 
 ![Steel Wand](../../../images\Steel Wand_11-8-2,025_23-22-27.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

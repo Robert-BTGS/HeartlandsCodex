@@ -5,6 +5,6 @@ The grip is designed for maximum comfort and control, allowing for rapid, succes
 
 ![Usai Knuckles](../../../images\Usai Knuckles_11-8-2,025_23-23-16.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

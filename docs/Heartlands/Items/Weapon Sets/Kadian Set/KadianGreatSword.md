@@ -6,6 +6,6 @@ With a long, broad blade and a hilt that ensures a firm grip, this sword is idea
 ![Kadian Great Sword](../../../images\Kadian Great Sword_11-8-2,025_23-43-34.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 56.8    | 3596.0| 15.0   |

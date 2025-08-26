@@ -6,6 +6,6 @@ Featuring a vibrant green core surrounded by intricate engravings, this staff se
 ![Kadian Staff](../../../images\Kadian Staff_11-8-2,025_23-44-33.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 18.9    | 1637.0| 5.0    |

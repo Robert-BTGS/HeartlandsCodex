@@ -5,6 +5,6 @@ May not be elegant, but it’s deadly in the hands of an orc, perfect for stealt
 
 ![Orc Dagger](images\Orc Dagger_11-8-2,025_23-27-1.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 6.4     | 208.0 | 4.0    |

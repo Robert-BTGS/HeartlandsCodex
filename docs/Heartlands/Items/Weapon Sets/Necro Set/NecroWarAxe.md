@@ -5,6 +5,6 @@ Designed for carnage, it tears through enemies while spreading a rotting curse t
 
 ![Necro War Axe](../../../images\Necro War Axe_11-8-2,025_23-50-16.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 36.1    | 1816.0| 10.0   |

@@ -5,6 +5,6 @@ Lightweight and fast, it’s favored by rogues and duelists, and its silver edge
 
 ![Silver Short Sword](../../../images\Silver Short Sword_11-8-2,025_23-25-40.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 12.6    | 344.0 | 7.0    |

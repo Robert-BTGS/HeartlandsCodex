@@ -5,6 +5,6 @@ With its heavy head and spiked protrusions, it’s a weapon meant to break throu
 
 ![Orc Mace](../../../images\Orc Mace_11-8-2,025_23-27-26.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 36.4    | 1548.0| 12.0   |

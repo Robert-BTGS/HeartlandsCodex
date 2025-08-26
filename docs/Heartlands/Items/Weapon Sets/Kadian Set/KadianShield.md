@@ -6,6 +6,6 @@ The intricate patterns etched into the shield's surface, particularly the fierce
 ![Kadian Shield](../../../images\Kadian Shield_11-8-2,025_23-44-13.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 33.2    | 935.0 | 3.5    |

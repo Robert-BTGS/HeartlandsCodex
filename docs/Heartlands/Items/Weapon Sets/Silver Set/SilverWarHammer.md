@@ -5,6 +5,6 @@ The weight and design make it perfect for heavy combat, while the silver head is
 
 ![Silver War Hammer](../../../images\Silver War Hammer_11-8-2,025_23-26-11.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 47.2    | 1669.0| 13.0   |

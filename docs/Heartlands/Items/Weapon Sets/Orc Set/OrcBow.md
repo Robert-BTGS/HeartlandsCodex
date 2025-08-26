@@ -5,6 +5,6 @@ While not as refined as elven or human bows, its sheer strength allows for power
 
 ![Orc Bow](../../../images\Orc Bow_11-8-2,025_23-26-41.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 14.6    | 640.0 | 7.0    |

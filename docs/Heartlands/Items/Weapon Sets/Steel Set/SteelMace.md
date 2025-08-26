@@ -5,6 +5,6 @@ Heavy spikes are mounted through a solid sphere of steel. It is as deadly as it 
 
 ![Steel Mace](../../../images\Steel Mace_11-8-2,025_23-21-26.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

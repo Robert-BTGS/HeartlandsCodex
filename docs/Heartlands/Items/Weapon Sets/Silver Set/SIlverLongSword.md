@@ -5,6 +5,6 @@ Its sharp edge excels at both slashing and thrusting, and the silver makes it a 
 
 ![Silver Long Sword](../../../images\Silver Long Sword_11-8-2,025_23-25-14.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 33.7    | 1327.0| 11.0   |

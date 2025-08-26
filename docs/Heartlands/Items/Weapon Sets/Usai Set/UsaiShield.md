@@ -5,6 +5,6 @@ The overall aesthetic combines both elegance and functionality, making it a priz
 
 ![Usai Shield](../../../images\Usai Shield_11-8-2,025_23-23-31.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

@@ -5,6 +5,6 @@ The Usai Short Sword is crafted with precision, featuring a sleek blade ideal fo
 
 ![Usai Short Sword](../../../images\Usai Short Sword_11-8-2,025_23-23-36.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

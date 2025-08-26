@@ -5,6 +5,6 @@ A reliable weapon, while its shimmering surface amplifies magical abilities, esp
 
 ![Silver Staff](../../../images\Silver Staff_11-8-2,025_23-25-54.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 13.5    | 893.0 | 5.0    |

@@ -5,6 +5,6 @@ The balanced double-headed axe design allows it to deal devastating blows from v
 
 ![Usai Battle Axe](../../../images\Usai Battle Axe_11-8-2,025_23-22-49.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

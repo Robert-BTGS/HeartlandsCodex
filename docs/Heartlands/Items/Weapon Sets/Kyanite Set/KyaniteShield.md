@@ -5,6 +5,6 @@ A sturdy shield forged from gleaming kyanite, pulsing with protective energy. It
 
 ![Kyanite Shield](../../../images\Kyanite Shield_11-8-2,025_23-47-53.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 37.0    | 1106.0| 3.5    |

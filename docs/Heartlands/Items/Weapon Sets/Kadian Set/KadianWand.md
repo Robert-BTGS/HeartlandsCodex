@@ -5,6 +5,6 @@ With its slender shaft and delicate yet potent design, the Kadian Wand allows fo
 
 ![Kadian Wand](../../../images\Kadian Wand_11-8-2,025_23-44-43.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 3.0     | 935.0 | 4.0    |

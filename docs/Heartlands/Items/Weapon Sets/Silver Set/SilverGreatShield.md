@@ -5,6 +5,6 @@ Its reflective surface not only deflects attacks but can also serve to blind or 
 
 ![Silver Great Shield](../../../images\Silver Great Shield_11-8-2,025_23-24-57.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 43.8    | 816.0 | 5.5    |

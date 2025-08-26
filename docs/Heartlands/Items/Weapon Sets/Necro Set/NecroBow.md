@@ -5,6 +5,6 @@ It resonates with the power of death itself, channeling necrotic energy into eac
 
 ![Necro Bow](../../../images\Necro Bow_11-8-2,025_23-48-41.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 22.2    | 1280.0| 9.0    |

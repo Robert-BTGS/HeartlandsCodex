@@ -5,6 +5,6 @@ The overall structure of the dagger emphasizes agility and stealth, making it a 
 
 ![Usai Dagger](../../../images\Usai Dagger_11-8-2,025_23-23-6.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

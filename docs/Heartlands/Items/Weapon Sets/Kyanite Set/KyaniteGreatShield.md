@@ -5,6 +5,6 @@ A massive, imposing shield made from solid kyanite, offering unmatched protectio
 
 ![Kyanite Great Shield](../../../images\Kyanite Great Shield_11-8-2,025_23-47-24.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 68.7    | 1769.0| 5.5    |

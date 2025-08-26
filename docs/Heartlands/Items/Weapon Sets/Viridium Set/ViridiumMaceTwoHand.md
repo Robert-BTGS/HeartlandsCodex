@@ -5,6 +5,6 @@ A massive, double-handed hammer embedded with glowing veridium along its head.Ev
 
 ![Viridium Two Handed Mace](../../../images\Viridium mace two Hand_11-8-2,025_23-51-10.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

@@ -5,6 +5,6 @@ Serves as a powerful bludgeoning weapon and a symbol of authority among orc sham
 
 ![Orc Staff](../../../images\Orc Staff_11-8-2,025_23-28-1.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 14.6    | 1042.0| 4.0    |

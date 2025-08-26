@@ -5,6 +5,6 @@ With a blade forged for serrations, and a crossguard that would make shields loo
 
 ![Steel Long Sword](../../../images\Steel Long Sword_11-8-2,025_23-21-5.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

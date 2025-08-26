@@ -5,6 +5,6 @@ The magical properties of the crystal imbue the blade with an extra cutting edge
 
 ![Kyanite Dagger](../../../images\Kyanite Dagger_11-8-2,025_23-47-12.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 9.2     | 387.0 | 4.0    |

@@ -5,6 +5,6 @@ Its sharp edge makes it especially effective against supernatural creatures and 
 
 ![Silver Dagger](../../../images\Silver Dagger_11-8-2,025_23-24-44.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 5.9     | 178.0 | 5.0    |

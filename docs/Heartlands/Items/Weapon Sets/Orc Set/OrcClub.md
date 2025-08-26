@@ -5,6 +5,6 @@ Its simplicity is its strength—delivering crushing blows that can break bones 
 
 ![Orc Club](../../../images\Orc Club_11-8-2,025_23-26-51.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 18.2    | 640.0 | 7.0    |

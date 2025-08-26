@@ -5,6 +5,6 @@ Though compact, it carries a strong magical resonance that boosts the wielder’
 
 ![Kyanite Short Sword](../../../images\Kyanite Short Sword_11-8-2,025_23-47-58.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 19.8    | 746.0 | 7.0    |

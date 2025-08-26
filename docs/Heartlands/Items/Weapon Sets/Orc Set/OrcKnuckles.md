@@ -5,6 +5,6 @@ Designed for close-quarters brawling, these knuckles are favored by orcs who rel
 
 ![Orc Knuckles](../../../images\Orc knuckles_11-8-2,025_23-27-14.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 3.2     | 89.0  | 6.0    |

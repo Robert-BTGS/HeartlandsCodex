@@ -5,6 +5,6 @@ Two reinforced cutouts allow for the user versatility in using weapons, and usin
 
 ![Steel Shield](../../../images\Steel Shield_11-8-2,025_23-21-33.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

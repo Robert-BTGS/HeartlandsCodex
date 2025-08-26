@@ -5,6 +5,6 @@ This blade is more similar to a stiletto than sword. Its cruel, waved blade make
 
 ![Steel Short Sword](../../../images\Steel Short Sword_11-8-2,025_23-21-50.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

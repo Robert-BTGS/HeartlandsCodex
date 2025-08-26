@@ -5,6 +5,6 @@ The silver enhances the effectiveness of spells against dark creatures and magic
 
 ![Silver Wand](../../../images\Silver Wand_11-8-2,025_23-25-59.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.1     | 510.0 | 3.0    |

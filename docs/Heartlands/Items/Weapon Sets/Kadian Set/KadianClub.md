@@ -6,6 +6,6 @@ The large, sturdy head is adorned with heavy metal studs, designed to smash thro
 ![Kadian Club](../../../images\Kadian Club_11-8-2,025_23-43-19.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 23.7    | 1006.0| 8.0    |

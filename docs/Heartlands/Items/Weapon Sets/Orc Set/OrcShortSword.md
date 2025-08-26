@@ -5,6 +5,6 @@ Favored by orc warriors who prefer fast, overwhelming assaults rather than prolo
 
 ![Orc Short Sword](../../../images\Orc Short Sword_11-8-2,025_23-27-36.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 13.7    | 402.0 | 6.0    |

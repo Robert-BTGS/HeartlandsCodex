@@ -5,6 +5,6 @@ A finely crafted bow made from polished kyanite, reinforced with enchanted strin
 
 ![Kyanite Bow](../../../images\Kyanite Bow_11-8-2,025_23-47-3.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 21.1    | 1188.0| 9.0    |

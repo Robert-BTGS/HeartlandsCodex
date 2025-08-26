@@ -5,6 +5,6 @@ A small, lightweight shield formed from layered bark and veined with veridium cr
 
 ![Viridium Buckler Shield](../../../images\Viridium Buckler Shield_11-8-2,025_23-50-41.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

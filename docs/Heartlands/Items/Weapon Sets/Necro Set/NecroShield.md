@@ -5,6 +5,6 @@ It offers solid protection while exuding a draining aura that saps the stamina o
 
 ![Necro Shield](../../../images\Necro Shield_11-8-2,025_23-49-41.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 38.9    | 1191.0| 3.5    |

@@ -5,6 +5,6 @@ When fired, it carries with it a whisper of the grave—piercing flesh and sprea
 
 ![Necro Arrow](../../../images\Necro Arrow_11-8-2,025_23-48-33.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.3     | 29.0  | 9.0    |

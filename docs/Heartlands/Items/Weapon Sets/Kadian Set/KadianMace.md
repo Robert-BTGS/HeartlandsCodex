@@ -5,6 +5,6 @@ The intricate details etched into the mace's head suggest a refined design, comb
 ![Kadian Mace](../../../images\Kadian Mace_11-8-2,025_23-44-2.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 37.9    | 1895.0| 10.0   |

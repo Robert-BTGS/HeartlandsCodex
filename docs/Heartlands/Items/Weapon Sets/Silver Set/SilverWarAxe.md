@@ -5,6 +5,6 @@ A powerful war axe with a sharp, silver-bladed edge, made for cleaving through e
 
 ![Silver War Axe](../../../Heartlands\images\Silver War Axe_11-8-2,025_23-26-3.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 21.9    | 778.0 | 10.0   |

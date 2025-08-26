@@ -5,6 +5,6 @@ A double helix shaft reduces weight of the weapon while maintaining the strength
 
 ![Steel War Axe](../../../images\Steel War Axe_11-8-2,025_23-22-31.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

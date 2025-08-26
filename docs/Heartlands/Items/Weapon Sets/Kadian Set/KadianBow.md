@@ -6,6 +6,6 @@ Its elegant arc is forged from dark, polished wood that enhances both its beauty
 ![Kadian Bow](../../../images\Kadian Bow_11-8-2,025_23-43-8.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

@@ -5,6 +5,6 @@ Quick and precise, it slices through armor and wards alike, leaving behind a tra
 
 ![Viridium Dagger](../../../images\Viridium Dagger_11-8-2,025_23-50-51.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

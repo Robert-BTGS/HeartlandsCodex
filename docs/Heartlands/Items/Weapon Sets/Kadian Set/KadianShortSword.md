@@ -6,6 +6,6 @@ With a sharp, pointed blade, it's ideal for both offense and defense, offering t
 ![Kadian Short Sword](../../../images\Kadian Short Sword_11-8-2,025_23-44-20.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 17.8    | 631.0 | 7.0    |

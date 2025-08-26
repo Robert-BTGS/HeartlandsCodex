@@ -5,6 +5,6 @@ Light enough for fluid combat, yet strong enough to cleave with elemental force,
 
 ![Viridium Long Sword](../../../images\Viridium Long Sword_11-8-2,025_23-51-4.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

@@ -5,6 +5,6 @@ It amplifies necromantic spells, allowing the wielder to summon, curse, and drai
 
 ![Necro Staff](../../../images\Necro Staff_11-8-2,025_23-50-0.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 22.2    | 2084.0| 5.0    |

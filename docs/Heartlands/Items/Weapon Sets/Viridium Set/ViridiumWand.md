@@ -5,6 +5,6 @@ Ideal for focused spellcasting, it sharpens elemental spells and strengthens nat
 
 ![Viridium Wand](../../../images\Viridium Wand_11-8-2,025_23-51-38.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

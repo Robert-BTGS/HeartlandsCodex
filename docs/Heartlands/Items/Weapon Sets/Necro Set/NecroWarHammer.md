@@ -5,6 +5,6 @@ Each earth-shaking strike unleashes a burst of necrotic energy, splintering armo
 
 ![Necro War Hammer](../../../images\Necro War Hammer_11-8-2,025_23-50-21.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 77.8    | 3871.0| 13.0   |

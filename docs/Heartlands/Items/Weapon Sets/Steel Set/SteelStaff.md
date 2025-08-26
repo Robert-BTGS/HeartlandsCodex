@@ -5,6 +5,6 @@ A steel basket mounted to the head of this staff holds a cluster of fire quartz.
 
 ![Steel Staff](../../../images\Steel Staff_11-8-2,025_23-22-11.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

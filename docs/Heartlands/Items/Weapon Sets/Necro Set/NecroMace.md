@@ -5,6 +5,6 @@ Each crushing blow carries a necrotic shock, splintering bone and weakening the 
 
 ![Necro Mace](../../../images\Necro Mace_11-8-2,025_23-49-29.png) 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 44.5    | 2412.0| 11.5   |

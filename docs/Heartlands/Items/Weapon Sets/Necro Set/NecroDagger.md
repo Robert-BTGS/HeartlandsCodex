@@ -5,6 +5,6 @@ Perfect for swift, deadly strikes, it leaves lingering necrotic wounds that fest
 
 ![Necro Dagger](../../../images\Necro Dagger_11-8-2,025_23-48-57.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 9.7     | 416.0 | 4.0    |

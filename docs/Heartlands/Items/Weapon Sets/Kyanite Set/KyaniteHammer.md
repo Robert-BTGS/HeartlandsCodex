@@ -5,6 +5,6 @@ Delivers shockwaves with each blow, shaking the earth beneath its target and mak
 
 ![Kyanite Hammer](../../../images\Kyanite Hammer_11-8-2,025_23-47-37.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 47.6    | 2239.0| 10.0   |

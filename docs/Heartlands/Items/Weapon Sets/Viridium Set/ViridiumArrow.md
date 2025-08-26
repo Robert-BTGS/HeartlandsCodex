@@ -5,6 +5,6 @@ An arrow tipped with luminous green veridium crystal, humming with natural energ
 
 ![Viridium Arrow](../../../images\Viridium Arrow_11-8-2,025_23-50-28.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

@@ -5,6 +5,6 @@ Its strikes cut deep and disrupt magical defenses, making it a fearsome weapon a
 
 ![Kyanite War Axe](../../../images\Kyanite War Axe_11-8-2,025_23-48-22.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 34.3    | 1686.0| 10.0   |

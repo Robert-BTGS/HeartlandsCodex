@@ -5,6 +5,6 @@ It offers massive protection, and when struck, releases a grounding wave that st
 
 ![Viridium Great Shield](../../../images\Viridium Great Shield_11-8-2,025_23-50-53.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

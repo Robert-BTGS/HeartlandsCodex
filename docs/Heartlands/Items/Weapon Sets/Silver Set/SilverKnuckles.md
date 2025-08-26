@@ -5,6 +5,6 @@ Light yet lethal, these knuckles are ideal for quick brawls and are particularly
 
 ![Silver Knuckles](../../../images\Silver Knuckles_11-8-2,025_23-25-9.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.9     | 76.0  | 7.0    |

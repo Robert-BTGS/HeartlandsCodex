@@ -5,6 +5,6 @@ It not only blocks physical blows but pulses with dark energy that repels holy m
 
 ![Necro Great Shield](../../../images\Necro Great Shield_11-8-2,025_23-49-6.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 72.3    | 1905.0| 6.5    |

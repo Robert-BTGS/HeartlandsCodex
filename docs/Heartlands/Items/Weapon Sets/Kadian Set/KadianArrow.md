@@ -6,6 +6,6 @@ Its sleek, wooden shaft is dark and smooth, adorned with intricate etchings that
 ![Kadian Arrow.](../../../images\Kadian Arrow_11-8-2,025_23-42-33.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.2     | 23.0  | 9.0    |

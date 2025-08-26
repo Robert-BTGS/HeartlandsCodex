@@ -5,6 +5,6 @@ Its heavy, uneven blade cleaves through armor with ease, making it a favored wea
 
 ![Orc Great Sword](../../../images\Orc Great Sword_11-8-2,025_23-27-10.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 43.7    | 2352.0| 14.0   |

@@ -5,6 +5,6 @@ Each thunderous blow releases a burst of arcane force, capable of staggering ene
 
 ![Kyanite War Hammer](../../../images\Kyanite War Hammer_11-8-2,025_23-48-28.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 74.0    | 3594.0| 12.0   |

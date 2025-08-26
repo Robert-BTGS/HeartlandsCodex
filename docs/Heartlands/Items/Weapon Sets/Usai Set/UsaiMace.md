@@ -5,6 +5,6 @@ With its robust design, the Usai Mace is ideal for smashing through enemy defens
 
 ![Usai Mace](../../../images\Usai Mace_11-8-2,025_23-23-27.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

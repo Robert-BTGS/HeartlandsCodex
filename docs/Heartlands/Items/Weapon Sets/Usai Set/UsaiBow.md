@@ -5,6 +5,6 @@ The ends of the bow feature ornate carvings or hooks, which are likely to enhanc
 
 ![Usai Bow](../../../images\Usai Bow_11-8-2,025_23-22-53.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |

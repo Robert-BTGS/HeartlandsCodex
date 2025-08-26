@@ -6,6 +6,6 @@ The blade is long and pointed, allowing for swift, cutting strikes at a distance
 ![Kadian Long Sword](../../../images\Kadian Long Sword_11-8-2,025_23-43-52.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 47.4    | 2433.0| 11.0   |

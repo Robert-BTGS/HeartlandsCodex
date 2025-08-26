@@ -5,6 +5,6 @@ The perfect defense for orcs on the frontlines, capable of enduring even the har
 
 ![Orc Shield](../../../images\Orc Shield_11-8-2,025_23-27-29.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 25.5    | 595.0 | 3.0    |

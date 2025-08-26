@@ -5,6 +5,6 @@ A sheet of damascus fixed between a thicker piece of steel and a wooden frame. T
 
 ![Steel Great Sword](../../../images\Steel Great Sword_11-8-2,025_23-20-44.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
 | 0.0     | 0.0   | 0.0    |
