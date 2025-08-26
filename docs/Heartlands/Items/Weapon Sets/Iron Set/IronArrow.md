@@ -6,6 +6,6 @@ Simple, yet effective. These are found far and wide because of the readily avail
 ![Iron Arrow](../../../images\Iron Arrow_11-8-2,025_23-16-14.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.1     | 4.0   | 9.0    |

@@ -6,6 +6,6 @@ As straightforward to make as it is to use. It is heavier than most other weapon
 ![Iron War Hammer](../../../images\Iron War Hammer_11-8-2,025_23-17-53.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 31.8    | 553.0 | 13.0   |

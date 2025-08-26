@@ -6,6 +6,6 @@ Lightweight and perfectly balanced, it responds to the slightest gesture, allowi
 ![Elven Wand](../../../images\Elven Wand_11-8-2,025_23-42-18.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.8     | 850.0 | 3.0    |

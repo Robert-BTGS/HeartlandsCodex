@@ -8,4 +8,4 @@ Light yet incredibly powerful, allowing for swift, accurate shots that can strik
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 17.9    | 914.0 | 8.0    |

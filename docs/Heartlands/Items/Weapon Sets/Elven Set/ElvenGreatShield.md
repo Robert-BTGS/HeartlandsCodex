@@ -6,6 +6,6 @@ Wielded by elite guardians and high wardens, providing them with unmatched defen
 ![Elven Great Shield](../../../images\Elven Great Shield_11-8-2,025_23-41-24.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 58.0    | 1361.0| 5.5    |

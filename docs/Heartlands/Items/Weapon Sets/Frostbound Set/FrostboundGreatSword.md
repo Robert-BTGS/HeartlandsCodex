@@ -6,6 +6,6 @@ Cleaves through armor like it’s warm butter—and the very air around it shatt
 ![Frostbound Great Sword](../../../images\Frostbound Great Sword_11-8-2,025_23-45-55.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 60.1    | 4032.0| 13.0   |

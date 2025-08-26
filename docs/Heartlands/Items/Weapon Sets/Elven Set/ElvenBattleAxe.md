@@ -6,6 +6,6 @@ Each edge is razor-sharp, designed for fluid, sweeping strikes that combine eleg
 ![Elven Battle Axe](../../../images\Elven Battle Axe_11-8-2,025_23-40-44.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 60.3    | 2765.0| 13.0   |

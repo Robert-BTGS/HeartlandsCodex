@@ -6,6 +6,6 @@ They are an extension of the ice itself, turning the user’s hands into devasta
 ![Frostbound Knuckles](../../../images\Frostbound Knuckles_11-8-2,025_23-46-0.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 4.4     | 153.0 | 6.0    |

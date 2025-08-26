@@ -6,6 +6,6 @@ A vicious evolution of a punching dagger. The design is meant to make the weapon
 ![Iron Knuckles](../../../images\Iron Knuckles_11-8-2,025_23-16-53.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.0     | 25.0  | 6.0    |
