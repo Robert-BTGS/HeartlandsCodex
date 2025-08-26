@@ -6,6 +6,6 @@ It can be braced to anchor the front line or used to bash foes with bone‑shatt
 ![Frostbound Great Shield](../../../images\Frostbound Great Shield_11-8-2,025_23-45-43.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 65.1    | 1633.0| 6.5    |

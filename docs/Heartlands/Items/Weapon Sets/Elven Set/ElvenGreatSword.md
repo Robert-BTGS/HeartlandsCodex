@@ -5,6 +5,6 @@ When the moon rises, the blade sings its song—swift as the night breeze, sharp
 
 ![Elven Great Sword](../../../images\Elven Great Sword_11-8-2,025_23-41-29.png)
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 53.6    | 3360.0| 14.0   |

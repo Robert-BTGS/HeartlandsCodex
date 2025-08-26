@@ -6,6 +6,6 @@ Its edge holds a razor‑sharp frostbite, capable of leaving wounds that burn wi
 ![Frostbound Dagger](../../../images\Frostbound Dagger_13-8-2,025_17-31-40.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 8.8     | 357.0 | 6.0    |

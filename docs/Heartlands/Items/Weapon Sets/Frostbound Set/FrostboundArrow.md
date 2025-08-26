@@ -8,4 +8,4 @@ The arrowhead is a jagged shard of everice—an enchanted crystal colder than de
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.3     | 25.0  | 7.0    |

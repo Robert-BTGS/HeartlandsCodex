@@ -6,6 +6,6 @@ Smaller than a battleaxe, but weighted to more easily use in a single hand, ofte
 ![Iron War Axe](../../../images\Iron War Axe_11-8-2,025_23-17-48.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 14.8    | 259.0 | 8.0    |

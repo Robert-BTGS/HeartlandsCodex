@@ -6,6 +6,6 @@ Reliable and easy to replace. This is a staple of frontier garrisons and small m
 ![Iron Long Sword](../../../images\Iron Long Sword_11-8-2,025_23-16-59.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 22.7    | 442.0 | 11.0   |

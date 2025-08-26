@@ -6,6 +6,6 @@ A cherished relic among woodland vanguards—used to cleave through both enchant
 ![Elven War Axe](../../../images\Elven War Axe_11-8-2,025_23-42-24.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 29.0    | 1297.0| 8.0    |

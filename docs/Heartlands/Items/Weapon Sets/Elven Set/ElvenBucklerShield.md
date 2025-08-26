@@ -6,6 +6,6 @@ Light, nimble, and gracefully crafted to maintain swiftness in battle while prot
 ![Elven Buckler Shield](../../../images\Elven Buckler Shield_11-8-2,025_23-41-3.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 11.2    | 531.0 | 2.5    |

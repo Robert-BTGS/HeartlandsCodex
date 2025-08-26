@@ -6,6 +6,6 @@ Graceful in defense, reactive in battle, and often infused with spells that can 
 ![Elven Shield](../../../images\Elven Shield_11-8-2,025_23-41-51.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 31.2    | 850.0 | 4.0    |

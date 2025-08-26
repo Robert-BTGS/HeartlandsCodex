@@ -6,6 +6,6 @@ When raised in battle or ritual, it summons storms of ice, stills flame, and clo
 ![Frostbound Staff](../../../images\Frostbound Staff_11-8-2,025_23-46-28.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 20.0    | 1786.0| 4.0    |

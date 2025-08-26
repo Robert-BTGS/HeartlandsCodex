@@ -6,6 +6,6 @@ Each swing carries the weight of a frozen storm, slowing enemies and sometimes l
 ![Frostbound Battle Axe](../../../images\Frostbound Battle Axe_11-8-2,025_23-45-14.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 67.6    | 3318.0| 13.0   |

@@ -6,6 +6,6 @@ Lightweight for its size, the Frostbound Club can be swung rapidly in succession
 ![Frostbound Club](../../../images\Frostbound Club_11-8-2,025_23-45-32.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 25.1    | 1097.0| 7.0    |

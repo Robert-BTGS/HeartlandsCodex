@@ -6,6 +6,6 @@ Not only a weapon but a symbol of heritage, attunement, and unbroken harmony wit
 ![Elven Long Sword](../../../images\Elven Long Sword_11-8-2,025_23-41-38.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 44.6    | 2212.0| 11.0   |

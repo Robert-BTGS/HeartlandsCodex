@@ -4,6 +4,6 @@
 A blade that embodies grace and lethality in equal measure
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 7.8     | 297.0 | 5.0    |

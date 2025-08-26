@@ -6,6 +6,6 @@ An ideal weapon for soldiers and adventurers who need something dependable witho
 ![Iron Short Sword](../../../images\Iron Short Sword_11-8-2,025_23-17-24.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
+| Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 8.5     | 114.0 | 6.0    |
