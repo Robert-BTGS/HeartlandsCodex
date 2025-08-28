@@ -7,4 +7,4 @@ Though the construction of this weapon is superb, and the filigree elegant, the 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 38.1    | 1106.0| 13.0   |

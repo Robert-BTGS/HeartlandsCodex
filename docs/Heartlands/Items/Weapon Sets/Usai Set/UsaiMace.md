@@ -7,4 +7,4 @@ With its robust design, the Usai Mace is ideal for smashing through enemy defens
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 24.8    | 861.0 | 10.0   |

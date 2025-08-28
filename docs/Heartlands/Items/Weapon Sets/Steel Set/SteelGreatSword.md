@@ -7,4 +7,4 @@ A sheet of damascus fixed between a thicker piece of steel and a wooden frame. T
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 33.9    | 1344.0| 14.0   |

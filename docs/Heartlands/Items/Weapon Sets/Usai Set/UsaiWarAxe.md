@@ -7,4 +7,4 @@ The axe’s blade is made of strong, tempered steel, perfect for cleaving throug
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 20.1    | 648.0 | 10.0   |

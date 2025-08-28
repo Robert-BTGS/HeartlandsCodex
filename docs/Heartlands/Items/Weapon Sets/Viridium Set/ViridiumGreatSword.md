@@ -7,4 +7,4 @@ Its swings carry the weight of mountains, channeling earth-shaking power with ev
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 70.0    | 5040.0| 31.91  |

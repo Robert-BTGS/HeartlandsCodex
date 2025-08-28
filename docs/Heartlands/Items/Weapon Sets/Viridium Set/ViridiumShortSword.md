@@ -7,4 +7,4 @@ Swift and reliable, it’s perfect for close-quarters combat, with each strike d
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 21.9    | 861.0 | 12.76  |

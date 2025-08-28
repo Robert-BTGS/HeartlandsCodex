@@ -7,4 +7,4 @@ The geometric cut of the fire quartz crystal allows seemless integration with th
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 1.8     | 340.0 | 3.0    |

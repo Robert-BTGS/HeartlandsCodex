@@ -7,4 +7,4 @@ It pulses with a living energy that reinforces the bearer’s defenses and can b
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 40.8    | 1276.0| 6.38   |

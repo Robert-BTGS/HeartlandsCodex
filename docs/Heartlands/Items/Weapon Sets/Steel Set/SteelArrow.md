@@ -7,4 +7,4 @@ An elegant weapon, for a more civilized archer.
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.1     | 8.0   | 9.0    |

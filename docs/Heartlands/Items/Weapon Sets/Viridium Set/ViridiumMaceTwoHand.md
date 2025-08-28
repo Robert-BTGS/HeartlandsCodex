@@ -7,4 +7,4 @@ A massive, double-handed hammer embedded with glowing veridium along its head.Ev
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 46.7    | 2584.0| 23.4   |

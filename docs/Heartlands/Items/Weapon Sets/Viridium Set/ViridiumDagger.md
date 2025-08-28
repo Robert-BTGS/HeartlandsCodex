@@ -7,4 +7,4 @@ Quick and precise, it slices through armor and wards alike, leaving behind a tra
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 10.2    | 446.0 | 12.76  |

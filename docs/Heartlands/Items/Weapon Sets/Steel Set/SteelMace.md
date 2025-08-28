@@ -7,4 +7,4 @@ Heavy spikes are mounted through a solid sphere of steel. It is as deadly as it 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 22.6    | 689.0 | 11.0   |

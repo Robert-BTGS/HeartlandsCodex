@@ -7,4 +7,4 @@ This blade is more similar to a stiletto than sword. Its cruel, waved blade make
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 10.6    | 229.0 | 7.0    |

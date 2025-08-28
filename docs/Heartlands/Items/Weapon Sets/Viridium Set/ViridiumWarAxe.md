@@ -7,4 +7,4 @@ Built for ferocious swings and elemental impact, it strikes with the fury of a l
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 37.9    | 1946.0| 21.27  |

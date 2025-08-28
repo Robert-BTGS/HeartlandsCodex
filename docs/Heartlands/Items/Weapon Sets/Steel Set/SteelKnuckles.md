@@ -7,4 +7,4 @@ Long blades have been attached to a fairly simple knuckle, turning a normally mu
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.5     | 51.0  | 5.0    |

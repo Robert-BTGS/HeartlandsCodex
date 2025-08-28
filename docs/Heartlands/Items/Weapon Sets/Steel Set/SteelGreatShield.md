@@ -7,4 +7,4 @@ Crossguards are rarely found on daggers, but this dagger seems to be forged to c
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 36.7    | 544.0 | 6.0    |

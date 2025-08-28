@@ -7,4 +7,4 @@ Two reinforced cutouts allow for the user versatility in using weapons, and usin
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 19.7    | 340.0 | 3.5    |

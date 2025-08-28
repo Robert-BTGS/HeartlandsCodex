@@ -7,4 +7,4 @@ It cleaves with the weight of the wild—each strike resonating with the strengt
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 78.7    | 4147.0| 27.65  |

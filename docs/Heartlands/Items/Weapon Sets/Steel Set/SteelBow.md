@@ -7,4 +7,4 @@ It is likely that the original design of these bows focused on implementing meta
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 11.3    | 365.0 | 8.0    |

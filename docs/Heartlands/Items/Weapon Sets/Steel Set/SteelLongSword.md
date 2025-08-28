@@ -7,4 +7,4 @@ With a blade forged for serrations, and a crossguard that would make shields loo
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 28.2    | 884.0 | 12.0   |

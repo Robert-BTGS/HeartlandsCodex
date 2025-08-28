@@ -7,4 +7,4 @@ The balanced double-headed axe design allows it to deal devastating blows from v
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 41.8    | 1382.0| 12.0   |

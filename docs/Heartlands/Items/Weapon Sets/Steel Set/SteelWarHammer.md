@@ -7,4 +7,4 @@ Multiple angles along the striking edge of this hammer allows for focused points
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 39.5    | 1106.0| 12.0   |

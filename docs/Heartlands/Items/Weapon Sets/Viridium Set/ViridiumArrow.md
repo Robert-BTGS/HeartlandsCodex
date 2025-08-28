@@ -7,4 +7,4 @@ An arrow tipped with luminous green veridium crystal, humming with natural energ
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.3     | 31.0  | 14.89  |

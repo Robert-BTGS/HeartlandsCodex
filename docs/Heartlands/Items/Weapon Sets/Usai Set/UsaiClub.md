@@ -7,4 +7,4 @@ This weapon's balance between power and control suggests it is meant for strikin
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 15.5    | 457.0 | 8.0    |

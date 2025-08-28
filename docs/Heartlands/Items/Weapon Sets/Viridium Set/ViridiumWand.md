@@ -7,4 +7,4 @@ Ideal for focused spellcasting, it sharpens elemental spells and strengthens nat
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 3.6     | 1276.0| 6.38   |

@@ -7,4 +7,4 @@ The overall aesthetic combines both elegance and functionality, making it a priz
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 21.7    | 425.0 | 3.5    |

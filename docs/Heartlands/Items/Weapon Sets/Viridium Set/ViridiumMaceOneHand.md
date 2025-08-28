@@ -7,4 +7,4 @@ With each strike, it sends out a resonating thrum of natural force, capable of s
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 46.7    | 2584.0| 23.4   |

@@ -7,4 +7,4 @@ The ends of the bow feature ornate carvings or hooks, which are likely to enhanc
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 12.4    | 457.0 | 8.0    |

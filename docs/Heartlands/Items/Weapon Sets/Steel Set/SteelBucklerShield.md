@@ -8,4 +8,4 @@ Classic design for steel equipment: metal reinforcements on a wooden base, refin
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 7.1     | 212.0 | 2.0    |

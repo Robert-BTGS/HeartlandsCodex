@@ -7,4 +7,4 @@ Light enough for fluid combat, yet strong enough to cleave with elemental force,
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 58.3    | 3318.0| 25.52  |

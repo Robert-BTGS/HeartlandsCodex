@@ -7,4 +7,4 @@ The grip is designed for maximum comfort and control, allowing for rapid, succes
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 2.7     | 63.0  | 6.0    |

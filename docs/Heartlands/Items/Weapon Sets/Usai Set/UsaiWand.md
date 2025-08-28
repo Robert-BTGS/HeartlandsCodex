@@ -7,4 +7,4 @@ It is an ideal wand for the skilled mage, offering both elegance and incredible 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 1.9     | 425.0 | 2.0    |

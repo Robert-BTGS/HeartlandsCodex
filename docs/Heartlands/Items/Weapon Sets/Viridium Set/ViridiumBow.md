@@ -7,4 +7,4 @@ A beautifully crafted bow made of enchanted wood reinforced with strands of veri
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 23.3    | 1371.0| 14.89  |

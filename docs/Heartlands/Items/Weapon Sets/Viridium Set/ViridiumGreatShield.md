@@ -7,4 +7,4 @@ It offers massive protection, and when struck, releases a grounding wave that st
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 75.8    | 2041.0| 8.51   |

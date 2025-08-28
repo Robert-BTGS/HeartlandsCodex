@@ -7,4 +7,4 @@ Quick, silent, and deadly—perfect for close encounters, quick strikes, or a we
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 4.9     | 119.0 | 4.0    |

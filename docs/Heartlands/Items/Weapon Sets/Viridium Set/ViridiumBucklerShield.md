@@ -7,4 +7,4 @@ A small, lightweight shield formed from layered bark and veined with veridium cr
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 14.6    | 797.0 | 6.38   |

@@ -7,4 +7,4 @@ As piercing as the cold winds from the lands it came from.
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 0.2     | 10.0  | 7.0    |

@@ -7,4 +7,4 @@ Ideal for magic practitioners, the Usai Staff balances beauty and power, making 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 12.4    | 744.0 | 4.0    |

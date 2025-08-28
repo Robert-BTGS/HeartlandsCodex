@@ -7,4 +7,4 @@ The shield's shape offers excellent coverage, making it an ideal choice for abso
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 40.2    | 680.0 | 6.0    |

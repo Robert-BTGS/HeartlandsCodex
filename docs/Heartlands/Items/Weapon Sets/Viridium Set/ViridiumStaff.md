@@ -7,4 +7,4 @@ It channels deep, natural magic—amplifying elemental spells and offering a ste
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 23.3    | 2233.0| 10.64  |

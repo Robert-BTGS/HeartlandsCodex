@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+[Average Potion Of Fortify Long Blade](../../../images\Average Potion Of Fortify Long Blade_13-8-2,025_17-18-40.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

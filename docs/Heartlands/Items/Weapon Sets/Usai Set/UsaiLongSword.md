@@ -7,4 +7,4 @@ This sword excels in both offense and defense, making it a versatile choice for 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 30.9    | 1106.0| 12.9   |

@@ -7,4 +7,4 @@ Each punch delivers a grounded shock, disrupting enemies’ balance and striking
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 5.1     | 191.0 | 14.89  |

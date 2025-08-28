@@ -7,4 +7,4 @@ Whether in offense or defense, this great sword is a weapon that strikes fear in
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 37.1    | 1680.0| 13.0   |

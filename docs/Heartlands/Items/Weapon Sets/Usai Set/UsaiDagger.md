@@ -7,4 +7,4 @@ The overall structure of the dagger emphasizes agility and stealth, making it a 
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 5.4     | 148.0 | 4.0    |

@@ -7,4 +7,4 @@ A double helix shaft reduces weight of the weapon while maintaining the strength
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+| 18.3    | 518.0 | 10.3   |
