@@ -10,4 +10,4 @@ Fair dancer warmed desert nights so cold
 Swinging and twirling, this dervish drove wild
 Rippling razors at those she reviled
 
-* Short Blades
+* Short Blades Skill Book
