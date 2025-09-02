@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-[Average Potion Of Restore Destruction](../../../images\Average Potion Of Fortify Alteration_13-8-2,025_17-14-14.png)
+[Average Potion Of Restore Destruction](../../../images\Average Potion of Restore Destruction_12-8-2,025_21-4-37.png)
 
 ## Item stats
 | Weight  | Value |
