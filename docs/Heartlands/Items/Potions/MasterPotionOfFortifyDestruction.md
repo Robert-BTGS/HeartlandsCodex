@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Master Potion Of Fortify Destruction](../../..\images\Master Potion of Fortify Destruction_13-8-2,025_17-16-45.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

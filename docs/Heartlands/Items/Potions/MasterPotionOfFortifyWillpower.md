@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Master Potion Of Fortify Willpower](../../..\images\Master Potion of Fortify Willpower_13-8-2,025_17-22-32.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

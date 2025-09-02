@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Master Potion Of Fortify Heavy Armor](../../..\images\Master Potion of Fortify Heavy Armor_13-8-2,025_17-18-14.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

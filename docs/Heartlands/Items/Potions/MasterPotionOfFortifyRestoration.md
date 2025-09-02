@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Master Potion Of Fortify Restoration](../../..\images\Master Potion of Fortify Restoration_13-8-2,025_17-19-39.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

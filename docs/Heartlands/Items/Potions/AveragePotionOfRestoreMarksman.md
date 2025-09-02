@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Average Potion Of Restore Marksman](../../../images\Average Potion of Restore Marksman_13-8-2,025_17-12-5.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

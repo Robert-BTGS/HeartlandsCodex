@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Strong Potion Of Restore Long Blade](../../..\images\Strong Potion of Restore Long Blade_12-8-2,025_21-6-13.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|
