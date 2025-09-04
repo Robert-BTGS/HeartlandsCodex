@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion Of Fortify Heavy Armor_13-8-2,025_17-18-11.png
+![Very Strong Potion Of Fortify Heavy Armor](../../..\images\Very Strong Potion Of Fortify Heavy Armor_13-8-2,025_17-18-11.png)
 
 ## Item stats
 | Weight  | Value |

@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion Of Fortify Long Blade_13-8-2,025_17-18-46.png
+![Very Strong Potion Of Fortify Long Blade](../../..\images\Very Strong Potion Of Fortify Long Blade_13-8-2,025_17-18-46.png)
 
 ## Item stats
 | Weight  | Value |

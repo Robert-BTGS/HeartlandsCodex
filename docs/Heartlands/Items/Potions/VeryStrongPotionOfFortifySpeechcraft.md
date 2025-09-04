@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion Of Fortify Speechcraft_13-8-2,025_17-20-38.png
+![Very Strong Potion Of Fortify Speechcraft](../../..\images\Very Strong Potion Of Fortify Speechcraft_13-8-2,025_17-20-38.png)
 
 ## Item stats
 | Weight  | Value |

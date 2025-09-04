@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Very Weak Potion Of Fortify Marksman](../../..\images\Very Weak Potion Of Fortify Marksman_13-8-2,025_17-21-15.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

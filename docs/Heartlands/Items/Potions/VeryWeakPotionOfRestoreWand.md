@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Very Weak Potion Of Restore Wand](../../..\images\Very Weak Potion of Restore Wand_13-8-2,025_17-13-31.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

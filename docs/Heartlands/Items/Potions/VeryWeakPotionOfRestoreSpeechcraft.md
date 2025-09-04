@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Very Weak Potion Of Restore Speechcraft](../../..\images\Very Weak Potion of Restore Speechcraft_12-8-2,025_21-8-33.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

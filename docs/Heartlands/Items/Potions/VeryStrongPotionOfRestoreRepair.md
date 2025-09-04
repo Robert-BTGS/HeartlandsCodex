@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion of Restore Repair_13-8-2,025_17-13-48.png
+![Very Strong Potion of Restore Repair](../../..\images\Very Strong Potion of Restore Repair_13-8-2,025_17-13-48.png)
 
 ## Item stats
 | Weight  | Value |

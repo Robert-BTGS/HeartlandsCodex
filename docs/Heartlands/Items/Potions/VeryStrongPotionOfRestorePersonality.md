@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion Of Restore Personality_13-8-2,025_17-27-0.png
+![Very Strong Potion Of Restore Personality](../../..\images\Very Strong Potion Of Restore Personality_13-8-2,025_17-27-0.png)
 
 ## Item stats
 | Weight  | Value |

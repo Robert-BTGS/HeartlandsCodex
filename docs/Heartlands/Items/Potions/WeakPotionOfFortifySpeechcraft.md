@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Weak Potion Of Fortify Speechcraft](../../..\images\Weak Potion Of Fortify Speechcraft_13-8-2,025_17-20-31.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

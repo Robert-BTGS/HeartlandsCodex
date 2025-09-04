@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Very Weak Potion Of Restore Short Blade](../../..\images\Very Weak Potion of Restore Short Blade_12-8-2,025_21-7-17.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

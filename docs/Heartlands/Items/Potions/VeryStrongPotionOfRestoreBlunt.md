@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion of Restore Blunt_12-8-2,025_21-4-9.png
+![Very Strong Potion of Restore Blunt](../../..\images\Very Strong Potion of Restore Blunt_12-8-2,025_21-4-9.png)
 
 ## Item stats
 | Weight  | Value |

@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Weak Potion Of Fortify Restoration](../../..\images\Weak Potion Of Fortify Restoration_13-8-2,025_17-19-24.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

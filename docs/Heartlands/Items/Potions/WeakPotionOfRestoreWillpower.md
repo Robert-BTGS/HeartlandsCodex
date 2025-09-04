@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+![Weak Potion Of Restore Willpower](../../..\images\Weak Potion Of Restore Willpower_13-8-2,025_17-24-39.png)
+
 ## Item stats
 | Weight  | Value |
 |---------|-------|

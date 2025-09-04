@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\Very Strong Potion Of Fortify Willpower_13-8-2,025_17-22-30.png
+![Very Strong Potion Of Fortify Willpower](../../..\images\Very Strong Potion Of Fortify Willpower_13-8-2,025_17-22-30.png)
 
 ## Item stats
 | Weight  | Value |
