@@ -2,6 +2,8 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
+Heartlands\images\Gold ring_12-8-2,025_0-50-8.png
+
 ## Item stats
 | Weight  | Value | Armor  |
 |---------|-------|--------|
