@@ -1,15 +1,12 @@
 # Virella 
 
-## The Stonefast Bastion
+## The Blossoming Expanse
 
-* Capital: Korundal
+* Capital: Virella
 
-* Land: Towering alpine peaks, tundra plateaus, and glacial rivers.
+* Dominant Race: Terrans
 
-* People: The Saloens, stoic mountain-dwellers hardened by cold and hardship.
+* Landscape: Subtropical forests, waterfalls, tree savannas
 
-* Role: Irgavorn is the shield-wall of the north, supplying the Empire with steel, stone, and soldiers renowned for endurance. Its fortresses are carved into living cliffs, and its mines yield veins of heartsteel — rare metal coveted for enchantment.
-
-* History: Forged in centuries of clan warfare, Irgavorn swore fealty to the Empire after the War of Nine Peaks, where Kadian legions and Saloen shield-brothers together cast down the frost giants of the high passes.
-
+* Essence: In Virellia, life spills over with abundance. Terran cities perch in the boughs of titanic trees, their streets a dance of birdsong and flowerlight. Their culture reveres balance and renewal, drawing from ancient symbiosis with nature. Artisans, dreamers, and alchemists flourish beneath the green canopy, often guided by druidic circles and Heart Shard groves. To live in Virellia is to live with the forest, not merely within it.
 

@@ -14,6 +14,7 @@ Silent and calculating, Agents specialize in information and infiltration. They 
 - Light Armor
 - Hand To Hand
 - Unarmored
+- Intelligence
 
 ## Specialization
 - Stealth
