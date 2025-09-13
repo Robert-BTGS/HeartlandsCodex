@@ -5,4 +5,4 @@
 
 
 
-- To move the unmovable, to lift beyond limits, to break what was meant to last; this is Strength. Found in the backs of laborers and the hands of warriors, strength favors none, yet it can empower all. Where does your true power lie?
+- Strength is raw physical power. It governs the damage you deal with melee attacks, and how much you can carry.

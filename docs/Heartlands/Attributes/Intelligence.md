@@ -3,6 +3,6 @@
 
 - Intelligence: max magic, alchemy, enchanting, herbology, wand
 
-- Wise, as a predator waiting for its prey. Quick to respond, with the capacity to learn. Like the spider, your mind is a web, ready to catch information when it flies by.
+- Intelligence is the measure of your mind. It determines the size of your magic pool and your mastery of magic.
 
 
