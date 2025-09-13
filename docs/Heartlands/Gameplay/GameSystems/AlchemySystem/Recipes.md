@@ -1,8 +1,4 @@
-# Alchemy System
-
-The art of potion making.
-
-## Recipes
+# Recipes
 
 * Restore Endurance potion
 Apples and carrots,

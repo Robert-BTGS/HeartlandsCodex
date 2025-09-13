@@ -1,7 +1,7 @@
 # Endurance
 
 
-- Endurance: bow damage, max health, [Block](/HeartlandsCodex/Heartlands/Skills/block), [Heavy Armor](/HeartlandsCodex/Heartlands/Skills/HeavyArmor), [Repair](/HeartlandsCodex/Heartlands/Skills/Repair), [Unarmored](/HeartlandsCodex/Heartlands/Skills/Unarmored)
+- Endurance: bow damage, max health, [Block](/HeartlandsCodex/Heartlands/Skills/block), [Heavy Armor](/HeartlandsCodex/Heartlands/Skills/HeavyArmor), [Repair](/HeartlandsCodex/Heartlands/Skills/Repair), [Unarmored](/HeartlandsCodex/Heartlands/Skills/Unarmored)[Conjuration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Conjuration)
 
 
 
