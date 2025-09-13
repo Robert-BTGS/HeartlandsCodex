@@ -2,4 +2,3 @@
 
 All the information about the races that inhabit the lands.
 
-Add racial abilities to each.

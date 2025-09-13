@@ -1,3 +1,3 @@
 # Conjuration
 
-The school of summoning. Governs spells that call forth creatures, conjure weapons, or manipulate souls.
+The school of summoning. Governs spells that call forth creatures, or conjure weapons.

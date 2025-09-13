@@ -2,15 +2,14 @@
 
 ## The Dunes and Cliffs
 
-* Capital:  Tazhul
+* Capital:  Ziranu
 
-* Land:  Harsh coastal deserts, montane forests, and great salt flats glowing beneath twin moons.
+* Land:  Tropical rainforests, mangrove swamps, mist-drenched deltas
 
-* People: The Rocca, nomads turned traders, famed for their resilience and desert-bred war-beasts.
+* People: Nymaa
 
-* Role: Guardians of the Empire’s southern trade routes, Tazareth thrives on commerce and caravan, controlling the flow of gems, rare resins, and sun-baked glasswork.
+* Essence: Zircara is a realm half-seen—draped in mist and myth, its secrets guarded by shadow and vine. The Nymaa, serpentkin of sharp wit and ritual grace, rule with a silent elegance. Alchemy, espionage, and the subtle arts flourish beneath the canopy. It is whispered that in Zircara, old gods yet slumber beneath the roots, and the jungle itself decides who lives and who vanishes. Outsiders often find themselves watched... and rarely welcomed.
 
-* History: The Rocca once warred against the Kadians for a century, their raiders haunting desert passes. Peace was forged not by blade, but by marriage — a Roccan princess to a Kadian prince — sealing the province’s loyalty to the throne.
 
 
 

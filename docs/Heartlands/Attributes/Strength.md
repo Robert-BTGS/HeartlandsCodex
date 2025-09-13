@@ -1,7 +1,7 @@
 # Strength
 
 
-- Strength: Melee damage, carry capacity, Axe, Blunt, H2H, Long Blade
+- Strength: Melee damage, carry capacity, Axe, Blunt, Hand to Hand, Long Blade
 
 
 
