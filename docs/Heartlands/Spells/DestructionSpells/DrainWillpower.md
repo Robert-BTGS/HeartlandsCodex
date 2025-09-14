@@ -1,7 +1,5 @@
 # Drain Willpower
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Willpower
@@ -10,3 +8,4 @@
 
 * Description: Temporarily lowers the target’s willpower, reducing resistance to magical effects and weakening spellcasting ability.
 
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

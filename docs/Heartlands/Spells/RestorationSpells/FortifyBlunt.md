@@ -1,7 +1,5 @@
 # Fortify Blunt
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile
 
 * Magic Effects: Fortify Blunt
@@ -10,4 +8,4 @@
 
 * Description: Temporarily boosts the target’s blunt skill, increasing their efficiency with blunt weapons.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

@@ -1,7 +1,5 @@
 # Restore Blunt
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile, Channel
 
 * Magic Effects: Restore Blunt
@@ -10,4 +8,4 @@
 
 * Description: Gradually replenishes the target’s blunt skill, returning it to normal after being damaged or drained.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

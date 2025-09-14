@@ -1,7 +1,5 @@
 # Light
 
-* School of Magic: Illusion
-
 * Spell Type: Self
 
 * Magic Effects: Light
@@ -10,4 +8,5 @@
 
 * Description: Gives the caster a floating orb of light in the darkness.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

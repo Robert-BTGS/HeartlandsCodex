@@ -1,7 +1,5 @@
 # Chameleon
 
-* School of Magic: Illusion
-
 * Spell Type: Self
 
 * Magic Effects: Chameleon
@@ -10,4 +8,5 @@
 
 * Description: Makes the caster blend in with their environment temporarily.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

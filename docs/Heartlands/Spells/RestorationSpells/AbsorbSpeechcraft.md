@@ -1,7 +1,5 @@
 # Absorb Speechcraft
 
-* School of Magic: Restoration
-
 * Spell Type: Channel
 
 * Magic Effects: Absorb Speechcraft
@@ -10,4 +8,4 @@
 
 * Description: Transfers speechcraft skill from the target to the caster, reducing their persuasion success while boosting the caster’s.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

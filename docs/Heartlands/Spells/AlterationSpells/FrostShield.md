@@ -1,6 +1,6 @@
 # Frost Shield
 
-* School of Magic: Alteration
+* School of Magic [Alteration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Alteration)
 
 * Spell Type: Self
 
@@ -9,5 +9,4 @@
 * Damage Type: Magic
 
 * Description: Surrounds the caster with a protective layer of frost, boosting defense against physical damage and reducing incoming frost damage.
-
 

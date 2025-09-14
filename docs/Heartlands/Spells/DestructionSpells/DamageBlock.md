@@ -1,6 +1,6 @@
 # Damage Block
 
-* School of Magic: Destruction
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 
 * Spell Type: Rune, Projectile
 
@@ -9,5 +9,6 @@
 * Damage Type: Magic
 
 * Description: Weakens the target’s blocking ability, making them less effective at reducing incoming damage.
+
 
 

@@ -1,7 +1,5 @@
 # Drain Repair
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Repair
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s repair skill, reducing effectiveness when fixing equipment.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

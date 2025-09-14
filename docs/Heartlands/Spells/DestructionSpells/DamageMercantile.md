@@ -1,6 +1,6 @@
 # Damage Mercantile
 
-* School of Magic: Destruction
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 
 * Spell Type: Rune, Projectile
 
@@ -9,5 +9,6 @@
 * Damage Type: Magic
 
 * Description: Reduces the target’s mercantile skill, lowering their ability to trade effectively.
+
 
 

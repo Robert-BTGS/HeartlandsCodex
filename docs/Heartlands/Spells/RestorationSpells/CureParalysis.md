@@ -1,7 +1,5 @@
 # Cure Paralysis
 
-* School of Magic: Restoration
-
 * Spell Type: Channel, Projectile, Self
 
 * Magic Effects: Cure Paralysis
@@ -10,4 +8,4 @@
 
 * Description: Relieves the target affected by a paralyze spell.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

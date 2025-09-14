@@ -1,7 +1,5 @@
 # Night Eye
 
-* School of Magic: Illusion
-
 * Spell Type: Self
 
 * Magic Effects: Night Eye
@@ -10,4 +8,5 @@
 
 * Description: Makes it possible to see in the dark.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

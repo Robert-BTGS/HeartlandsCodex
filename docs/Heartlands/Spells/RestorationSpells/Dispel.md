@@ -1,7 +1,5 @@
 # Dispel
 
-* School of Magic: Restoration
-
 * Spell Type: Projectile, Self
 
 * Magic Effects: Dispel
@@ -10,4 +8,4 @@
 
 * Description: Removes active magical effects from the target, both harmful and beneficial.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

@@ -4,3 +4,5 @@
 
 - tall plant with pale pink flowers
 - first grown in the wetlands of Zircara
+
+[Marshmallow](/HeartlandsCodex/Heartlands/Items/Ingredients/Marshmallow/)

@@ -1,6 +1,6 @@
 # Shock Shield
 
-* School of Magic: Alteration
+* School of Magic [Alteration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Alteration)
 
 * Spell Type: Self
 

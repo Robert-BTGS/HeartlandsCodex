@@ -1,6 +1,6 @@
 # Summon Skeleton
 
-* School of Magic: Conjuration
+* School of Magic [Conjuration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Conjuration)
 
 * Spell Type: Self
 

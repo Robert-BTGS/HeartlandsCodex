@@ -1,7 +1,5 @@
 # Calm
 
-* School of Magic: Illusion
-
 * Spell Type: Projectile
 
 * Magic Effects: Calm
@@ -10,4 +8,4 @@
 
 * Description: Reduces target's aggression towards the caster.
 
-
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)

@@ -1,7 +1,5 @@
 # Drain Short Blade
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Short Blade
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s short blade skill, weakening the strength of attacks using short blades.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

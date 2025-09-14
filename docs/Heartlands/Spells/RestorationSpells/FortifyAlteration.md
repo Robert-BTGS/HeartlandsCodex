@@ -1,7 +1,5 @@
 # Fortify ALteration
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile
 
 * Magic Effects: Fortify Alteration
@@ -10,4 +8,4 @@
 
 * Description: Temporarily boosts the target’s alteration skill, increasing their ability to alter the world around them.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

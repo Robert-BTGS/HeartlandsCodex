@@ -1,7 +1,5 @@
 # Cure Poison
 
-* School of Magic: Restoration
-
 * Spell Type: Channel, Projectile, Self
 
 * Magic Effects: Cure Poison
@@ -10,4 +8,4 @@
 
 * Description: Removes all poison and its effects.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

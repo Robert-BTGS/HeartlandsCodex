@@ -1,7 +1,5 @@
 # Drain Strength
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Strength
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s strength, making them weaker to their opponents during battle.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

@@ -6,3 +6,5 @@
 
 - favored by the Nymaa
 - planted on graves to keep the Didren from whispering into the minds of the dead
+
+[Allium](/HeartlandsCodex/Heartlands/Items/Ingredients/Allium/)

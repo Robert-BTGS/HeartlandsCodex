@@ -1,7 +1,5 @@
 # Fortify Mercantile
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile
 
 * Magic Effects: Fortify Mercantile
@@ -10,4 +8,4 @@
 
 * Description: Temporarily boosts the target’s mercantile skill, improving effectiveness in buying and selling.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

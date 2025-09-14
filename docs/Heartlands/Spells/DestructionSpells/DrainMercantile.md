@@ -1,7 +1,5 @@
 # Drain Mercantile
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Mercantile
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s mercantile skill, reducing effectiveness in buying and selling.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

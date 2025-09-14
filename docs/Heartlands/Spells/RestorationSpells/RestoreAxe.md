@@ -1,7 +1,5 @@
 # Restore Axe
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile, Channel
 
 * Magic Effects: Resist Axe
@@ -10,4 +8,4 @@
 
 * Description: Gradually replenishes the target’s axe skill, returning it to normal after being damaged or drained.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

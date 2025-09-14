@@ -1,7 +1,5 @@
 # Shock Damage
 
-* School of Magic: Destruction
-
 * Spell Type: Sky, Ground, Rune, Channel, Projectile
 
 * Magic Effects: Shock Damage
@@ -10,4 +8,4 @@
 
 * Description: Inflicts lightning damage on target.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

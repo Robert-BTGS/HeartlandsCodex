@@ -1,7 +1,5 @@
 # Disintegrate Weapon
 
-* School of Magic: Destruction
-
 * Spell Type: Projectile, Channel
 
 * Magic Effects: Disintegrate Weapon
@@ -10,4 +8,5 @@
 
 * Description: Rapidly damages the target’s equipped weapon, reducing its durability and effectiveness.
 
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 

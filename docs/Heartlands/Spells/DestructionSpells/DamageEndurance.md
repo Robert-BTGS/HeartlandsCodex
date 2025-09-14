@@ -1,6 +1,6 @@
 # Damage Endurance
 
-* School of Magic: Restoration
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 
 * Spell Type: Rune, Projectile
 
@@ -9,5 +9,6 @@
 * Damage Type: Magic
 
 * Description: Lowers the target’s endurance, reducing overall stamina and resistance to fatigue.
+
 
 

@@ -1,7 +1,5 @@
 # Absorb Marksman
 
-* School of Magic: Restoration
-
 * Spell Type: Channel
 
 * Magic Effects: Absorb Marksman
@@ -10,3 +8,4 @@
 
 * Description: Transfers marksman skill from the target to the caster, reducing their accuracy and damage with ranged weapons while enhancing the caster’s.
 
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

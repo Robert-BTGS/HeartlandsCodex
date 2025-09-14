@@ -1,7 +1,5 @@
 # Cure Disease
 
-* School of Magic: Restoration
-
 * Spell Type: Channel, Projectile, Self
 
 * Magic Effects: Cure Disease
@@ -10,4 +8,4 @@
 
 * Description: Instantaneously heals any negative effects caused by a disease.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

@@ -1,7 +1,5 @@
 # Drain Light Armor
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Light Armor
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s light armor skill, reducing it's protection effectiveness.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

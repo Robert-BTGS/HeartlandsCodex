@@ -1,7 +1,5 @@
 # Silence
 
-* School of Magic: Illusion
-
 * Spell Type: Projectile, Rune
 
 * Magic Effects: Silence
@@ -10,4 +8,5 @@
 
 * Description: Prevents the target from being able to use their magic or spells temporarily.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

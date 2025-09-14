@@ -1,7 +1,5 @@
 # Weakness To Fire
 
-* School of Magic: Destruction
-
 * Spell Type: Projectile
 
 * Magic Effects: Weakness To Fire
@@ -10,4 +8,4 @@
 
 * Description: Reduces the target’s resistance to fire, making them more susceptible to fire damage.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

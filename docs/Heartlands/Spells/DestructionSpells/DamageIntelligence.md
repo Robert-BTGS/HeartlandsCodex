@@ -1,6 +1,6 @@
 # Damage Intelligence
 
-* School of Magic: Destruction
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 
 * Spell Type: Rune, Projectile
 

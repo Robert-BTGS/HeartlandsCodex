@@ -1,7 +1,5 @@
 # Weakness To Disease
 
-* School of Magic: Destruction
-
 * Spell Type: Projectile
 
 * Magic Effects: Weakness To Disease
@@ -10,4 +8,4 @@
 
 * Description: Reduces the target’s resistance to diseases, making them more susceptible to infection.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

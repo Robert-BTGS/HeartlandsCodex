@@ -1,7 +1,5 @@
 # Weakness To Frost
 
-* School of Magic: Destruction
-
 * Spell Type: Projectile
 
 * Magic Effects: Weakness To Frost
@@ -10,4 +8,4 @@
 
 * Description: Reduces the target’s resistance to frost, making them more susceptible to frost damage.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

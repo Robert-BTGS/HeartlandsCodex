@@ -10,4 +10,5 @@
 
 * Description: Weakens the target’s ability to use heavy armor, lowering its effectiveness.
 
+[Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 

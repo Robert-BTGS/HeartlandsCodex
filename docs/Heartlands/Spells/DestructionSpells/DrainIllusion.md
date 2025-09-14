@@ -1,7 +1,5 @@
 # Drain Illusion
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Illusion
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s illusion skill, reducing their ability to summon creatures or weapons.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

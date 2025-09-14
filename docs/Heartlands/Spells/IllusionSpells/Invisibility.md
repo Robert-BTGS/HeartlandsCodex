@@ -1,7 +1,5 @@
 # Invisibility
 
-* School of Magic: Illusion
-
 * Spell Type: Self
 
 * Magic Effects: Invisibility
@@ -10,4 +8,5 @@
 
 * Description: Makes the caster temporarily invisible, unable to be seen by their opponents.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

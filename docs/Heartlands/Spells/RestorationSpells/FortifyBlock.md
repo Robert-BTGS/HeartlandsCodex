@@ -1,7 +1,5 @@
 # Fortify Block
 
-* School of Magic: Restoration
-
 * Spell Type: Self, Projectile
 
 * Magic Effects: Fortify Block
@@ -10,4 +8,4 @@
 
 * Description: Temporarily boosts the target’s block skill, increasing their efficiency blocking attacks.
 
-
+* School of Magic [Restoration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Restoration)

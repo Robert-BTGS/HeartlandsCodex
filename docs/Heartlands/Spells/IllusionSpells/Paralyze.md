@@ -1,7 +1,5 @@
 # Paralyze
 
-* School of Magic: Illusion
-
 * Spell Type: Projectile, Rune, Ground, Sky
 
 * Magic Effects: Paralyze
@@ -10,4 +8,5 @@
 
 * Description: The caster makes it so the target is unable to move.
 
+* School of Magic [Illusion](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Illusion)
 

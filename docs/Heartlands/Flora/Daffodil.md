@@ -5,3 +5,4 @@
 - trumpet shaped yellow flower
 - associated with new beginnings
 
+[Dafodil](/HeartlandsCodex/Heartlands/Items/Ingredients/Dafodil/)

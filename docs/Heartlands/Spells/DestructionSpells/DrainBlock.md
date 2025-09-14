@@ -1,7 +1,5 @@
 # Drain Block
 
-* School of Magic: Destruction
-
 * Spell Type: Channel, Ground
 
 * Magic Effects: Drain Block
@@ -10,4 +8,4 @@
 
 * Description: Temporarily lowers the target’s block skill, weakening the strength of their blocks.
 
-
+* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
