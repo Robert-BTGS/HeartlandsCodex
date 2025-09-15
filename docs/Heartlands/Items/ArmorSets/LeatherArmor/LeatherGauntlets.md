@@ -1,7 +1,7 @@
 # Leather Gauntlets
 
 
-![Leather Gauntlets](../../../images\Leather Gauntlets_13-8-2,025_20-4-31.png)
+![Leather Gauntlets](../../../images/Leather Gauntlets_13-8-2,025_20-4-31.png)
 
 ## Item stats
 | Weight  | Value | Armor  |

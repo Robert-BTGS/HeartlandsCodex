@@ -1,4 +1,4 @@
-# Kadian Armor Set
+# Kyanite Armor Set
 
 
 Incomplete!

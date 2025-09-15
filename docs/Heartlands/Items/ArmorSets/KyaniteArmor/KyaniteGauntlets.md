@@ -1,7 +1,7 @@
 # Kyanite Gauntlets
 
 
-![Kyanite Gauntlets]
+![Kyanite Gauntlets](../../../images/Kyanite Gauntlets_13-8-2,025_20-9-34.png)
 
 ## Item stats
 | Weight  | Value | Armor  |

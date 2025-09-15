@@ -1,7 +1,7 @@
 # Kyanite Helmet
 
 
-![Kyanite Helmet]
+![Kyanite Helmet](../../../images/Kyanite Helmet_13-8-2,025_20-9-40.png)
 
 ## Item stats
 | Weight  | Value | Armor  |

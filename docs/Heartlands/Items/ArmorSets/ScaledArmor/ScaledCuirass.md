@@ -1,7 +1,7 @@
 # Scaled Cuirass
 
 
-![Scaled Cuirass](../../../images\Scaled Cuirass_13-8-2,025_20-3-55.png)
+![Scaled Cuirass](../../../images/Scaled Cuirass_13-8-2,025_20-3-55.png)
 
 ## Item stats
 | Weight  | Value | Armor  |
