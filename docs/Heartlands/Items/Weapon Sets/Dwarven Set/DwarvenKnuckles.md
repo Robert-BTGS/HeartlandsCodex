@@ -3,7 +3,7 @@
 
 Designed to slip over thick dwarven gloves or gauntlets, they turn fists into weapons capable of caving in helmets or shattering bones
 
-![Dwarven Knuckles](../../../images\Dwarven Knuckles_11-8-2,025_23-39-38.png)
+![Dwarven Knuckles](../../../images/Dwarven Knuckles_11-8-2,025_23-39-38.png)
 
 ## Item stats
 | Weight  | Value | Armor  |

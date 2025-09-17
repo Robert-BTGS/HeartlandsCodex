@@ -3,7 +3,7 @@
 
 A reliable weapon, while its shimmering surface amplifies magical abilities, especially against dark or cursed forces.
 
-![Silver Staff](../../../images\Silver Staff_11-8-2,025_23-25-54.png)
+![Silver Staff](../../../images/Silver Staff_11-8-2,025_23-25-54.png)
 ## Item stats
 | Weight  | Value | Damage |
 |---------|-------|--------|

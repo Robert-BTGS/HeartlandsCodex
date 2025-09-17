@@ -3,7 +3,7 @@
 
 The firm gills and sharp spines offer an implement that can withstand, and dish out, plenty of damage.
 
-![Chitin Buckler Shield](../../../images\Chitin Buckler Shield_11-8-2,025_23-14-21.png)
+![Chitin Buckler Shield](../../../images/Chitin Buckler Shield_11-8-2,025_23-14-21.png)
 
 ## Item stats
 | Weight  | Value | Damage |

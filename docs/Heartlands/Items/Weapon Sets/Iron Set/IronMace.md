@@ -3,7 +3,7 @@
 
 These often serve as visual deterrents to would be thieves and highwaymen. 
 
-![Iron Mace](../../../images\Iron Mace_11-8-2,025_23-17-3.png)
+![Iron Mace](../../../images/Iron Mace_11-8-2,025_23-17-3.png)
 
 ## Item stats
 | Weight  | Value | Damage |
