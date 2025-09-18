@@ -1,8 +1,7 @@
 # Cloth
 
 All the information about all the items you might come across in the world of Heartlands.
-
-Heartlands\images\Cloth_12-8-2,025_0-45-56.png
+![Cloth](../../../images/Cloth_12-8-2,025_0-45-56.png)
 
 ## Item stats
 | Weight  | Value | Armor  |
