@@ -2,7 +2,7 @@
 
 All the information about all the items you might come across in the world of Heartlands.
 
-Heartlands\images\cutting board_12-8-2,025_1-40-21.png
+![Cutting Board](../../../images/cutting board_12-8-2,025_1-40-21.png)
 
 ## Item stats
 | Weight  | Value | Armor  |
