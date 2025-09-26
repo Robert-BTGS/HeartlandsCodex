@@ -1,9 +1,8 @@
-# Steel Ingot
+# Wood Tankard
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Steel Ingot](../../../images/steel ingot_12-8-2,025_1-1-21.png)
-![Steel Ingot](../../../images/steel ingot_12-8-2,025_1-1-25.png)
+![Wood Tankard](../../../images/wooden tankard_12-8-2,025_2-26-56.png)
 
 ## Item stats
 | Weight  | Value | Armor  |
