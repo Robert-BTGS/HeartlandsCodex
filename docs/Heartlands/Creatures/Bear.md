@@ -1,5 +1,7 @@
 # Bear
-Brown Bear: Hulking lords of the forest, their massive forms cloaked in thick, eart-colored fur that ripples with muscles beneath. Though often solitary and deliberate in their movements, a brown bears charge is a thunderous explosionm of power. With claws as long as a mans hand and a roar that can shake leaves from the trees, they command respect and fear from all who wander their domain. 
+
+
+Brown Bear: Hulking lords of the forest, their massive forms cloaked in thick, earth-colored fur that ripples with muscles beneath. Though often solitary and deliberate in their movements, a brown bears charge is a thunderous explosionm of power. With claws as long as a mans hand and a roar that can shake leaves from the trees, they command respect and fear from all who wander their domain. 
 
 Some legends tell of bears so ancient and wise that moss grows along their backs and their eyes burn with the golden fire of the sun. 
 
