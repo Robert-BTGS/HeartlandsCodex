@@ -1,5 +1,6 @@
 # Scaled Boots
 
+Constructed from tough leather and reinforced with overlapping metal scales, these boots provide solid protection against both the elements and light strikes.
 
 ![Scaled Boots](../../../images/Scaled Boots_13-8-2,025_20-3-50.png)
 

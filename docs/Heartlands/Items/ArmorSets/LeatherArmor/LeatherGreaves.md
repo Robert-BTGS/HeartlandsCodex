@@ -1,5 +1,6 @@
 # Leather Greaves
 
+Their snug fit ensures comfort during long journeys or battles, making them ideal for those who need agility and defense in equal measure.
 
 ![Leather Greaves](../../../images/Leather Greaves_13-8-2,025_20-4-33.png)
 

@@ -1,5 +1,6 @@
 # Orcish Cuirass
 
+Crafted from toughened hide and reinforced with thick iron plates, this cuirass is designed to endure the harshest of blows.
 
 ![Orcish Cuirass](../../../images/Orcish Gauntlets_13-8-2,025_20-8-41.png)
 

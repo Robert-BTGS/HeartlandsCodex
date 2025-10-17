@@ -1,5 +1,6 @@
 # DiKadian Boots
 
+These finely crafted boots are made from supple leather and accented with intricate green stitching that shimmers in the light.
 
 ![DiKadian Boots](../../../images/DiKadian Boots_13-8-2,025_20-10-44.png)
 

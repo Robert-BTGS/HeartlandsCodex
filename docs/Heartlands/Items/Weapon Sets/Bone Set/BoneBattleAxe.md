@@ -1,6 +1,7 @@
 # Bone Battle Axe
 
-The remains of some great beast have been grafted to metal and wrought into an implement of war.
+This weapon is more than a tool of war. It’s a symbol of domination over nature and foe alike
+
 
 ## Item stats
 | Weight  | Value | Damage |

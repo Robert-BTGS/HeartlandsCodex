@@ -1,5 +1,6 @@
 # Guard Gauntlets
 
+Designed for practicality, they strike a balance between durability and dexterity for the everyday defender.
 
 ![Guard Gauntlets](../../../images/Guard Gauntlets_13-8-2,025_20-1-25.png)
 

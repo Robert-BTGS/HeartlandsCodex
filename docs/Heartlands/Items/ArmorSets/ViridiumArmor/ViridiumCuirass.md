@@ -1,5 +1,6 @@
 # Viridium Cuirass
 
+Forged from the rare and resilient viridium metal, this cuirass offers exceptional protection without sacrificing mobility.
 
 ![Viridium Cuirass](../../../images/Viridium Cuirass_13-8-2,025_20-2-34.png)
 

@@ -1,5 +1,6 @@
 # Steel Plate Greaves
 
+Engineered for maximum leg protection, these greaves are built with overlapping steel plates that shield the shins and thighs from devastating strikes.
 
 ![Steel Plate Greaves](../../../images/Steel Plate Greaves_13-8-2,025_20-7-37.png)
 

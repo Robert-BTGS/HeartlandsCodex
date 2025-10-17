@@ -1,5 +1,6 @@
 # Iron Boots
 
+Solid and reliable, these boots are forged from sturdy iron, offering excellent protection and support.
 
 ![Iron Boots](../../../images/Iron Boots_11-8-2,025_23-55-46.png)
 

@@ -1,5 +1,6 @@
 # Dwarven Cuirass
 
+Incredibly durable and resistant to both blades and flame, it offers steadfast protection in battle while honoring the proud craftsmanship of its creators.
 
 ![Dwarven Cuirass](../../../images/Dwarven Cuirass_13-8-2,025_20-10-19.png)
 

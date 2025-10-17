@@ -1,5 +1,6 @@
 # Void Boots
 
+They are lightweight yet durable, designed for those who tread the realms between worlds.
 
 ![Void Boots](../../../images/Void Boots_13-8-2,025_20-11-37.png)
 

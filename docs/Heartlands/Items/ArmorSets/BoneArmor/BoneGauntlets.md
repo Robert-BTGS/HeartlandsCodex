@@ -1,5 +1,6 @@
 # Bone Gauntlets
 
+The bone plating shields the hands and forearms, while the design allows for flexibility in movement.
 
 ![Bone Gauntlets](../../../images/Bone Greaves_13-8-2,025_20-5-47.png)
 

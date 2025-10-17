@@ -1,5 +1,6 @@
 # Silver Cuirass
 
+This beautifully crafted chestplate is forged from high-quality silver, offering both protection and a gleaming aesthetic.
 
 ![Silver Cuirass](../../../images/Silver Cuirass_13-8-2,025_20-8-20.png)
 

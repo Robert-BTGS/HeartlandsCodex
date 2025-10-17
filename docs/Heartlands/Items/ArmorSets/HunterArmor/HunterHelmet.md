@@ -1,5 +1,6 @@
 # Hunter Helmet
 
+Lightweight and close-fitting, this helmet is designed to offer essential protection while maintaining full visibility and hearing
 
 ![Hunter Helmet](../../../images/Hunter Helmet_13-8-2,025_20-0-59.png)
 

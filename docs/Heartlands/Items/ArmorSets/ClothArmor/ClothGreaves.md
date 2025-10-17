@@ -1,5 +1,6 @@
 # Cloth Greaves
 
+The simple design makes them ideal for agile adventurers who value speed and comfort over heavy protection.
 
 ![Cloth Greaves](../../../images/Cloth Greaves_13-8-2,025_20-44-5.png)
 
