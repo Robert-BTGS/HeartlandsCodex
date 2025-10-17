@@ -1,35 +1,13 @@
 # Plates
 
-All the information about all the items you might come across in the world of Heartlands.
+A few different plates you may come across in Heartlands! 
 
 ![Plate](../../../images/plate_13-8-2,025_21-10-13.png)
 ![Plate](../../../images/plate_12-8-2,025_1-25-42.png)
 ![Plate](../../../images/plate_12-8-2,025_1-35-32.png)
-![Plate](../../../images/plate_12-8-2,025_1-54-4.png)
-![Plate](../../../images/plate_12-8-2,025_1-54-43.png)
-![Plate](../../../images/plate_12-8-2,025_1-55-14.png)
-![Plate](../../../images/plate_12-8-2,025_1-55-20.png)
-![Plate](../../../images/plate_12-8-2,025_1-55-40.png)
-![Plate](../../../images/plate_12-8-2,025_1-56-19.png)
-![Plate](../../../images/plate_12-8-2,025_1-56-34.png)
-![Plate](../../../images/plate_12-8-2,025_1-57-20.png)
-![Plate](../../../images/plate_12-8-2,025_1-57-33.png)
 ![Plate](../../../images/plate_12-8-2,025_1-57-49.png)
 ![Plate](../../../images/plate_12-8-2,025_1-58-52.png)
 ![Plate](../../../images/plate_12-8-2,025_1-59-2.png)
-![Plate](../../../images/plate_12-8-2,025_2-0-9.png)
-![Plate](../../../images/plate_12-8-2,025_2-0-39.png)
-![Plate](../../../images/plate_12-8-2,025_2-0-44.png)
-![Plate](../../../images/plate_12-8-2,025_2-2-16.png)
-![Plate](../../../images/plate_12-8-2,025_2-4-6.png)
-![Plate](../../../images/plate_12-8-2,025_2-4-19.png)
-![Plate](../../../images/plate_12-8-2,025_2-4-27.png)
-![Plate](../../../images/plate_12-8-2,025_2-4-54.png)
-![Plate](../../../images/plate_12-8-2,025_2-5-39.png)
-![Plate](../../../images/plate_12-8-2,025_2-7-5.png)
-![Plate](../../../images/plate_12-8-2,025_2-7-14.png)
-![Plate](../../../images/plate_12-8-2,025_2-8-15.png)
-![Plate](../../../images/plate_12-8-2,025_2-9-12.png)
 ![Plate](../../../images/plate_12-8-2,025_2-11-12.png)
 ![Plate](../../../images/plate_12-8-2,025_2-11-18.png)
 ![Plate](../../../images/plate_12-8-2,025_2-11-28.png)
@@ -43,11 +21,6 @@ All the information about all the items you might come across in the world of He
 ![Plate](../../../images/plate_12-8-2,025_2-12-21.png)
 ![Plate](../../../images/plate_12-8-2,025_2-12-25.png)
 ![Plate](../../../images/plate_12-8-2,025_2-12-38.png)
-![Plate](../../../images/plate_12-8-2,025_2-13-59.png)
-![Plate](../../../images/plate_12-8-2,025_2-14-2.png)
-![Plate](../../../images/plate_12-8-2,025_2-14-3.png)
-![Plate](../../../images/plate_13-8-2,025_21-7-34.png)
-![Plate](../../../images/plate_13-8-2,025_21-8-47.png)
 
 ## Item stats
 | Weight  | Value | Armor  |
