@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Endurance
 
-All the information about all the items you might come across in the world of Heartlands.
+This restorative tonic replenishes stamina and strengthens resolve. It restores the body’s balance and focus, granting the drinker renewed steadiness to withstand hardship and fatigue.
 
 ![Very Strong Potion Of Restore Endurance](../../..\images\Very Strong Potion Of Restore Endurance_13-8-2,025_17-26-33.png)
 

@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Alteration
 
-All the information about all the items you might come across in the world of Heartlands.
+A refined potion that strengthens awareness of the world’s underlying structure. It restores the drinker’s focus on balance and transformation, allowing them to shape the material world with practiced precision.
 
 ![Very Strong Potion Of Fortify Alteration](../../..\images\Very Strong Potion Of Fortify Alteration_13-8-2,025_17-14-19.png)
 

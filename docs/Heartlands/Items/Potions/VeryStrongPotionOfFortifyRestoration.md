@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent elixir deepens connection to the restorative arts. It enhances clarity and control, allowing healing spells to flow more smoothly and return their full strength to the caster’s touch.
 
 ![Very Strong Potion Of Fortify Restoration](../../..\images\Very Strong Potion Of Fortify Restoration_13-8-2,025_17-19-32.png)
 

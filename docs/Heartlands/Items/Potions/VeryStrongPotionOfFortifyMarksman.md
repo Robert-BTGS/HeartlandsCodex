@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Marksman
 
-All the information about all the items you might come across in the world of Heartlands.
+This focused tonic renews patience and awareness, steadying the hand and sharpening the eye. Each shot finds its rhythm, guided by the quiet confidence of preparation.
 
 ![Very Strong Potion Of Fortify Marksman](../../..\images\Very Strong Potion Of Fortify Marksman_13-8-2,025_17-21-24.png)
 

@@ -1,5 +1,6 @@
 # Very Strong Potion Of Restore Health
-All the information about all the items you might come across in the world of Heartlands.
+
+This potent restorative mends wounds and renews vitality. It strengthens the body’s natural balance, restoring life and vigor with calm, steady healing.
 
 ![Very Strong Potion Of Restore Health](../../..\images\Very Strong Potion of Restore Heavy Armor_12-8-2,025_21-5-38.png)
 

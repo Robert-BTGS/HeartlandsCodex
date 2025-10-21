@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+A potent potion that renews focus and strengthens the link between the caster and distant planes. It sharpens control and will, allowing summoned forces to appear with greater clarity and obedience.
 
 ## Item stats
 | Weight  | Value |

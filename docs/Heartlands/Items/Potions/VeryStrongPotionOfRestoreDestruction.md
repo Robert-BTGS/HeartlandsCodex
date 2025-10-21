@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Destruction
 
-All the information about all the items you might come across in the world of Heartlands.
+This balanced elixir restores control over elemental power. It refines focus and precision, allowing fire, frost, and lightning to once again obey the caster’s measured command.
 
 ![Very Strong Potion of Restore Destruction](../../..\images\Very Strong Potion of Restore Destruction_12-8-2,025_21-4-42.png)
 

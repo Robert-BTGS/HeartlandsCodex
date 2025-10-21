@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Short Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A finely crafted potion that heightens agility and precision. It restores the instinctive balance of motion and timing, allowing every strike to cut with clarity and intent.
 
 ## Item stats
 | Weight  | Value |

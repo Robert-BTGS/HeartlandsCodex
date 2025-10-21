@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Endurance
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent tonic strengthens both body and resolve. It restores vitality, reinforces stamina, and steadies the drinker’s focus through hardship and fatigue alike.
 
 ## Item stats
 | Weight  | Value |

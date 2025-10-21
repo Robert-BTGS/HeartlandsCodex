@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent elixir refines focus and precision in channeling magical energy. It enhances the stability of spellcasting, letting the wand become a perfect extension of will.
 
 ![Very Strong Potion Of Fortify Wand](../../..\images\Very Strong Potion Of Fortify Wand_13-8-2,025_17-21-39.png)
 

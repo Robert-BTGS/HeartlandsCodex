@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+A potent restorative that renews the mind’s focus and strengthens the bond between worlds. It restores the clarity and will needed to summon and command with steady intent.
 
 ![Very Strong Potion of Restore Conjuration](../../..\images\Very Strong Potion of Restore Conjuration_12-8-2,025_21-4-24.png)
 

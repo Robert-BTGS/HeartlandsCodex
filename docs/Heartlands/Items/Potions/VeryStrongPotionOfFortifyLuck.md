@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+This rare and potent brew restores harmony between fate and instinct. It attunes the drinker to opportunity, drawing chance toward those prepared to seize it.
 
 ![Very Strong Potion Of Fortify Luck](../../..\images\Very Strong Potion Of Fortify Luck_13-8-2,025_17-24-4.png)
 

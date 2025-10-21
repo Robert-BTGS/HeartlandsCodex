@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Block
 
-All the information about all the items you might come across in the world of Heartlands.
+A disciplined tonic that restores timing, poise, and awareness. It renews the practiced instincts behind defense, allowing the drinker to meet each strike with perfect steadiness once again.
 
 ![Very Strong Potion of Restore Block](../../..\images\Very Strong Potion of Restore Block_12-8-2,025_21-3-42.png)
 

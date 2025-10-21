@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Intelligence
 
-All the information about all the items you might come across in the world of Heartlands.
+A carefully balanced elixir that heightens clarity and understanding. It restores sharpness of thought and strengthens memory, allowing complex ideas to connect with effortless precision.
 
 ## Item stats
 | Weight  | Value |

@@ -1,7 +1,6 @@
 # Very Strong Potion Of Fortify Sneak
 
-All the information about all the items you might come across in the world of Heartlands.
-
+This subtle elixir restores focus and composure to the art of silence. It refines awareness and rhythm, letting the drinker move unseen through stillness and shadow alike.
 ![Very Strong Potion Of Fortify Sneak](../../..\images\Very Strong Potion Of Fortify Sneak_13-8-2,025_17-20-8.png)
 
 ## Item stats

@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A refined potion that restores balance, precision, and confidence in the art of the sword. It enhances timing and control, turning every motion into a perfect extension of purpose.
 
 ![Very Strong Potion Of Fortify Long Blade](../../..\images\Very Strong Potion Of Fortify Long Blade_13-8-2,025_17-18-46.png)
 

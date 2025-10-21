@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Light Armor
 
-All the information about all the items you might come across in the world of Heartlands.
+This agile potion restores grace and control to movement, enhancing the bond between motion and defense. It allows the wearer to move with both speed and stability, flowing seamlessly through combat.
 
 ![Very Strong Potion Of Fortify Light Armor](../../..\images\Very Strong Potion Of Fortify Light Armor_13-8-2,025_17-18-29.png)
 

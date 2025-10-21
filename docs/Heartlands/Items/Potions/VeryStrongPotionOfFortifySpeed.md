@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+This invigorating tonic heightens coordination and sharpens awareness. It restores the connection between mind and motion, granting effortless movement guided by steady control.
 
 ![Very Strong Potion Of Fortify Speed](../../..\images\Very Strong Potion Of Fortify Speed_13-8-2,025_17-22-47.png)
 

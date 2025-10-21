@@ -1,6 +1,6 @@
 # Very Strong Potion Of Fortify Health
 
-All the information about all the items you might come across in the world of Heartlands.
+This powerful restorative reinforces the drinker’s natural vitality. It strengthens the body’s endurance, fortifying every heartbeat and renewing the will to stand against any foe.
 
 ![Very Strong Potion of Fortify Health](../../..\images\Very Strong Potion of Fortify Health_12-8-2,025_21-2-8.png)
 
