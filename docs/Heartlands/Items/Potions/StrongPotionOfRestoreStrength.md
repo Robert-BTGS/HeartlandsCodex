@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Strength
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent restorative renews vitality and inner fortitude. It restores balance between body and will, returning both energy and confidence to their rightful harmony.
 
 ![Strong Potion of Restore Staff](../../..\images\Strong Potion Of Restore Strength_13-8-2,025_17-24-13.png)
 

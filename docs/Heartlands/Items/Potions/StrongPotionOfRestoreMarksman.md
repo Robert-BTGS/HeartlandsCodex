@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Marksman
 
-All the information about all the items you might come across in the world of Heartlands.
+This steadying potion renews the patience and control behind a perfect shot. It restores balance between breath and movement, allowing every arrow or bolt to fly true.
 
 ![Strong Potion of Restore Marksman](../../..\images\Strong Potion of Restore Marksman_13-8-2,025_17-12-8.png)
 

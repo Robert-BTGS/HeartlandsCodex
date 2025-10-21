@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Unarmored
 
-All the information about all the items you might come across in the world of Heartlands.
+A disciplined restorative that renews awareness and precision in movement. It restores the agility and control that allow the unarmored fighter to flow effortlessly through both attack and defense.
 
 ![Strong Potion of Restore Unarmored](../../..\images\Strong Potion of Restore Unarmored_13-8-2,025_17-10-26.png)
 

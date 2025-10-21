@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Personality
 
-All the information about all the items you might come across in the world of Heartlands.
+This subtle potion restores composure and the ease of self-expression. It renews charm and confidence, allowing the drinker’s natural presence to shine with quiet strength.
 
 ## Item stats
 | Weight  | Value |

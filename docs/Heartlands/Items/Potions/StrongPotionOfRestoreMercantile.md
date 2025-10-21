@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Mercantile
 
-All the information about all the items you might come across in the world of Heartlands.
+A composed tonic that restores clarity and assurance in trade. It renews the instinct for negotiation and balance, allowing the drinker to speak and bargain with steady confidence once more.
 
 ![Strong Potion Of Restore Mercantile](../../..\images\Strong Potion of Restore Mercantile_12-8-2,025_21-6-52.png)
 

@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Short Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A finely balanced potion that restores coordination and speed to the trained duelist. It renews precision and rhythm, letting every motion return to the flow of deliberate skill.
 
 ![Strong Potion of Restore Short Blade](../../..\images\Strong Potion of Restore Short Blade_12-8-2,025_21-7-27.png)
 
