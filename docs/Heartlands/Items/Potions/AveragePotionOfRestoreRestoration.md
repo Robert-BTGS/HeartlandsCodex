@@ -1,6 +1,6 @@
 # Average Potion Of Restore Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+When consumed, it renews the drinker’s connection to healing magic, restoring balance and focus to the hands that mend and the heart that guides them.
 
 ![Average Potion Of Restore Restoration](../../../images\Average Potion of Restore Restoration_12-8-2,025_21-7-8.png)
 

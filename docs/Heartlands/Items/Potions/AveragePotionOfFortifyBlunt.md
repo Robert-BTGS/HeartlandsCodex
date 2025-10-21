@@ -1,7 +1,6 @@
 # Average Potion Of Fortify Blunt
 
-All the information about all the items you might come across in the world of Heartlands.
-
+Favored by knights and battlemages alike, this dense tonic fills the body with steady power. Each swing of a mace or hammer lands heavier, striking with the weight of conviction and the force of iron.
 
 
 ## Item stats

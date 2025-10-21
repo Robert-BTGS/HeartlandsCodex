@@ -1,6 +1,6 @@
 # Master Potion Of Restore Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+This rare restorative elixir realigns the drinker’s fortunes, restoring their attunement to chance and fate. It renews confidence and intuition, allowing opportunity to find its way once more.
 
 ## Item stats
 | Weight  | Value |

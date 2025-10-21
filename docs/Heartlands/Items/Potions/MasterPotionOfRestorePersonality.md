@@ -1,6 +1,6 @@
 # Master Potion Of Restore Personality
 
-All the information about all the items you might come across in the world of Heartlands.
+A refined restorative that renews warmth, composure, and self-assurance. It restores one’s presence and natural magnetism, allowing confidence and charm to shine effortlessly once again.
 
 ![Master Potion Of Restore Personality](../../..\images\Master Potion of Restore Personality_13-8-2,025_17-27-3.png)
 

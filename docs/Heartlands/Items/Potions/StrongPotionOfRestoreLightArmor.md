@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Light Armor
 
-All the information about all the items you might come across in the world of Heartlands.
+A balanced potion that restores coordination and precision of movement. It renews agility and awareness, letting the wearer move with renewed control and confidence in battle.
 
 ![Strong Potion Of Restore Light Armor](../../..\images\Strong Potion of Restore Light Armor_12-8-2,025_21-5-55.png)
 

@@ -1,6 +1,6 @@
 # Average Potion Of Restore Block
 
-All the information about all the items you might come across in the world of Heartlands.
+When consumed, it renews the drinker’s defensive instincts and steadies their stance, restoring focus and stamina lost to battle’s strain.
 
 ![Average Potion Of Restore Block](../../../images\Average Potion of Restore Block_12-8-2,025_21-3-36.png)
 

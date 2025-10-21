@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Hand To Hand
 
-All the information about all the items you might come across in the world of Heartlands.
+A concentrated tonic that channels raw physical power and precision into every motion. It sharpens instinct, strengthens impact, and restores the harmony between focus and force in close combat.
 
 ![Master Potion Of Fortify Hand To Hand](../../..\images\Master Potion of Fortify Hand To Hand_13-8-2,025_17-17-55.png)
 

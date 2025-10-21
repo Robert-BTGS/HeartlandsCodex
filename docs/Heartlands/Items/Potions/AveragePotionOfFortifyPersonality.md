@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Personality
 
-All the information about all the items you might come across in the world of Heartlands.
+This potion enhances charm and presence, making words more persuasive and smiles more disarming.
 
 ## Item stats
 | Weight  | Value |

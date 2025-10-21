@@ -1,6 +1,6 @@
 # Master Potion Of Restore Illusion
 
-All the information about all the items you might come across in the world of Heartlands.
+This refined elixir restores clarity and subtlety of mind, renewing mastery over perception and influence. It restores focus to weave deception, charm, and calm with flawless control.
 
 ![Master Potion Of Restore Illusion](../../..\images\Master Potion of Restore Illusion_12-8-2,025_21-6-40.png)
 

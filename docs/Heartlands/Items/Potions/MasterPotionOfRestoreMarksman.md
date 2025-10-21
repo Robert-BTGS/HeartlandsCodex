@@ -1,6 +1,6 @@
 # Master Potion Of Restore Marksman
 
-All the information about all the items you might come across in the world of Heartlands.
+A precise and steadying potion that restores the focus, patience, and coordination required of a true marksman. It renews the harmony between breath and motion, ensuring every shot finds its mark.
 
 ![Master Potion Of Restore Marksman](../../..\images\Master Potion of Restore Marksman_13-8-2,025_17-13-27.png)
 

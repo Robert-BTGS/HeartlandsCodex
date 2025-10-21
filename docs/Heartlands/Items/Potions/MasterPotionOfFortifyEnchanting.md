@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+This refined elixir sharpens the mind and attunes the spirit to the subtle flow of magic within matter. It heightens control and understanding, allowing enchantments to take hold with unmatched strength and clarity.
 
 ![Master Potion Of Fortify Enchanting](../../..\images\Master Potion of Fortify Enchanting_13-8-2,025_17-17-40.png)
 

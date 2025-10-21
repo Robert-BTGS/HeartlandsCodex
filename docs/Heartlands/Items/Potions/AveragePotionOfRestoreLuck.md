@@ -1,6 +1,6 @@
 # Average Potion Of Restore Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+Drinking it restores one’s alignment with fortune, renewing the subtle flow of chance that can turn fate in the drinker’s favor.
 
 ![Average Potion Of Restore Luck](../../../images\Average Potion Of Restore Luck_13-8-2,025_17-27-11.png)
 

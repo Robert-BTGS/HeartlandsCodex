@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Magic
 
-All the information about all the items you might come across in the world of Heartlands.
+When consumed, it floods the drinker’s body with pure arcane energy, expanding their magical reserves and empowering every spell they cast.
 
 ![Average Potion Of Fortify Magic](../../../images\Average Potion of Fortify Magic_12-8-2,025_21-1-23.png)
 

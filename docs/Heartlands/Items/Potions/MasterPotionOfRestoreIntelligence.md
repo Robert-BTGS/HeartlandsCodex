@@ -1,6 +1,6 @@
 # Master Potion Of Restore Intelligence
 
-All the information about all the items you might come across in the world of Heartlands.
+An expertly crafted tonic that revives clarity and recollection. It restores the drinker’s insight and mental acuity, awakening the depth of thought needed to master study, strategy, and spellcraft alike.
 
 ![Master Potion Of Restore Intelligence](../../..\images\Master Potion of Restore Intelligence_13-8-2,025_17-24-28.png)
 

@@ -1,6 +1,6 @@
 # Master Potion Of Restore Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+A balanced tonic that renews control, reaction, and flow. It restores the effortless coordination between thought and motion, letting the drinker move with confidence and precision once again.
 
 ![Master Potion Of Restore Speed](../../..\images\Master Potion of Restore Speed_13-8-2,025_17-25-5.png)
 

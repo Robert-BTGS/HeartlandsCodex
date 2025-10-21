@@ -1,6 +1,6 @@
 # Master Potion Of Restore Mercantile
 
-All the information about all the items you might come across in the world of Heartlands.
+This sophisticated elixir restores intuition, charm, and confidence in negotiation. It rekindles the natural flow of persuasion and perception that defines a skilled trader.
 
 ![Master Potion Of Restore Mercantile](../../..\images\Master Potion of Restore Mercantile_12-8-2,025_21-6-59.png)
 

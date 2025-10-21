@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Staff
 
-All the information about all the items you might come across in the world of Heartlands.
+A focused elixir that restores balance and coordination between body and weapon. It enhances control and striking form, allowing the wielder to channel strength and precision through every motion.
 
 ![Strong Potion Of Fortify Staff](../../..\images\Strong Potion Of Fortify Staff_13-8-2,025_17-20-51.png)
 

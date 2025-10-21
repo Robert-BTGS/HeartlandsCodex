@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Axe
 
-All the information about all the items you might come across in the world of Heartlands.
+A potent restorative that renews the balance and endurance behind each swing. It restores the rhythm and confidence of a seasoned fighter, bringing the axe back to its rightful weight and purpose.
 
 ![Strong Potion Of Restore Axe](../../..\images\Strong Potion of Restore Axe_12-8-2,025_21-3-18.png)
 

@@ -1,7 +1,6 @@
 # Strong Potion Of Fortify Health
 
-All the information about all the items you might come across in the world of Heartlands.
-
+This revitalizing potion reinforces the body’s vitality and restores its natural strength. It deepens endurance and steadies the heart, granting greater resilience against the tolls of battle.
 
 
 ## Item stats

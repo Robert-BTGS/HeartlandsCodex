@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+A mystic brew that strengthens the bond between the caster and the realms beyond. When consumed, it heightens focus and clarity, making it easier to summon and command otherworldly allies.
 
 ## Item stats
 | Weight  | Value |

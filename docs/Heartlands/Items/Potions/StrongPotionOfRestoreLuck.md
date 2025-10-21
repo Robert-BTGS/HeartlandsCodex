@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+This rare restorative realigns the drinker’s connection with chance and instinct. It restores intuition and steadiness, inviting fortune to once again walk beside the prepared.
 
 ![Strong Potion Of Restore Luck](../../..\images\Strong Potion Of Restore Luck_13-8-2,025_17-27-16.png)
 

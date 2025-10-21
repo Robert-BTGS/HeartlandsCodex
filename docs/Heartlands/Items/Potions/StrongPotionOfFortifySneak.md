@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Sneak
 
-All the information about all the items you might come across in the world of Heartlands.
+This subtle elixir enhances awareness and renews the delicate rhythm of silent movement. It refines balance and breathing, allowing the drinker to slip unnoticed through shadow and stillness.
 
 ![Strong Potion Of Fortify Sneak](../../..\images\Strong Potion Of Fortify Sneak_13-8-2,025_17-20-5.png)
 

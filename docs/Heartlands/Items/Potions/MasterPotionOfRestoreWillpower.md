@@ -1,6 +1,6 @@
 # Master Potion Of Restore Willpower
 
-All the information about all the items you might come across in the world of Heartlands.
+A potent restorative that renews focus, conviction, and the calm endurance of spirit. It clears the mind of doubt and restores the strength to act with purpose even under the greatest strain.
 
 ![Master Potion Of Restore Willpower](../../..\images\Master Potion of Restore Willpower_13-8-2,025_17-24-48.png)
 

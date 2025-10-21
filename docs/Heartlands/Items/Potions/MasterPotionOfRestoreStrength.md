@@ -1,7 +1,6 @@
 # Master Potion Of Restore Strength
 
-All the information about all the items you might come across in the world of Heartlands.
-
+A powerful tonic that restores vitality, endurance, and the raw drive behind every motion. It renews the body’s natural power, steadying the spirit and refocusing determination.
 
 
 ## Item stats

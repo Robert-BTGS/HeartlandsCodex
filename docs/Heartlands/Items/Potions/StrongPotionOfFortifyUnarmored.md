@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Unarmored
 
-All the information about all the items you might come across in the world of Heartlands.
+A disciplined brew that restores confidence and instinct to those who rely on their own movement for protection. It sharpens awareness and control, turning agility into effortless defense.
 
 ![Strong Potion Of Fortify Unarmored](../../..\images\Strong Potion Of Fortify Unarmored_13-8-2,025_17-21-7.png)
 

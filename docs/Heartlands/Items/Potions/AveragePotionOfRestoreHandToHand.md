@@ -1,6 +1,6 @@
 # Average Potion Of Restore Hand To Hand
 
-All the information about all the items you might come across in the world of Heartlands.
+Once consumed, it restores the precision and strength behind every strike, reviving a fighter’s rhythm and renewing the balance between body and instinct.
 
 ## Item stats
 | Weight  | Value |

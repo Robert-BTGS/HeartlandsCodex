@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+This invigorating tonic strengthens the drinker’s connection to restorative magic. It enhances balance and clarity, empowering healing spells to flow more freely and effectively.
 
 ## Item stats
 | Weight  | Value |

@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Unarmored
 
-All the information about all the items you might come across in the world of Heartlands.
+This elixir sharpens awareness and balance, allowing the drinker to move with instinctive grace and turn aside harm without the weight of armor.
 
 ![Average Potion Of Fortify Unarmored](../../../images\Average Potion Of Fortify Unarmored_13-8-2,025_17-21-4.png)
 

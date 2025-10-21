@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+This focused elixir renews the mind’s connection to distant realms. It restores willpower and clarity, allowing summoned allies and bound forces to answer the caster’s call once more.
 
 ![Strong Potion Of Restore Conjuration](../../..\images\Strong Potion of Restore Conjuration_12-8-2,025_21-4-21.png)
 

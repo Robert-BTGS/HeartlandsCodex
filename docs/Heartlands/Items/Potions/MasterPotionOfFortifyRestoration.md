@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+This restorative potion enhances the flow of healing magic, empowering the drinker to mend wounds and restore life with greater ease. It renews control and strengthens the harmony between focus and compassion.
 
 ![Master Potion Of Fortify Restoration](../../..\images\Master Potion of Fortify Restoration_13-8-2,025_17-19-39.png)
 

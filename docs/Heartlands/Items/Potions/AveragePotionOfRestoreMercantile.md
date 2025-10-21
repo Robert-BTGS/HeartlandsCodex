@@ -1,6 +1,6 @@
 # Average Potion Of Restore Mercantile
 
-All the information about all the items you might come across in the world of Heartlands.
+Drinking it renews clarity and confidence, restoring one’s instinct for trade and the charm that turns every bargain to advantage.
 
 ![Average Potion Of Restore Mercantile](../../../images\Average Potion of Restore Mercantile_12-8-2,025_21-6-49.png)
 

@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Short Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A sharp, invigorating potion that heightens reflexes and precision. Drinking it hones the drinker’s agility and focus, turning every swift strike into a dance of lethal grace.
 
 ![Average Potion Of Fortify Short Blade](../../../images\Average Potion Of Fortify Short Blade_13-8-2,025_17-19-48.png)
 

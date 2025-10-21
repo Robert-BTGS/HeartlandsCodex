@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Marksman
 
-All the information about all the items you might come across in the world of Heartlands.
+This refined potion heightens focus and steadies the hand, granting absolute control over aim and timing. Each shot carries purpose, guided by clarity of thought and unwavering precision.
 
 ![Master Potion Of Fortify Marksman](../../..\images\Master Potion of Fortify Marksman_13-8-2,025_17-21-26.png)
 

@@ -1,6 +1,6 @@
 # Master Potion Of Restore Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+A finely tuned elixir that restores mastery over channeling and precision spellcasting. It renews the flow of energy through the hand and mind, ensuring each cast strikes with clarity and strength.
 
 ![Master Potion Of Restore Wand](../../..\images\Master Potion of Restore Wand_13-8-2,025_17-13-44.png)
 

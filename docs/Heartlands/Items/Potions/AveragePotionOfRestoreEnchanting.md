@@ -1,6 +1,6 @@
 # Average Potion Of Restore Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+Upon drinking, it restores clarity and control to the mind, renewing one’s ability to weave enchantments and bind power into form once again.
 
 ![Average Potion Of Restore Enchanting](../../../images\Average Potion of Restore Enchanting_12-8-2,025_21-4-55.png)
 

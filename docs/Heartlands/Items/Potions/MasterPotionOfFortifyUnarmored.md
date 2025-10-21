@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Unarmored
 
-All the information about all the items you might come across in the world of Heartlands.
+A focused potion that restores balance, precision, and instinct. It refines awareness of movement, letting the drinker rely fully on skill and reflex rather than the protection of steel.
 
 ![Master Potion Of Fortify Unarmored](../../..\images\Master Potion of Fortify Unarmored_13-8-2,025_17-21-12.png)
 

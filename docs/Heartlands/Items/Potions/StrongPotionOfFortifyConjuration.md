@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+A refined potion that deepens the link between the caster and the planes beyond. It steadies the will and strengthens control, allowing summoned entities to manifest with sharper focus and greater loyalty.
 
 ![Strong Potion Of Fortify Conjuration](../../..\images\Strong Potion Of Fortify Block_13-8-2,025_17-16-23.png)
 

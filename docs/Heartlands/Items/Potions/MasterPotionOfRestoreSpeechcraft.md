@@ -1,6 +1,6 @@
 # Master Potion Of Restore Speechcraft
 
-All the information about all the items you might come across in the world of Heartlands.
+This refined elixir restores eloquence, conviction, and composure. It renews the rhythm of speech and the grace of expression, allowing persuasion to flow naturally once more.
 
 ![Master Potion Of Restore Speechcraft](../../..\images\Master Potion of Restore Speechcraft_12-8-2,025_21-8-48.png)
 

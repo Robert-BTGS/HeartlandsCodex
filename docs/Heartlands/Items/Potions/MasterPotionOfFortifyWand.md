@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent draught restores mastery over precision spellwork, enhancing accuracy and strength in every channeled strike. Magic flows freely through the wand, guided by will alone.
 
 ![Master Potion Of Fortify Wand](../../..\images\Master Potion of Fortify Wand_13-8-2,025_17-21-42.png)
 

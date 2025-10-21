@@ -1,6 +1,6 @@
 # Average Potion Of Restore Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+This tonic renews a swordsman’s precision and strength, restoring the muscle memory and control needed to strike with practiced grace once again.
 
 ![Average Potion Of Restore Long Blade](../../../images\Average Potion of Restore Long Blade_12-8-2,025_21-6-9.png)
 

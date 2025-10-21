@@ -1,6 +1,6 @@
 # Master Potion Of Restore Unarmored
 
-All the information about all the items you might come across in the world of Heartlands.
+This expert potion renews control, awareness, and instinct. It restores the agility and precision needed to defend without the weight of steel, returning confidence to those who rely on speed and focus.
 
 ![Master Potion Of Restore Unarmored](../../..\images\Master Potion of Restore Unarmored_13-8-2,025_17-11-57.png)
 

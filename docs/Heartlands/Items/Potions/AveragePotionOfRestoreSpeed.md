@@ -1,6 +1,6 @@
 # Average Potion Of Restore Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+When consumed, it restores the drinker’s agility and quickness, rekindling the rhythm and lightness that make movement effortless once more.
 
 ![Average Potion Of Restore Speed](../../../images\Average Potion Of Restore Speed_13-8-2,025_17-24-57.png)
 

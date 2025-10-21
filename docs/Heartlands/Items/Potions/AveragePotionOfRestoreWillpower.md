@@ -1,6 +1,6 @@
 # Average Potion Of Restore Willpower
 
-All the information about all the items you might come across in the world of Heartlands.
+This potion restores mental endurance and resolve, renewing the strength to push past doubt and fatigue. It steadies the spirit and sharpens determination in the face of adversity.
 
 ![Average Potion Of Restore Willpower](../../../images\Average Potion Of Restore Willpower_13-8-2,025_17-24-41.png)
 

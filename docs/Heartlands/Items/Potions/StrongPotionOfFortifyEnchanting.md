@@ -1,6 +1,6 @@
 # Strong Potion Of Fortify Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+A polished potion that enhances focus and precision during enchantment. It refines understanding of magical flow, allowing each imbued spell to carry greater strength and stability.
 
 ![Strong Potion Of Fortify Enchanting](../../..\images\Strong Potion Of Fortify Enchanting_13-8-2,025_17-17-26.png)
 

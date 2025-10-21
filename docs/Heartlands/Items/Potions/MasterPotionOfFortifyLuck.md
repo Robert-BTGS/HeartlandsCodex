@@ -1,6 +1,6 @@
 # Master Potion Of Fortify Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+This rare and unpredictable elixir enhances the drinker’s alignment with fortune itself. Subtle chances tilt in their favor, and the hand of fate grows gentler, if only for a moment.
 
 ![Master Potion Of Fortify Luck](../../..\images\Master Potion of Fortify Luck_13-8-2,025_17-24-6.png)
 

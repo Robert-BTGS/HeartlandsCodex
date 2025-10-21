@@ -1,6 +1,6 @@
 # Average Potion Of Fortify Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+This radiant brew glimmers with a faint, shifting light, resonating with the essence of bound magic. Drinking it sharpens focus and deepens understanding of arcane imbuement, allowing the creation of stronger, longer-lasting enchantments.
 
 ![Average Potion Of Fortify Enchanting](../../../images\Average Potion Of Fortify Enchanting_13-8-2,025_17-17-22.png)
 

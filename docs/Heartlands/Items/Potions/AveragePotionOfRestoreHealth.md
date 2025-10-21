@@ -1,6 +1,6 @@
 # Average Potion Of Restore Health
 
-All the information about all the items you might come across in the world of Heartlands.
+When consumed, it knits torn flesh and mends weary bone, restoring vitality and bringing warmth back to a fading heartbeat.
 
 ![Average Potion Of Restore Health](../../../images\Average Potion of Restore Health_12-8-2,025_21-1-47.png)
 

@@ -1,6 +1,6 @@
 # Strong Potion Of Restore Illusion
 
-All the information about all the items you might come across in the world of Heartlands.
+A subtle restorative that clears the mind and restores focus to the art of perception. It renews control and precision, allowing illusions to flow once more with clarity and confidence.
 
 ![Strong Potion Of Restore Illusion](../../..\images\Strong Potion of Restore Illusion_12-8-2,025_21-6-31.png)
 
