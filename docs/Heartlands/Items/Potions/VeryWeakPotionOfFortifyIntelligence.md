@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Intelligence
 
-All the information about all the items you might come across in the world of Heartlands.
+A mild tonic that gently clears the mind and sharpens focus. It offers a small boost to concentration and insight, helping the drinker grasp new ideas with growing confidence.
 
 ## Item stats
 | Weight  | Value |

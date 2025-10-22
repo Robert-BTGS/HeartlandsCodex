@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+A modest potion often used by novice enchanters to calm the mind and focus intent. It slightly improves control and understanding when imbuing objects with magical energy.
 
 ![Very Weak Potion Of Fortify Enchanting](../../..\images\Very Weak Potion Of Fortify Enchanting_13-8-2,025_17-17-16.png)
 

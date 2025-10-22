@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+This invigorating tonic restores coordination and timing, renewing the harmony between thought and movement. It lets the drinker move once more with fluidity and balance.
 
 ![Very Strong Potion Of Restore Speed](../../..\images\Very Strong Potion Of Restore Speed_13-8-2,025_17-25-2.png)
 

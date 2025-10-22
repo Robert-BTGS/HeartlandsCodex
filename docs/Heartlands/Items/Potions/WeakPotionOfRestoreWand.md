@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+A focused potion that restores steadiness and control in spellcasting. It renews the link between will and energy, helping the caster channel magic with clarity and precision once more.
 
 ![Weak Potion of Restore Wand](../../..\images\Weak Potion of Restore Wand_13-8-2,025_17-13-33.png)
 

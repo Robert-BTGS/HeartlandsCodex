@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Block
 
-All the information about all the items you might come across in the world of Heartlands.
+A simple potion designed to help new defenders find their footing. It provides a faint boost to timing and balance, giving the drinker a steadier stance when meeting an attack.
 
 ![Very Weak Potion Of Fortify Block](../../..\images\Very Weak Potion Of Fortify Block_13-8-2,025_17-15-31.png)
 

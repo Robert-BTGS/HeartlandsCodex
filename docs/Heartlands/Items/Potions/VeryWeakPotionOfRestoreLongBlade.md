@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+This simple potion renews steadiness and focus for those still learning the art of the sword. It restores a touch of rhythm and precision, reminding the wielder that skill begins in patience.
 
 ![Very Weak Potion Of Restore Long Blade](../../..\images\Very Weak Potion of Restore Long Blade_12-8-2,025_21-6-4.png)
 

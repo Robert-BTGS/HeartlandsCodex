@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Intelligence
 
-All the information about all the items you might come across in the world of Heartlands.
+This modest tonic clears the mind and refreshes thought. It restores a hint of focus and awareness, allowing the drinker to reconnect with ideas once just out of reach.
 
 ![Very Weak Potion Of Restore Intelligence](../../..\images\Very Weak Potion Of Restore Intelligence_13-8-2,025_17-24-19.png)
 

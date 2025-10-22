@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Strength
 
-All the information about all the items you might come across in the world of Heartlands.
+This potent restorative renews vitality and determination. It restores endurance and stability, allowing the drinker to meet any challenge with steady, renewed power.
 
 ![Very Strong Potion Of Restore Strength](../../..\images\Very Strong Potion Of Restore Strength_13-8-2,025_17-24-15.png)
 

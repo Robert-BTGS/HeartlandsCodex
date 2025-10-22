@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+A soothing brew that rekindles a beginner’s connection to healing magic. It restores balance between focus and intent, allowing small acts of restoration to flow more freely.
 
 ![Very Weak Potion Of Restore Restoration](../../..\images\Very Weak Potion of Restore Restoration_12-8-2,025_21-7-1.png)
 

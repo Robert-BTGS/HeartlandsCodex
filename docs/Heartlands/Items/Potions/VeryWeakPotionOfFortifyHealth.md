@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Health
 
-All the information about all the items you might come across in the world of Heartlands.
+This gentle potion strengthens vitality and steadies the heart. It grants a small increase to overall resilience, helping the drinker weather the first tests of battle.
 
 ## Item stats
 | Weight  | Value |

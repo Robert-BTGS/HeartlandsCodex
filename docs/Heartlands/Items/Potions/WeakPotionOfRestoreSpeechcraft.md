@@ -1,7 +1,6 @@
 # Weak Potion Of Restore Speechcraft
 
-All the information about all the items you might come across in the world of Heartlands.
-
+This balanced elixir restores composure and clarity. It renews the rhythm of thought and tone, allowing words to flow with measured confidence once again.
 
 
 ## Item stats

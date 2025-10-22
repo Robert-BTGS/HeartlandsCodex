@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Speechcraft
 
-All the information about all the items you might come across in the world of Heartlands.
+A mild potion that soothes the nerves and steadies the voice. It offers a slight boost to confidence and composure, helping the drinker speak with a touch more clarity and grace.
 
 ![Very Weak Potion Of Fortify Speechcraft](../../..\images\Very Weak Potion Of Fortify Speechcraft_13-8-2,025_17-20-28.png)
 

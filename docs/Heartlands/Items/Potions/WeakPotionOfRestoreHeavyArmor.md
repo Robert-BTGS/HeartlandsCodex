@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Heavy Armor
 
-All the information about all the items you might come across in the world of Heartlands.
+This steady brew renews endurance and coordination beneath the weight of armor. It restores focus and strength, helping the drinker move with control and confidence once again.
 
 ## Item stats
 | Weight  | Value |

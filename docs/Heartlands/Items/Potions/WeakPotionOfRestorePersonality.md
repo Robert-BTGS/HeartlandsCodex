@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Personality
 
-All the information about all the items you might come across in the world of Heartlands.
+A soothing potion that restores calm and presence. It renews self-assurance and ease in speech, allowing the drinker’s natural charm and confidence to return.
 
 ![Weak Potion Of Restore Personality](../../..\images\Weak Potion Of Restore Personality_13-8-2,025_17-26-45.png)
 

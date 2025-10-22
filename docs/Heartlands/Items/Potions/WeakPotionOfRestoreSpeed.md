@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+A brisk but balanced tonic that restores rhythm and coordination. It renews the link between thought and movement, helping the drinker regain their natural pace with ease.
 
 ![Weak Potion Of Restore Speed](../../..\images\Weak Potion Of Restore Speed_13-8-2,025_17-24-53.png)
 

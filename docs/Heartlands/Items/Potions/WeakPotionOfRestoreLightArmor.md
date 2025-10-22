@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Light Armor
 
-All the information about all the items you might come across in the world of Heartlands.
+A light, refreshing potion that restores agility and balance. It helps the drinker regain coordination and confidence, allowing smooth and practiced movement in battle.
 
 ![Weak Potion Of Restore Light Armor](../../..\images\Weak Potion of Restore Light Armor_12-8-2,025_21-5-47.png)
 

@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Light Armor
 
-All the information about all the items you might come across in the world of Heartlands.
+This simple potion provides a faint increase in coordination and balance. It helps newcomers move more freely and confidently while wearing lighter gear.
 
 ![Very Weak Potion Of Fortify Light Armor](../../..\images\Very Weak Potion Of Fortify Light Armor_13-8-2,025_17-18-17.png)
 

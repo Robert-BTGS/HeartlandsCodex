@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+This precise elixir restores the steadiness and focus behind controlled spellcasting. It renews the harmony between mind and magic, letting the wand channel energy with refined intent.
 
 ![Very Strong Potion of Restore Wand](../../..\images\Very Strong Potion of Restore Wand_13-8-2,025_17-13-41.png)
 

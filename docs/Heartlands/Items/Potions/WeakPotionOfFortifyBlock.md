@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Block
 
-All the information about all the items you might come across in the world of Heartlands.
+A practical potion that strengthens coordination and timing in defense. It restores balance and control, allowing each block to flow naturally from practiced instinct.
 
 ![Weak Potion Of Fortify Block](../../..\images\Weak Potion Of Fortify Block_13-8-2,025_17-15-56.png)
 

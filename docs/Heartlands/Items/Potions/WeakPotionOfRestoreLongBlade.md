@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+This reliable tonic restores control and precision in swordplay. It brings back timing and steadiness, letting the blade once again follow the intent of the hand.
 
 ![Weak Potion Of Restore Long Blade](../../..\images\Weak Potion of Restore Long Blade_12-8-2,025_21-6-6.png)
 

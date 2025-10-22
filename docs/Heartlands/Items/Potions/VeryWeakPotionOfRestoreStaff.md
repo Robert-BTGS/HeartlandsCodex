@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Staff
 
-All the information about all the items you might come across in the world of Heartlands.
+This simple restorative helps a novice regain the focus and control needed for staff combat. It renews timing and awareness, allowing movement to once again follow intent.
 
 ![Very Weak Potion Of Restore Staff](../../..\images\Very Weak Potion of Restore Staff_12-8-2,025_21-8-51.png)
 

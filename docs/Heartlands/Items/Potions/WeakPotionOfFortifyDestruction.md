@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Destruction
 
-All the information about all the items you might come across in the world of Heartlands.
+This refined elixir bolsters command over elemental energy. It sharpens focus and precision, allowing destructive spells to flow with growing confidence and purpose.
 
 ![Weak Potion Of Fortify Destruction](../../..\images\Weak Potion Of Fortify Destruction_13-8-2,025_17-16-33.png)
 

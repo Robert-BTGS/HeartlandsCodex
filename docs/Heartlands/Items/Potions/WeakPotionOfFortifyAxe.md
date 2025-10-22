@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Axe
 
-All the information about all the items you might come across in the world of Heartlands.
+This steady brew enhances timing and control in combat. It bolsters the drinker’s confidence and focus, turning each swing into a deliberate display of practiced strength.
 
 ![Weak Potion Of Fortify Axe](../../..\images\Weak Potion Of Fortify Block_13-8-2,025_17-15-34.png)
 

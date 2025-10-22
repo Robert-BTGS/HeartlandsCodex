@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Short Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A light potion that enhances precision and timing. It steadies the hand and sharpens awareness, helping the wielder move with confidence and control in close combat.
 
 ![Weak Potion Of Fortify Short Blade](../../..\images\Weak Potion Of Fortify Short Blade_13-8-2,025_17-19-46.png)
 

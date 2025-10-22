@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Willpower
 
-All the information about all the items you might come across in the world of Heartlands.
+This restorative brew strengthens inner focus and clears the mind of distraction. It returns quiet determination to the drinker, restoring the resolve that turns thought into action.
 
 ![Weak Potion Of Restore Willpower](../../..\images\Weak Potion Of Restore Willpower_13-8-2,025_17-24-39.png)
 

@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Destruction
 
-All the information about all the items you might come across in the world of Heartlands.
+This modest elixir enhances concentration and helps new casters find control in their spellwork. It offers a gentle increase in destructive power while preserving balance and restraint.
 
 ![Very Weak Potion Of Fortify Destruction](../../..\images\Very Weak Potion Of Fortify Destruction_13-8-2,025_17-16-30.png)
 

@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Restoration
 
-All the information about all the items you might come across in the world of Heartlands.
+This gentle elixir strengthens the connection between focus and healing energy. It offers a slight increase to Restoration magic, guiding new healers toward steadier, more consistent results.
 
 ![Very Weak Potion Of Fortify Restoration](../../..\images\Very Weak Potion Of Fortify Restoration_13-8-2,025_17-19-22.png)
 

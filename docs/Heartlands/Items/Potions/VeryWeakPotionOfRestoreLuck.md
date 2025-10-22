@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Luck
 
-All the information about all the items you might come across in the world of Heartlands.
+A humble potion that lightly restores balance and optimism. It helps the drinker find steadiness in uncertain moments, reminding them that fortune often follows persistence.
 
 ![Very Weak Potion Of Restore Luck](../../..\images\Very Weak Potion Of Restore Luck_13-8-2,025_17-27-6.png)
 

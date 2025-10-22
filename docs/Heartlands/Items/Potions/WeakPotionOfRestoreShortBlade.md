@@ -1,5 +1,6 @@
 # Weak Potion Of Restore Blade
-All the information about all the items you might come across in the world of Heartlands.
+
+This refined tonic restores timing and precision in close combat. It renews focus and confidence, helping the wielder return to the fluid rhythm of a practiced hand.
 
 ![Weak Potion Of Restore Blade](../../..\images\Weak Potion of Restore Short Blade_12-8-2,025_21-7-20.png)
 

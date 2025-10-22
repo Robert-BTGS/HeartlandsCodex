@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Alchemy
 
-All the information about all the items you might come across in the world of Heartlands.
+A dependable potion that renews focus and precision. It helps the practiced alchemist recover from strain, restoring the clarity and steadiness needed to continue their work.
 
 ## Item stats
 | Weight  | Value |

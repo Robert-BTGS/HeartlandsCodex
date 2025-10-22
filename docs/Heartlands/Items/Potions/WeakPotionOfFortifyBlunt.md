@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Blunt
 
-All the information about all the items you might come across in the world of Heartlands.
+This sturdy tonic enhances focus and endurance. It supports the wielder’s growing control over heavy weapons, letting each strike carry purpose and measured force.
 
 ![Weak Potion Of Fortify Blunt](../../..\images\Weak Potion Of Fortify Block_13-8-2,025_17-15-59.png)
 

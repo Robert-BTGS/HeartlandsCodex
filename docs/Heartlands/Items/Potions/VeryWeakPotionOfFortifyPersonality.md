@@ -1,7 +1,6 @@
 # Very Weak Potion Of Fortify Personality
 
-All the information about all the items you might come across in the world of Heartlands.
-
+This mild tonic restores poise and comfort to those finding their voice. It offers a faint boost to confidence, helping the drinker speak and carry themselves with newfound ease.
 
 
 ## Item stats

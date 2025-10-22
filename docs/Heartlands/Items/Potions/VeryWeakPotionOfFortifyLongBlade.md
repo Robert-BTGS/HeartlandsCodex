@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A simple potion that grants a small boost to precision and rhythm for those learning the art of the sword. It steadies the hand and helps new swordsmen find the flow of their strikes.
 
 ![Very Weak Potion Of Fortify Long Blade](../../..\images\Very Weak Potion Of Fortify Long Blade_13-8-2,025_17-18-34.png)
 

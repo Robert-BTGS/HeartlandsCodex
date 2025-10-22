@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Repair
 
-All the information about all the items you might come across in the world of Heartlands.
+A precise restorative that renews steadiness and patience in the skilled artisan. It restores coordination and focus, allowing repairs to be made with the care and precision of practiced hands.
 
 ![Very Strong Potion of Restore Repair](../../..\images\Very Strong Potion of Restore Repair_13-8-2,025_17-13-48.png)
 

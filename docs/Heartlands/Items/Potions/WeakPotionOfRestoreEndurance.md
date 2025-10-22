@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Endurance
 
-All the information about all the items you might come across in the world of Heartlands.
+A hearty tonic that restores stamina and steadiness. It renews the body’s rhythm and resolve, allowing the drinker to press on with balanced strength and focus.
 
 ![Weak Potion Of Restore Endurance](../../..\images\Weak Potion Of Restore Endurance_13-8-2,025_17-25-9.png)
 

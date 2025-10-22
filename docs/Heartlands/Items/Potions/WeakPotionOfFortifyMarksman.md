@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Marksman
 
-All the information about all the items you might come across in the world of Heartlands.
+This steadying tonic improves focus and precision. It enhances control and composure, allowing each shot to find its mark through patience and skill.
 
 ![Weak Potion Of Fortify Marksman](../../..\images\Weak Potion Of Fortify Marksman_13-8-2,025_17-21-17.png)
 

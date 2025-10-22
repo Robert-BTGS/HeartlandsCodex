@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Conjuration
 
-All the information about all the items you might come across in the world of Heartlands.
+This quiet brew renews the link between thought and the unseen. It restores a bit of focus to novice conjurers, helping them reestablish control over their summoned forms.
 
 ## Item stats
 | Weight  | Value |

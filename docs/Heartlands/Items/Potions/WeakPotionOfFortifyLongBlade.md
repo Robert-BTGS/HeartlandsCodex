@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Long Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A dependable potion that refines timing and control in swordplay. It strengthens balance and awareness, helping each strike flow smoothly from practiced precision.
 
 ![Weak Potion Of Fortify Long Blade](../../..\images\Weak Potion Of Fortify Long Blade_13-8-2,025_17-18-37.png)
 

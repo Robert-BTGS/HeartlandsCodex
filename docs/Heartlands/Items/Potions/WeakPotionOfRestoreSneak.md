@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Sneak
 
-All the information about all the items you might come across in the world of Heartlands.
+A subtle potion that renews awareness and steadiness. It helps the drinker regain quiet focus and fluid movement, restoring balance between breath and motion.
 
 ![Weak Potion Of Restore Sneak](../../..\images\Weak Potion of Restore Sneak_12-8-2,025_21-7-48.png)
 

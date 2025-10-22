@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Enchanting
 
-All the information about all the items you might come across in the world of Heartlands.
+This carefully crafted tonic restores the clarity and composure needed for enchanting. It renews attention to detail, allowing magic to bind once more with strength and stability.
 
 ![Weak Potion Of Restore Enchanting](../../..\images\Weak Potion of Restore Enchanting_12-8-2,025_21-4-51.png)
 

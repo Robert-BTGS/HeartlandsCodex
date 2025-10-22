@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Short Blade
 
-All the information about all the items you might come across in the world of Heartlands.
+A basic tonic that steadies the hand and sharpens awareness. It provides a slight improvement to timing and control, helping new duelists find confidence with lighter weapons.
 
 ![Very Weak Potion Of Fortify Short Blade](../../..\images\Very Weak Potion Of Fortify Short Blade_13-8-2,025_17-19-43.png)
 

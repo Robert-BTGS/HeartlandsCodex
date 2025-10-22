@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Willpower
 
-All the information about all the items you might come across in the world of Heartlands.
+This gentle tonic clears the mind and restores determination. It offers a faint renewal of focus, reminding the drinker that strength of spirit grows from persistence, not power.
 
 ![Very Weak Potion Of Restore Willpower](../../..\images\Very Weak Potion Of Restore Willpower_13-8-2,025_17-24-35.png)
 

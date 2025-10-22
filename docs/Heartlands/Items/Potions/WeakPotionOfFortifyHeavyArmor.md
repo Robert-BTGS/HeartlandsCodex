@@ -1,5 +1,6 @@
 # Weak Potion Of Fortify Heavy Armor
-All the information about all the items you might come across in the world of Heartlands.
+
+A sturdy potion that strengthens endurance and control beneath the weight of armor. It helps the wearer move with increasing efficiency, turning burden into protection through practice.
 
 ![Weak Potion Of Fortify Heavy Armor](../../..\images\Weak Potion Of Fortify Heavy Armor_13-8-2,025_17-18-3.png)
 

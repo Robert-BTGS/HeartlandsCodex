@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Long Blade 
 
-All the information about all the items you might come across in the world of Heartlands.
+A finely tuned potion that restores precision and rhythm to the practiced swordsman. It renews focus and steadiness, allowing every motion to flow with refined control and certainty.
 
 ![Very Strong Potion of Restore Long Blade](../../..\images\Very Strong Potion of Restore Long Blade_12-8-2,025_21-6-16.png)
 

@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Strength
 
-All the information about all the items you might come across in the world of Heartlands.
+A modest tonic that renews vitality and resolve. It helps the drinker find steadiness in their movements and confidence in their steps, restoring the foundation of true strength.
 
 ![Very Weak Potion Of Restore Strength](../../..\images\Very Weak Potion Of Restore Strength_13-8-2,025_17-24-7.png)
 

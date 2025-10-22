@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Illusion
 
-All the information about all the items you might come across in the world of Heartlands.
+A faintly shimmering potion that helps new illusionists regain clarity and focus. It renews the calm required to see beyond the surface and shape perception with gentle intent.
 
 ![Very Weak Potion Of Restore Illusion](../../..\images\Very Weak Potion of Restore Illusion_12-8-2,025_21-6-21.png)
 

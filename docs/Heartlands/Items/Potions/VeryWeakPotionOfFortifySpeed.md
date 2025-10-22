@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Speed
 
-All the information about all the items you might come across in the world of Heartlands.
+This light tonic restores coordination and energy, helping new travelers find their footing. It provides a faint boost to agility, making each step come a little easier.
 
 ![Very Weak Potion Of Fortify Speed](../../..\images\Very Weak Potion Of Fortify Speed_13-8-2,025_17-22-35.png)
 

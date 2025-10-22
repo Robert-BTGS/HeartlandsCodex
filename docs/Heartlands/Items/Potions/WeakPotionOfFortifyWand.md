@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Wand
 
-All the information about all the items you might come across in the world of Heartlands.
+This clear-toned elixir refines precision and composure in spellcasting. It helps the drinker channel energy with deliberate care, ensuring each spell carries its full intent.
 
 ## Item stats
 | Weight  | Value |

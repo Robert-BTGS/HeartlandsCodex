@@ -1,6 +1,6 @@
 # Weak Potion Of Restore Hand To Hand
 
-All the information about all the items you might come across in the world of Heartlands.
+This simple restorative renews coordination and awareness. It helps the fighter regain precision and control, restoring the confidence that guides every movement.
 
 ![Weak Potion Of Restore Hand To Hand](../../..\images\Weak Potion of Restore Hand To Hand_12-8-2,025_21-5-18.png)
 

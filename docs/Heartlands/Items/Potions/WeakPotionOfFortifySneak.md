@@ -1,6 +1,6 @@
 # Weak Potion Of Fortify Sneak
 
-All the information about all the items you might come across in the world of Heartlands.
+This quiet brew refines balance and composure. It strengthens awareness of sound and movement, allowing the drinker to slip unnoticed through shadow and stillness.
 
 ## Item stats
 | Weight  | Value |

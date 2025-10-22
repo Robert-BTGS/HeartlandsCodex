@@ -1,6 +1,6 @@
 # Very Strong Potion Of Restore Staff
 
-All the information about all the items you might come across in the world of Heartlands.
+A carefully balanced potion that renews the coordination and control behind the art of staff combat. It restores timing and focus, letting strength and precision work once more in perfect harmony.
 
 ![Very Strong Potion of Restore Staff](../../..\images\Very Strong Potion of Restore Staff_13-8-2,025_17-10-11.png
 

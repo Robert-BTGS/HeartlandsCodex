@@ -1,6 +1,6 @@
 # Very Weak Potion Of Restore Health
 
-All the information about all the items you might come across in the world of Heartlands.
+A gentle brew that soothes aches and restores a touch of strength. It heals minor wounds and renews the body’s energy, offering comfort to those just starting their journey.
 
 ![Very Weak Potion Of Restore Health](../../..\images\Very Weak Potion of Restore Health_12-8-2,025_21-1-40.png)
 

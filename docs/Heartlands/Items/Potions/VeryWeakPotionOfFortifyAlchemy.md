@@ -1,6 +1,6 @@
 # Very Weak Potion Of Fortify Alchemy
 
-All the information about all the items you might come across in the world of Heartlands.
+A basic mixture used by apprentice alchemists to steady the hand and sharpen focus. While simple in composition, it provides a faint boost to the drinker’s understanding of ingredient balance.
 
 ![Very Weak Potion Of Fortify Alchemy](../../..\images\Very Weak Potion Of Fortify Alchemy_13-8-2,025_17-13-51.png)
 
