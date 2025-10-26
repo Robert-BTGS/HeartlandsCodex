@@ -1,4 +1,4 @@
 # Items
 
-All the information about all the items you might come across in the world of Heartlands.
+See Heartlands Items here [Items](/HeartlandsCodex/Heartlands/Items)
 

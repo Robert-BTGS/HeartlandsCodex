@@ -1,4 +1,4 @@
 # Factions
 
-All the information about the factions that you can either meet or become a part of.
+See Heartlands Factions here [Factions](/HeartlandsCodex/Heartlands/Factions)
 
