@@ -10,7 +10,7 @@ Simple folk tending livestock, Herders roam the hills and fields of the empire. 
 - Short Blade
 - Restoration
 - Light Armor
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Block
 - Unarmored

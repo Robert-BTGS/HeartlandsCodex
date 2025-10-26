@@ -13,7 +13,7 @@ Drillmasters are hardened veterans tasked with forging raw recruits into discipl
 - Hand To Hand
 - Light Armor
 - Unarmored
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Long Blade
 
 ## Specialization

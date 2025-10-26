@@ -7,7 +7,7 @@ Thieves live by their wits and nimble hands, thriving in chaos and opportunity. 
 - Speed
 
 ## Skill Bonuses
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Mercantile
 - Light Armor
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)

@@ -13,7 +13,7 @@ Bandit Archers strike from afar, softening targets before their allies rush in. 
 - Mercantile
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Unarmored
 
 ## Specialization

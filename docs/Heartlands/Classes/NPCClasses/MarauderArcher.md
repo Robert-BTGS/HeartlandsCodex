@@ -14,7 +14,7 @@ These raiders rain arrows in chaotic assaults, covering their allies’ brutal c
 - Heavy Armor
 - Speechcraft
 - Unarmored
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 
 ## Specialization
 - Stealth

@@ -11,7 +11,7 @@ Heralds bear the banners and proclamations of kings and lords. They deliver news
 - Hand To Hand
 - Light Armor
 - Mercantile
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Unarmored
 - Long Blade
 - Speechcraft

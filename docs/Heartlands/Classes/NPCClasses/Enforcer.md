@@ -8,7 +8,7 @@ Enforcers serve as muscle for nobles, guilds, or underworld bosses. Their presen
 
 ## Skill Bonuses
 - Short Blade
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Light Armor
 - Destruction
 - Block

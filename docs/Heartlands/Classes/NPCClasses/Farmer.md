@@ -11,7 +11,7 @@ Farmers toil under sun and storm, sustaining the empire with their harvests. Tho
 - Block
 - Blunt
 - Hand To Hand
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Speechcraft
 - Unarmored
 - Axe

@@ -14,7 +14,7 @@ Alchemists mix nature with arcane science, brewing potions that heal, harm, or t
 - Wand
 - Mercantile
 - Speechcraft
-- Herbology
+- [Herbology](/HeartlandsCodex/Heartlands/Skills/herbology)
 
 ## Specialization
 - Magic

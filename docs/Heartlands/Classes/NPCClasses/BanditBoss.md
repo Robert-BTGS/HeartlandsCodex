@@ -14,7 +14,7 @@ The Bandit Boss commands loyalty through fear and brute strength. They rally law
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
 - Short Blade
-- Marksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 
 ## Specialization
 - Combat

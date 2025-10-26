@@ -14,7 +14,7 @@ Guard Archers protect cities from high walls, raining arrows on invaders. Their 
 - Heavy Armor
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
-- MArksman
+- [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 
 ## Specialization
 - Combat
