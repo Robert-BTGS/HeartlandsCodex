@@ -1,7 +1,6 @@
 # Speed
 
-- Speed is how swiftly you move. Speed determines pace, and how easily you evade foes.
-- Speed: Movement speed, light armor, marksman, short blade, sneak
+- Speed determines how quickly you move and governs the skills of light armor, marksman, short blade, and sneak.
 
 
 

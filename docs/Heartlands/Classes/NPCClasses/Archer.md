@@ -1,6 +1,6 @@
 # Archer
 
-Masters of the bow, Archers rain arrows from impossible distances with deadly precision. They thrive in open fields and high vantage points, striking before their enemies ever see them. 
+Masters of the bow, Archers rain arrows from a distance with deadly precision. They thrive in open fields and high vantage points, striking before their enemies ever see them. 
 
 ## Favored Attributes
 - Strength

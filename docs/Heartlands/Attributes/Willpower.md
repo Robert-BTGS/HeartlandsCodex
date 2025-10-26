@@ -1,7 +1,6 @@
 # Willpower
 
-- Willpower affects your ability to resist magical influence, and recover magic.
-- Willpower: mp regen, alteration, destruction, restoration, staff
+- Willpower affects your ability to resist magical influence, and how quickly you recover magic. Willpower governs the skills of alteration, destruction, restoration, and staff.
 
 
 

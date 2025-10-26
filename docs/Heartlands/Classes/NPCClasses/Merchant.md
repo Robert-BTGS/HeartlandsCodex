@@ -1,6 +1,6 @@
 # Merchant
 
-Merchants traverse the empire, carrying goods and rare wares. They bridge distant towns with rare wares and vital trade. 
+Merchants traverse the empire, carrying goods and rare wares. They bridge distant towns with vital trade. 
 
 ## Favored Attributes
 - Personality
