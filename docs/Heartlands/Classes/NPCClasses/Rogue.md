@@ -13,7 +13,7 @@ Clever and resourceful, Rogues survive on cunning rather than brute force. They 
 - Speechcraft
 - Light Armor
 - Herbology
-- Illusion
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Mercantile
 
 ## Specialization

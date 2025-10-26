@@ -13,7 +13,7 @@ These elite guards blend magic and martial skill to protect royalty and sacred s
 - Restoration
 - Heavy Armor
 - Destruction
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Long Blade
 
 ## Specialization

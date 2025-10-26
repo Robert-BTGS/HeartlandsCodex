@@ -11,7 +11,7 @@ Bandit Archers strike from afar, softening targets before their allies rush in. 
 - Speechcraft
 - Light Armor
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
 - Marksman
 - Unarmored

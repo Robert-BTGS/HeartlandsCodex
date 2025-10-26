@@ -10,7 +10,7 @@ Clothiers craft fine garments for nobles and practical attire for travelers. The
 - Blunt
 - Block
 - Repair
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - Hand To Hand
 - Unarmored

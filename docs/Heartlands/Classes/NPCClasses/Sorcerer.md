@@ -14,7 +14,7 @@ Sorcerers wield innate magic coursing through their blood, unpredictable and wil
 - Heavy Armor
 - Destruction
 - Staff
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

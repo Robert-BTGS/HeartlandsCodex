@@ -9,11 +9,11 @@ Enchanters weave magic into everyday objects, transforming simple tools into art
 ## Skill Bonuses
 - Alchemy
 - Blunt
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - Conjuration
 - Enchanting
 - Destruction
-- Illusion
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Speechcraft
 
 ## Specialization

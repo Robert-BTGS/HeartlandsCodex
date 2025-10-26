@@ -14,7 +14,7 @@ Commoners are the lifeblood of the empire, tending farms, shops, and families. T
 - Hand To Hand
 - Unarmored
 - Speechcraft
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 
 ## Specialization
 - Stealth

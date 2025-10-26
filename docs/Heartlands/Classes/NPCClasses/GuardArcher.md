@@ -12,7 +12,7 @@ Guard Archers protect cities from high walls, raining arrows on invaders. Their 
 - Light Armor
 - Restoration
 - Heavy Armor
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - MArksman
 

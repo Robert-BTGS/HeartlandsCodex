@@ -11,10 +11,10 @@ Nightblades merge shadow magic with deadly stealth, vanishing into darkness to s
 - Restoration
 - Light Armor
 - Conjuration
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Destruction
 - Alchemy
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

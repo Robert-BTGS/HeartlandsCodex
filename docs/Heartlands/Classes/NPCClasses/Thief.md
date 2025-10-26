@@ -10,7 +10,7 @@ Thieves live by their wits and nimble hands, thriving in chaos and opportunity. 
 - Marksman
 - Mercantile
 - Light Armor
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - Repair
 - Short Blade

@@ -11,7 +11,7 @@ Paupers eke out a meager existence, surviving on scraps and charity. Their lives
 - Block
 - Hand To Hand
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - Alchemy
 - Short Blade

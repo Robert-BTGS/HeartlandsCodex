@@ -11,7 +11,7 @@ Outlaws common throughout the empire, Bandits survive by raiding caravans and vi
 - Block
 - Light Armor
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
 - Long Blade
 - Axe

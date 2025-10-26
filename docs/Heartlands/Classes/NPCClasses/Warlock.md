@@ -13,7 +13,7 @@ Warlocks strike pacts with dark entities, trading service for forbidden power. T
 - Enchanting
 - Alchemy
 - Destruction
-- Illusion
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Wand
 
 ## Specialization

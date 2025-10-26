@@ -7,8 +7,8 @@ Silent and calculating, Agents specialize in information and infiltration. They 
 - Endurance
 
 ## Skill Bonuses
-- Illusion
-- Sneak
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Marksman
 - Speechcraft
 - Light Armor

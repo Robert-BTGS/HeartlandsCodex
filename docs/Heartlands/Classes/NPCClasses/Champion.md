@@ -9,7 +9,7 @@ Champions are heroes, celebrated for unmatched skill and daring feats. Their exp
 ## Skill Bonuses
 - Blunt
 - Block
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - Unarmored
 - Hand To Hand

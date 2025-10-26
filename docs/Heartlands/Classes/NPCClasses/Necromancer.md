@@ -13,8 +13,8 @@ Necromancers wield forbidden magic, commanding the dead to serve their will. Fea
 - Conjuration
 - Alchemy
 - Destruction
-- Sneak
-- Alteration
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

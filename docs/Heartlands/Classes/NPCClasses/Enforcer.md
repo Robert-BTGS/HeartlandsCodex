@@ -13,7 +13,7 @@ Enforcers serve as muscle for nobles, guilds, or underworld bosses. Their presen
 - Destruction
 - Block
 - Hand To Hand
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
 
 ## Specialization

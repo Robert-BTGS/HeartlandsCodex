@@ -8,10 +8,10 @@ A rare and dangerous breed, Bandit Wizards blend criminal cunning with untamed m
 
 ## Skill Bonuses
 - Blunt
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - Light Armor
-- Illusion
-- Sneak
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
 - Short Blade
 - Wand

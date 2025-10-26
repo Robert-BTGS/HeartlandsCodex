@@ -8,9 +8,9 @@ Alchemists mix nature with arcane science, brewing potions that heal, harm, or t
 
 ## Skill Bonuses
 - Alchemy
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - Conjuration
-- Illusion
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Wand
 - Mercantile
 - Speechcraft

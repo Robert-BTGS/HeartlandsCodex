@@ -13,8 +13,8 @@ Mages study the raw forces of magic, mastering elemental power and arcane knowle
 - Conjuration
 - Staff
 - Destruction
-- Illusion
-- Alteration
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

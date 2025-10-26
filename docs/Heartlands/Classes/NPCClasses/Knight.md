@@ -13,7 +13,7 @@ Knights embody honor, duty, and martial prowess. Sworn to protect their lords an
 - Long Blade
 - Hand To Hand
 - Heavy Armor
-- Illusion
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Speechcraft
 
 ## Specialization

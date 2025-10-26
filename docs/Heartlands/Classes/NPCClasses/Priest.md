@@ -14,7 +14,7 @@ Priests serve the divine, offering healing, guidance, and sanctuary. Their faith
 - Speechcraft
 - Herbology
 - Block
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

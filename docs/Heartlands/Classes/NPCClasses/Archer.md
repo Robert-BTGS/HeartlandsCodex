@@ -11,7 +11,7 @@ Masters of the bow, Archers rain arrows from a distance with deadly precision. T
 - Restoration
 - Light Armor
 - Marksman
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
 - Speechcraft
 - Hand To Hand

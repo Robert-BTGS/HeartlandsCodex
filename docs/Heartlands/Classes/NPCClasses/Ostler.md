@@ -11,7 +11,7 @@ Ostlers tend stables and caravans, ensuring horses and wagons are battle-ready. 
 - Restoration
 - Speechcraft
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
 - Unarmored
 - Long Blade

@@ -7,11 +7,11 @@ The Bandit Boss commands loyalty through fear and brute strength. They rally law
 - Willpower
 
 ## Skill Bonuses
-- Alteration
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - Block
 - Light Armor
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand
 - Short Blade
 - Marksman

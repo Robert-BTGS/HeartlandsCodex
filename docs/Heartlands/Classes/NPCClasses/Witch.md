@@ -13,8 +13,8 @@ Witches wield hexes that weaken foes, charms that twist fate, and brews that alt
 - Conjuration
 - Alchemy
 - Herbology
-- Illusion
-- Alteration
+- [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
+- [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization
 - Magic

@@ -11,7 +11,7 @@ Hunters track beasts and monsters alike, thriving in forests and mountains. Thei
 - Restoration
 - Light Armor
 - Marksman
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
 - Alchemy
 - Block

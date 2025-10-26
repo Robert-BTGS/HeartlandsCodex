@@ -10,7 +10,7 @@ Traders roam from town to town, carrying exotic goods and distant news. They thr
 - Blunt
 - Block
 - Mercantile
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Speechcraft
 - Repair
 - Axe

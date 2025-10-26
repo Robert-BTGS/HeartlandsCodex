@@ -14,7 +14,7 @@ Savants are intellectual prodigies who perceive the world through patterns of ma
 - Speechcraft
 - Long Blade
 - Hand To Hand
-- Sneak
+- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 
 ## Specialization
 - Stealth
