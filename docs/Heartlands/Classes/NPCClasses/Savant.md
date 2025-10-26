@@ -1,6 +1,6 @@
 # Savant
 
-Savants are scholars whose vast knowledge grants them strange and unexpected powers. They uncover hidden truths of the world and twist them into practical magic. 
+Savants are intellectual prodigies who perceive the world through patterns of magic, motion, and mind. Unlike traditional mages who rely on instinct or ritual, a Savant’s power stems from understanding how every spell, skill, and strike is calculated. 
 
 ## Favored Attributes
 - Intelligence

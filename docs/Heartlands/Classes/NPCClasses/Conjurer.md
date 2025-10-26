@@ -1,6 +1,6 @@
 # Conjurer
 
-Conjurers summon creatures and spirits from beyond the mortal plane. Their magic calls forth allies to fight at their side, shifting battles with unnatural reinforcements. 
+Conjurers are mages who specialize in bending the veil between realms, calling forth creatures, spirits, and manifestations of raw magic to fight or serve at their command. 
 
 ## Favored Attributes
 - Intelligence

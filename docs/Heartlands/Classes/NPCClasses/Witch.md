@@ -1,6 +1,6 @@
 # Witch
 
-Witches wield primal magic rooted in the untamed wilds, calling upon spirits and curses older than kings. Their power blurs the line between healer and harbinger, feared as much for their wisdom as their wrath. 
+Witches wield hexes that weaken foes, charms that twist fate, and brews that alter body or mind. They can summon spectral familiars or call storms with ritual precision. 
 
 ## Favored Attributes
 - Willpower
