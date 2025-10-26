@@ -8,12 +8,12 @@ Blademasters are legendary warriors whose swordsmanship borders on art. Years of
 
 ## Skill Bonuses
 - Long Blade
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Blunt
 - Hand To Hand
 - Light Armor
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 
 ## Specialization

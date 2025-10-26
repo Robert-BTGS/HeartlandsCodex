@@ -7,12 +7,12 @@ Pawnbrokers deal in forgotten treasures and desperate bargains. Their shops brim
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Hand To Hand
 - Long Blade
 - Light Armor
 - Mercantile
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Long Blade
 - Block
 

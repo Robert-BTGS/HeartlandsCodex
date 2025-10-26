@@ -7,12 +7,12 @@ These raiders rain arrows in chaotic assaults, covering their allies’ brutal c
 - Strength
 
 ## Skill Bonuses
-- Short Blade
-- Alchemy
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Hand To Hand
 - Mercantile
 - Heavy Armor
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 

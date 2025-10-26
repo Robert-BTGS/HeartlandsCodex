@@ -7,11 +7,11 @@ Warlocks strike pacts with dark entities, trading service for forbidden power. T
 - Luck
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
 - Light Armor
 - Enchanting
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Destruction
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Wand

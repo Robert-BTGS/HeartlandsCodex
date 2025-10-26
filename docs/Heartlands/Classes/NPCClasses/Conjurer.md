@@ -7,11 +7,11 @@ Conjurers are mages who specialize in bending the veil between realms, calling f
 - Willpower
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Conjuration
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Destruction
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Restoration

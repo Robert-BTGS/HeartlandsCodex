@@ -7,9 +7,9 @@ Ostlers tend stables and caravans, ensuring horses and wagons are battle-ready. 
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Mercantile
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Hand To Hand

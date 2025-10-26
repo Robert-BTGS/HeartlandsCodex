@@ -7,11 +7,11 @@ Merchants traverse the empire, carrying goods and rare wares. They bridge distan
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Restoration
 - Mercantile
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 - Repair
 - Blunt

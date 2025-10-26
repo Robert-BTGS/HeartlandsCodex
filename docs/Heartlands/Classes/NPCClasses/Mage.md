@@ -7,7 +7,7 @@ Mages study the raw forces of magic, mastering elemental power and arcane knowle
 - Willpower
 
 ## Skill Bonuses
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Restoration
 - [Herbology](/HeartlandsCodex/Heartlands/Skills/herbology)
 - Conjuration

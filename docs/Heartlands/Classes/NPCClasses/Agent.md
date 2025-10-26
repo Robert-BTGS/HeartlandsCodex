@@ -10,11 +10,11 @@ Silent and calculating, Agents specialize in information and infiltration. They 
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Light Armor
 - Hand To Hand
 - Unarmored
-- Intelligence
+- 
 
 ## Specialization
 - Stealth

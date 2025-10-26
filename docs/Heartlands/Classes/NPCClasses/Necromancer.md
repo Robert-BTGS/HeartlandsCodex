@@ -9,9 +9,9 @@ Necromancers wield forbidden magic, commanding the dead to serve their will. Fea
 ## Skill Bonuses
 - Blunt
 - Restoration
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Conjuration
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Destruction
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)

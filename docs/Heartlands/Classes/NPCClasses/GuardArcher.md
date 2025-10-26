@@ -7,13 +7,13 @@ Guard Archers protect cities from high walls, raining arrows on invaders. Their 
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Destruction
 - Light Armor
 - Restoration
 - Heavy Armor
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 
 ## Specialization

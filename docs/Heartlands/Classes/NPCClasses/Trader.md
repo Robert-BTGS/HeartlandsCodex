@@ -11,7 +11,7 @@ Traders roam from town to town, carrying exotic goods and distant news. They thr
 - Block
 - Mercantile
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Repair
 - Axe
 - Hand To Hand

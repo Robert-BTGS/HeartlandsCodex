@@ -7,7 +7,7 @@ Commanding brutal warbands, Marauder Bosses are feared leaders of chaos. Their c
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Hand To Hand
 - Unarmored

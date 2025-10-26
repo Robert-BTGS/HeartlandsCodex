@@ -11,7 +11,7 @@ Booksellers are keepers of knowledge, curating rare tomes and forgotten scrolls.
 - Block
 - Hand To Hand
 - Unarmored
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Sneak
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - Mercantile

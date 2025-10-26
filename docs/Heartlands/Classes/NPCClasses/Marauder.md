@@ -7,7 +7,7 @@ Savage and relentless, Marauders raid villages and caravans without mercy. Their
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Hand To Hand
 - Mercantile

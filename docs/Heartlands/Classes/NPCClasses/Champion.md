@@ -10,10 +10,10 @@ Champions are heroes, celebrated for unmatched skill and daring feats. Their exp
 - Blunt
 - Block
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 - Hand To Hand
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Mercantile
 
 ## Specialization

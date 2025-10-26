@@ -7,12 +7,12 @@ Publicans run taverns where adventurers share tales and make deals. Their establ
 - Personality
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Light Armor
 - Mercantile
 - Sneak
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 - Blunt
 

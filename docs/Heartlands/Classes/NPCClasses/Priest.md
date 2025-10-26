@@ -8,10 +8,10 @@ Priests serve the divine, offering healing, guidance, and sanctuary. Their faith
 
 ## Skill Bonuses
 - Blunt
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Restoration
 - Conjuration
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - [Herbology](/HeartlandsCodex/Heartlands/Skills/herbology)
 - Block
 - [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)

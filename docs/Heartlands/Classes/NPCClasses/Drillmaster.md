@@ -7,7 +7,7 @@ Drillmasters are hardened veterans tasked with forging raw recruits into discipl
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Blunt
 - Hand To Hand

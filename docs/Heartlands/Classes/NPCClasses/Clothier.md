@@ -11,7 +11,7 @@ Clothiers craft fine garments for nobles and practical attire for travelers. The
 - Block
 - Repair
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Hand To Hand
 - Unarmored
 - Mercantile

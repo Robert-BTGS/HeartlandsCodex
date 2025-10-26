@@ -13,7 +13,7 @@ Guards are the ever-watchful defenders of towns and castles. They patrol walls, 
 - Hand To Hand
 - Heavy Armor
 - Unarmored
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 
 ## Specialization

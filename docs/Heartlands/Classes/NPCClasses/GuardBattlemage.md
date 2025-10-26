@@ -7,7 +7,7 @@ These elite guards blend magic and martial skill to protect royalty and sacred s
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Light Armor
 - Restoration

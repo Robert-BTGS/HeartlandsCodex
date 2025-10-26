@@ -7,7 +7,7 @@ Warriors are the backbone of any army, known for strength and resilience. They f
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Blunt
 - Hand To Hand

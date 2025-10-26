@@ -7,13 +7,13 @@ Masters of the forge, they craft weapons and armor worthy of legends. Their crea
 - Strength
 
 ## Skill Bonuses
-- ALchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Blunt
 - Axe
 - Restoration
 - Heavy Armor
 - Repair
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 
 ## Specialization

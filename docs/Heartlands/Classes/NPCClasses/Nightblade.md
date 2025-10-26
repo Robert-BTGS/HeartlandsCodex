@@ -7,13 +7,13 @@ Nightblades merge shadow magic with deadly stealth, vanishing into darkness to s
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
 - Light Armor
 - Conjuration
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Destruction
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 
 ## Specialization

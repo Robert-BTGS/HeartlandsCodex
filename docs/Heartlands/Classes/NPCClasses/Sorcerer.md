@@ -7,7 +7,7 @@ Sorcerers wield innate magic coursing through their blood, unpredictable and wil
 - Endurance
 
 ## Skill Bonuses
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Restoration
 - Wand
 - Conjuration

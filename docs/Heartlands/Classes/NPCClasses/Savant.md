@@ -7,11 +7,11 @@ Savants are intellectual prodigies who perceive the world through patterns of ma
 - Personality
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Alchemy
 - Mercantile
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Long Blade
 - Hand To Hand
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)

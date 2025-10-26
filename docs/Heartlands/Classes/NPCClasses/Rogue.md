@@ -7,10 +7,10 @@ Clever and resourceful, Rogues survive on cunning rather than brute force. They 
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
-- Alchemy
-- Speechcraft
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Light Armor
 - Herbology
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)

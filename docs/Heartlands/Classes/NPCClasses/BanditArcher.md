@@ -8,7 +8,7 @@ Bandit Archers strike from afar, softening targets before their allies rush in. 
 
 ## Skill Bonuses
 - Blunt
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Light Armor
 - Mercantile
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)

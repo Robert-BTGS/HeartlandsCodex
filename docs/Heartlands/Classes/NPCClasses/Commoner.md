@@ -7,13 +7,13 @@ Commoners are the lifeblood of the empire, tending farms, shops, and families. T
 - Endurance
 
 ## Skill Bonuses
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Mercantile
 - Block
 - Blunt
 - Hand To Hand
 - Unarmored
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 
 ## Specialization

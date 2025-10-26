@@ -7,13 +7,13 @@ Hunters track beasts and monsters alike, thriving in forests and mountains. Thei
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
 - Light Armor
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Block
 
 ## Specialization

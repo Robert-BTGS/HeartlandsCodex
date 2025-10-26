@@ -7,14 +7,14 @@ Scouts are swift adventurers skilled in tracking and reconnaissance. They range 
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Blunt
 - Hand To Hand
 - Light Armor
 - Heavy Armor
 - Mercantile
 - Long Blade
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 
 ## Specialization
 - Combat

@@ -13,7 +13,7 @@ A rare and dangerous breed, Bandit Wizards blend criminal cunning with untamed m
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Wand
 
 ## Specialization

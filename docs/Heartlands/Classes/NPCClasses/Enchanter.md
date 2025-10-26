@@ -7,14 +7,14 @@ Enchanters weave magic into everyday objects, transforming simple tools into art
 - Willpower
 
 ## Skill Bonuses
-- Alchemy
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 - Blunt
 - [Alteration](/HeartlandsCodex/Heartlands/Skills/alteration)
 - Conjuration
 - Enchanting
 - Destruction
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 
 ## Specialization
 - Magic

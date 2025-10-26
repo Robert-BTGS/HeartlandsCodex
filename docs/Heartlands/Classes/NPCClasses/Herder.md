@@ -7,7 +7,7 @@ Simple folk tending livestock, Herders roam the hills and fields of the empire. 
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
 - Light Armor
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)

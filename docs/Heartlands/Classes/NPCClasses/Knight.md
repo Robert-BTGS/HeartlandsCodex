@@ -7,14 +7,14 @@ Knights embody honor, duty, and martial prowess. Sworn to protect their lords an
 - Strength
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Blunt
 - Long Blade
 - Hand To Hand
 - Heavy Armor
 - [Illusion](/HeartlandsCodex/Heartlands/Skills/illusion)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 
 ## Specialization
 - Combat

@@ -7,7 +7,7 @@ Enforcers serve as muscle for nobles, guilds, or underworld bosses. Their presen
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Light Armor
 - Destruction

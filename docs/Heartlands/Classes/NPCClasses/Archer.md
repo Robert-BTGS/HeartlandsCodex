@@ -7,13 +7,13 @@ Masters of the bow, Archers rain arrows from a distance with deadly precision. T
 - Speed
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Restoration
 - Light Armor
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
 - Unarmored
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Hand To Hand
 
 ## Specialization

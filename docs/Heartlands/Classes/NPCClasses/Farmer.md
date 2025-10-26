@@ -7,12 +7,12 @@ Farmers toil under sun and storm, sustaining the empire with their harvests. Tho
 - Personality
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Block
 - Blunt
 - Hand To Hand
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Unarmored
 - Axe
 

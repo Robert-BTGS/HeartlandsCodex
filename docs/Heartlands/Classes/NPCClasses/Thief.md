@@ -11,7 +11,7 @@ Thieves live by their wits and nimble hands, thriving in chaos and opportunity. 
 - Mercantile
 - Light Armor
 - [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 - Repair
 - Short Blade
 - Hand To Hand

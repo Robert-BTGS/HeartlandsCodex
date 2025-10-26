@@ -7,14 +7,14 @@ Heralds bear the banners and proclamations of kings and lords. They deliver news
 - Personality
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Hand To Hand
 - Light Armor
 - Mercantile
 - [Marksman](/HeartlandsCodex/Heartlands/Skills/marksman)
 - Unarmored
 - Long Blade
-- Speechcraft
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
 
 ## Specialization
 - Combat

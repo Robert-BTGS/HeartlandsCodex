@@ -1,0 +1,10 @@
+# Specializations
+
+- magic
+
+- health
+
+- combat
+
+
+

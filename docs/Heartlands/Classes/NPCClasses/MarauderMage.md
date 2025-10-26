@@ -7,14 +7,14 @@ Blending wild magic with battle fury, Marauder Mages are unpredictable and deadl
 - Endurance
 
 ## Skill Bonuses
-- Short Blade
+- [Short Blade](/HeartlandsCodex/Heartlands/Skills/shortblade)
 - Staff
 - Light Armor
 - Conjuration
 - Heavy Armor
 - Destruction
-- Speechcraft
-- Alchemy
+- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
+- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
 
 ## Specialization
 - Magic
