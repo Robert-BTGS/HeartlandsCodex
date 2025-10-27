@@ -9,4 +9,4 @@
 * Mechanics: place an item from the right shelf onto the center scales to see how much gold the NPC will pay
 * Mechanics: add an item from the left shelf to the left side of the scales to see the price difference at the bottom
 * Use of weights: add to left or right side to decrease or increase the value to balance the deal
-
+* To finalize the deal, sign the parchment

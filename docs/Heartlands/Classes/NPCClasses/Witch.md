@@ -1,6 +1,6 @@
 # Witch
 
-Witches wield hexes that weaken foes, charms that twist fate, and brews that alter body or mind. They can summon spectral familiars or call storms with ritual precision. 
+Witches wield hexes that weaken foes, charms that twist fate, and brews that alter body or mind. 
 
 ## Favored Attributes
 - Willpower
