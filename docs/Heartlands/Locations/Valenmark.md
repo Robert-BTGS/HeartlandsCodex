@@ -1,15 +1,14 @@
+---
+tags: [heartlands, location]
+---
+
 # Valenmark (Kadia)
 
-## The Seat of Crowns
+## The Crown of Empire
 
 * Capital: Caelthor
+* Dominant Race: [Kadians](../Races/Kadian.md)
+* Landscape: Rolling grasslands, temperate forests, fertile river valleys
 
-* Land: Rolling grasslands, temperate forests, and fertile river valleys, kissed by four mild seasons.
-
-* People: The Kadians, proud and steadfast, whose disciplined legions carved the path of empire.
-
-* Role: The political and cultural heart of the Empire. Caelthor’s White Spires rise above emerald plains, where the Emperor Andurion Velasi rules from the Celestial Palace. Its knights are famed for their code of honor and peerless cavalry, while its scholars preserve the imperial chronicles in marble libraries.
-
-* History: Valenmark rose from the ashes of the Dikadian dominion, transforming conquest into unity. Many roads — and loyalties — begin and end here.
-
-
+## Essence
+The heart and helm of the Velassian Empire, Valenmark is the seat of Emperor Andurion Velasi, whose lineage stretches back to the Unification Wars. It is a land of marble cities and golden halls, where Heart Shards gleam in arcane towers and the bureaucracy of empire churns with tireless precision. The Kadians are statesmen and warriors, philosophers and tacticians, rulers by destiny, not merely decree.

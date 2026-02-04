@@ -5,3 +5,8 @@ These are the skills that make up your character. They include major, minor and 
 
 
 
+
+## Guides
+* [Combat Basics](../Gameplay/CombatBasics.md)
+* [Magic Basics](../Gameplay/MagicBasics.md)
+* [Equipment And Holsters](../Gameplay/EquipmentAndHolsters.md)

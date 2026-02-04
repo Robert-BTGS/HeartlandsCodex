@@ -1,4 +1,15 @@
+---
+tags: [npc, the-arena]
+---
+
 # Anduros Blackhand
+
+## Quick Jump
+* [Background](#background)
+* [Personality](#personality)
+* [Related Characters](#related-characters)
+* [Attributes](#attributes)
+
 
 **Name:** Anduros Blackhand
 **Race:** Kadian
@@ -26,11 +37,11 @@ The Champion
 
 ## Related Characters
 
-- *[Varos](/HeartlandsCodex/Heartlands/Races/Kadian)* – head of security  
+- *[Varos](../../Heartlands/Races/Kadian.md)* – head of security  
 - *Empress* – rarely seen in court  
 - *General Niraan* – general
 
-### **Race:** [Kadian](/HeartlandsCodex/Heartlands/Races/Kadian)
+### **Race:** [Kadian](../../Heartlands/Races/Kadian.md)
  ***Elf***
 
 
@@ -42,6 +53,15 @@ The Champion
 
 ## Attributes
 
-| Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|------|------|------|------|------|------|------|
-| 35    | 65   | 60    | 25    | 30    | 55    | 50 |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">ATTRIBUTES</div>
+  <table>
+    <tr><th>Strength</th><td>35</td></tr>
+    <tr><th>Intelligence</th><td>65</td></tr>
+    <tr><th>Willpower</th><td>60</td></tr>
+    <tr><th>Speed</th><td>25</td></tr>
+    <tr><th>Endurance</th><td>30</td></tr>
+    <tr><th>Personality</th><td>55</td></tr>
+    <tr><th>Luck</th><td>50</td></tr>
+  </table>
+</div>

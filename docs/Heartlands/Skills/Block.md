@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Block
 
 
 Block is the art of discipline under pressure—the moment between chaos, and control. Shields become more than barriers; they are vows sworn in silence, stances held against storms. 
+
+## Usage
+
+Shields come in three sizes. Bucklers are small and light, standard shields offer solid protection, and great shields are large, heavy, and very protective. See [Shield Types](../Gameplay/ShieldTypes.md) for details.
+
 
 # Perks
 

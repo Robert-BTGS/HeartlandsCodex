@@ -1,15 +1,14 @@
-# Irgavorn 
+---
+tags: [heartlands, location]
+---
 
-## The Stonefast Bastion
+# Irgavorn (The Spine of Storms)
+
+## The Spine of Storms
 
 * Capital: Korundal
+* Dominant Race: [Saloens](../Races/Saloen.md)
+* Landscape: Jagged mountains, alpine tundra, ancient pine forests
 
-* Land: Towering alpine peaks, tundra plateaus, and glacial rivers.
-
-* People: The Saloens, stoic mountain-dwellers hardened by cold and hardship.
-
-* Role: Irgavorn is the shield-wall of the north, supplying the Empire with steel, stone, and soldiers renowned for endurance. Its fortresses are carved into living cliffs, and its mines yield veins of heartsteel — rare metal coveted for enchantment.
-
-* History: Forged in centuries of clan warfare, Irgavorn swore fealty to the Empire after the War of Nine Peaks, where Kadian legions and Saloen shield-brothers together cast down the frost giants of the high passes.
-
-
+## Essence
+Carved from stone and silence, Irgavorn is a realm of peaks and echoes, where the Saloens speak little but mean much. Stoic and enduring, their mountainholds are lined with runes of binding, their forges echo with the wisdom of stone. It is said the winds of Irgavorn still carry the voices of the Adren, for the silence here is deep enough to hold divine memory. Irgavorn guards the north and its secrets with granite will.

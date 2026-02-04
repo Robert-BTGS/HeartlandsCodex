@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Enchanting System
 
 * Single enchanting workbench handles both weapons and armor

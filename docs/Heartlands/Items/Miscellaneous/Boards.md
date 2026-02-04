@@ -1,13 +1,49 @@
+---
+tags: [heartlands, item]
+---
+
 # Boards
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Boards](../../../images/board_12-8-2,025_1-23-18.png)
-![Boards](../../../images/board_12-8-2,025_1-41-5.png)
-![Boards](../../../images/board_12-8-2,025_1-41-8.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Boards" src="../../../images/board_12-8-2_025_1-23-18.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Boards" src="../../../images/board_12-8-2_025_1-41-5.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Boards" src="../../../images/board_12-8-2_025_1-41-8.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Boards thumbnail" src="../../../images/board_12-8-2_025_1-23-18.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Boards thumbnail" src="../../../images/board_12-8-2_025_1-41-5.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Boards thumbnail" src="../../../images/board_12-8-2_025_1-41-8.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 0.0     | 5.0   |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>5.0</td></tr>
+  </table>
+</div>

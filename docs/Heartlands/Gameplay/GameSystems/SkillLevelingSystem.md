@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Skill Leveling System
 
 * Leveling up a skill requires a specific amount of experience.

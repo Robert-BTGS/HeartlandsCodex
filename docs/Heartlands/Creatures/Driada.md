@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Driada
 
 Driada are mystical guardians of the forest, their forms a graceful blend of woman and tree. Their skin bears the texture and hue of living bark, while hair like cascading leaves shifts with the seasons—lush green in summer, fiery red in autumn, and bare branches in winter’s rest. They move with the stillness of deep woods, yet strike with the swiftness of wind through the canopy, wielding vines, roots, and thorned branches as living weapons. Driada are deeply bound to their chosen grove, drawing strength from the soil beneath them and the ancient trees around them.

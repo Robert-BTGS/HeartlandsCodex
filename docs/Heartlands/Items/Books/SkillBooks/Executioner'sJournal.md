@@ -1,3 +1,7 @@
+---
+tags: [heartlands, item]
+---
+
 # Executioner's Journal
 
 16 Eththo, 212

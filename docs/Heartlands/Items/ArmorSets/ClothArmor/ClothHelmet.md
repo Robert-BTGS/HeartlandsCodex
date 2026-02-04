@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Cloth Helmet
 
 Its unassuming design ensures minimal interference with vision or hearing, making it perfect for stealthy approaches or agile combatants who rely on speed and dexterity.
 
-![Cloth Helmet](../../../images/Cloth Helmet_13-8-2,025_20-44-8.png)
+![Cloth Helmet](../../../images/Cloth_Helmet_13-8-2_025_20-44-8.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.52    | 6.0   | 1.2    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.52</td></tr>
+    <tr><th>Value</th><td>6.0</td></tr>
+    <tr><th>Armor</th><td>1.2</td></tr>
+  </table>
+</div>

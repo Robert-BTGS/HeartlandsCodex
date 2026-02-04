@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Lock System
 
 * Locks can be opened only via keys or via spells from the Alteration School of Magic.

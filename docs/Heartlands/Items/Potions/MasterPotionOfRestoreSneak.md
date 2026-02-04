@@ -1,10 +1,27 @@
+---
+tags: [heartlands, item]
+---
+
 # Master Potion Of Restore Sneak
 
 This subtle tonic restores awareness, balance, and the silent confidence of a practiced infiltrator. It renews control of breath and movement, allowing the drinker to fade seamlessly into the quiet once again.
 
-![Master Potion Of Restore Sneak](../../..\images\Master Potion of Restore Sneak_12-8-2,025_21-8-4.png)
+![Master Potion Of Restore Sneak](../../images/Master_Potion_of_Restore_Sneak_12-8-2_025_21-8-4.png)
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 1.0     | 125. 0|
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>1.0</td></tr>
+    <tr><th>Value</th><td>125. 0</td></tr>
+  </table>
+</div>
+
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/RestoreSneak/">Restore Sneak</a></li>
+  </ul>
+</div>
+

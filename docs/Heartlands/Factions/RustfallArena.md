@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Rustfall Arena
 
 All the information about the factions that you can either meet or become a part of.

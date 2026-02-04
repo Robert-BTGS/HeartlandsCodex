@@ -1,11 +1,25 @@
+---
+tags: [heartlands, item]
+---
+
 # Iron Long Sword
 
 
 Reliable and easy to replace. This is a staple of frontier garrisons and small militias.
 
-![Iron Long Sword](../../../images/Iron Long Sword_11-8-2,025_23-16-59.png)
+![Iron Long Sword](../../../images/Iron_Long_Sword_11-8-2_025_23-16-59.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 22.7    | 442.0 | 11.0   |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>22.7</td></tr>
+    <tr><th>Value</th><td>442</td></tr>
+    <tr><th>Damage</th><td>11</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/LongBlade/">Long Blade</a></td></tr>
+    <tr><th>Damage Type</th><td>Physical</td></tr>
+    <tr><th>Holster Slot</th><td>Hip</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Iron</td></tr>
+  </table>
+</div>

@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Summoning
 
 * Summonable categories: weapons, armor, and creatures
@@ -11,5 +15,5 @@
 * When summoned armor expires, the previously worn armor is automatically re-equipped
 * If a summoned weapon is dropped or an attempt is made to put it into inventory, it is destroyed immediately.
 
-[Conjuration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Conjuration)
+[Conjuration](../SchoolsOfMagic/Conjuration.md)
 

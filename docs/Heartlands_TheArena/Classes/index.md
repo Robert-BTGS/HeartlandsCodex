@@ -1,3 +1,3 @@
 # Classes
 
-See Heartlands Classes here [Classes](/HeartlandsCodex/Heartlands/Classes)
+See Heartlands Classes here [Classes](../../Heartlands/Classes/index.md)

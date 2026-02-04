@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Mimic
 
 Door Mimics are devious shapeshifters that disguise themselves as ordinary doors, patiently waiting for an unsuspecting victim to approach. The moment a hand reaches for the handle, the mimic’s surface splits into a gaping maw lined with jagged teeth, and adhesive tendrils lash out to ensnare prey. Their wooden‑like hides can perfectly imitate aged oak, polished mahogany, or even rusted iron, making them almost impossible to spot until it’s too late.

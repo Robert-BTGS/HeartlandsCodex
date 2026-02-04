@@ -1,3 +1,7 @@
+---
+tags: [heartlands, skill]
+---
+
 # Illusion
 
 A practiced distortion of truth, Illusion weaves doubt into certainty, sound into silence, presence into absence. 

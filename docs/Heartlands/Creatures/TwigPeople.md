@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Twig People
 
 Skinny Twigkin are wiry, brittle‑limbed forest sprites made from gnarled twigs and bark. Their spindly frames allow them to slip through undergrowth unseen, striking with thorny claws or small, sharpened sticks. They often act as scouts and skirmishers, harassing intruders before vanishing into the trees. Their bodies creak and snap as they move, the sound often mistaken for nothing more than wind in the branches, until it’s too late.

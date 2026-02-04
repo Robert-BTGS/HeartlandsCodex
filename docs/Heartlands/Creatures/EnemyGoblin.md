@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Enemy Goblin
 
 Squat, sharp‑eared tricksters with leathery green skin and wide, grinning mouths full of uneven teeth. Though small in stature, they are quick, resourceful, and endlessly mischievous, turning whatever scraps they can find into crude weapons or clever traps. Goblins thrive in chaos, overwhelming enemies with noise, smoke, and sheer unpredictability. 

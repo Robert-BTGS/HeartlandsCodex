@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Staff
 
 
 Use of a staff to channel the arcane takes no small measure of care and focus, and the power you will wield is unmatched.
+
+## Usage
+
+Staves cast powerful placement spells (such as pits of fire or lightning from the sky). They rely on a stored charge that must be replenished with a Heart Shard when depleted.
+
 
 # Perks
 

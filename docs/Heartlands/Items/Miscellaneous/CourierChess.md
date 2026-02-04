@@ -1,13 +1,55 @@
+---
+tags: [heartlands, item]
+---
+
 # Courier Chess
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Courier Chess](../../../images/Courier Chess piece_12-8-2,025_0-47-31.png)
-![Courier Chess](../../../mages/Courier chess piece_12-8-2,025_0-47-34.png)
-![Courier Chess](../../../images/Courier Chess piece_13-8-2,025_21-23-43.png)
-![Courier Chess](../../../images/Courier chess piece_13-8-2,025_21-23-53.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Courier Chess" src="../../../images/Courier_Chess_piece_12-8-2_025_0-47-31.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess" src="../../../images/Courier_chess_piece_12-8-2_025_0-47-34.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess" src="../../../images/Courier_Chess_piece_13-8-2_025_21-23-43.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess" src="../../../images/Courier_chess_piece_13-8-2_025_21-23-53.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Courier Chess thumbnail" src="../../../images/Courier_Chess_piece_12-8-2_025_0-47-31.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess thumbnail" src="../../../images/Courier_chess_piece_12-8-2_025_0-47-34.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess thumbnail" src="../../../images/Courier_Chess_piece_13-8-2_025_21-23-43.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Courier Chess thumbnail" src="../../../images/Courier_chess_piece_13-8-2_025_21-23-53.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

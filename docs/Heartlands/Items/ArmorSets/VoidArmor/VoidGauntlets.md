@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Void Gauntlets
 
 These gauntlets are forged from dark, flexible metal that pulses with void energy.
 
-![Void Gauntlets](../../../images/Void Gauntlets_13-8-2,025_20-11-44.png)
+![Void Gauntlets](../../../images/Void_Gauntlets_13-8-2_025_20-11-44.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 8.90    | 575.0 | 10.0   |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>8.90</td></tr>
+    <tr><th>Value</th><td>575.0</td></tr>
+    <tr><th>Armor</th><td>10.0</td></tr>
+  </table>
+</div>

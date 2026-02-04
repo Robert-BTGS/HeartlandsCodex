@@ -1,4 +1,4 @@
 # Creatures
 
-See Heartlands Creatures here [Crreatures](/HeartlandsCodex/Heartlands/Creatures)
+See Heartlands Creatures here [Crreatures](../../Heartlands/Creatures/index.md)
 

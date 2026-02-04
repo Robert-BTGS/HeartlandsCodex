@@ -1,29 +1,56 @@
+---
+tags: [heartlands, race]
+---
+
 # Saloen
 
-#### Information
+![Saloen](../../images/Saloen.png)
 
-Peaceful and spiritual mountainfolk that walk the line between their cousins’ devotion to their deviating beliefs in divine heritage. Their bodies are honed against shock and magic, but ritualistic death practices leave them weak to poisoning.
+Peaceful and spiritual mountainfolk who walk the line between their cousins’ devotion and their own divergent beliefs in divine heritage. Their bodies are honed against shock and magic, but ritualistic death practices leave them weak to poisoning.
 
+**Ancestry:** Elf
 
+## Quick Jump
+* [Base Attributes](#base-attributes)
+* [Skill Bonuses](#skill-bonuses)
+* [Resistences](#resistences)
+* [Other](#other)
 
-![Kadian](../../images/Saloen.png)
+## Homelands
 
-#### Physical Characteristics
+* [Irgavorn](../Locations/Irgavorn.md)
 
-*Purple Skin*
-
-*Elf*
 ## Base Attributes
 
-| Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|------     |------        |------      |------  |------      |------        |------ |
-| 35        | 45           | 50         | 35     | 30         | 35           | 50    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Base Attributes</div>
+  <table>
+    <tr><th>Strength</th><td>35</td></tr>
+    <tr><th>Intelligence</th><td>45</td></tr>
+    <tr><th>Willpower</th><td>50</td></tr>
+    <tr><th>Speed</th><td>35</td></tr>
+    <tr><th>Endurance</th><td>30</td></tr>
+    <tr><th>Personality</th><td>35</td></tr>
+    <tr><th>Luck</th><td>50</td></tr>
+  </table>
+</div>
 
 ## Skill Bonuses
 
-| Alchemy  | Block | Conjuration  | Enchanting  | Hand To Hand  | Illusion  | Staff  | Unarmored  | Wand |
-|------    |------ |------        |------       |------         |------     |------  |------      |----  |
-| 10       | 5     | 5            | 5           | 10            | 5         | 5      | 10         | 5    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Skill Bonuses</div>
+  <table>
+    <tr><th>Alchemy</th><td>10</td></tr>
+    <tr><th>Block</th><td>5</td></tr>
+    <tr><th>Conjuration</th><td>5</td></tr>
+    <tr><th>Enchanting</th><td>5</td></tr>
+    <tr><th>Hand To Hand</th><td>10</td></tr>
+    <tr><th>Illusion</th><td>5</td></tr>
+    <tr><th>Staff</th><td>5</td></tr>
+    <tr><th>Unarmored</th><td>10</td></tr>
+    <tr><th>Wand</th><td>5</td></tr>
+  </table>
+</div>
 
 
 ## Resistences

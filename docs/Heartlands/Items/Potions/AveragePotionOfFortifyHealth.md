@@ -1,10 +1,27 @@
+---
+tags: [heartlands, item]
+---
+
 # Average Potion Of Fortify Health
 
 This rich crimson potion infuses the drinker’s body with life energy, thickening the blood and strengthening the heart. For a short time, vitality surges, granting greater endurance in battle and beyond.
 
-![Average Potion Of Fortify Health](../../../images\Average Potion of Fortify Health_12-8-2,025_21-2-3.png)
+![Average Potion Of Fortify Health](../../images/Average_Potion_of_Fortify_Health_12-8-2_025_21-2-3.png)
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 1.0     | 35.0  |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>1.0</td></tr>
+    <tr><th>Value</th><td>35.0</td></tr>
+  </table>
+</div>
+
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/FortifyHealth/">Fortify Health</a></li>
+  </ul>
+</div>
+

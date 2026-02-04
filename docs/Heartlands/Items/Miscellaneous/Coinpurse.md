@@ -1,13 +1,55 @@
+---
+tags: [heartlands, item]
+---
+
 # Coin Purse
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Coin Purse](../../../images/Coal_12-8-2,025_0-46-8.png)
-![Coin Purse](../../../images/Coal_12-8-2,025_0-46-11.png)
-![Coin Purse](../../../images/Coal_12-8-2,025_0-46-17.png)
-![Coin Purse](../../../images/Coal_12-8-2,025_0-46-27.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Coin Purse" src="../../../images/Coal_12-8-2_025_0-46-8.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse" src="../../../images/Coal_12-8-2_025_0-46-11.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse" src="../../../images/Coal_12-8-2_025_0-46-17.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse" src="../../../images/Coal_12-8-2_025_0-46-27.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Coin Purse thumbnail" src="../../../images/Coal_12-8-2_025_0-46-8.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse thumbnail" src="../../../images/Coal_12-8-2_025_0-46-11.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse thumbnail" src="../../../images/Coal_12-8-2_025_0-46-17.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Coin Purse thumbnail" src="../../../images/Coal_12-8-2_025_0-46-27.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

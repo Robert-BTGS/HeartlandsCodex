@@ -1,12 +1,49 @@
+---
+tags: [heartlands, item]
+---
+
 # Flasks
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Flask](../../../images/flask_12-8-2,025_1-41-25.png)
-![Flask](../../../images/flask_12-8-2,025_19-37-7.png)
-![Flask](../../../images/flask_12-8-2,025_19-37-9.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Flask" src="../../../images/flask_12-8-2_025_1-41-25.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Flask" src="../../../images/flask_12-8-2_025_19-37-7.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Flask" src="../../../images/flask_12-8-2_025_19-37-9.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Flask thumbnail" src="../../../images/flask_12-8-2_025_1-41-25.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Flask thumbnail" src="../../../images/flask_12-8-2_025_19-37-7.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Flask thumbnail" src="../../../images/flask_12-8-2_025_19-37-9.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

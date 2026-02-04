@@ -1,11 +1,25 @@
+---
+tags: [heartlands, item]
+---
+
 # Chitin Bow
 
 
 Two creaking antennae are joined at their base and strung to create a crude, but effective, bow.
 
-![Chitin Bow](../../../images/Chitin Bow_11-8-2,025_23-13-43.png)
+![Chitin Bow](../../../images/Chitin_Bow_11-8-2_025_23-13-43.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 8.0     | 43.0  | 7.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>8</td></tr>
+    <tr><th>Value</th><td>43</td></tr>
+    <tr><th>Damage</th><td>7</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/Marksman/">Marksman</a></td></tr>
+    <tr><th>Damage Type</th><td>Physical</td></tr>
+    <tr><th>Holster Slot</th><td>Back</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Chitin</td></tr>
+  </table>
+</div>

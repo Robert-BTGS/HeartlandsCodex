@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Malicyn
 
 * Didren goddess of curses, malice, hexes, and corruption; mistress of dark magic, and spreading suffering through affliction.

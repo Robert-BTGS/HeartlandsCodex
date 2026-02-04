@@ -1,10 +1,27 @@
+---
+tags: [heartlands, item]
+---
+
 # Master Potion Of Restore Destruction
 
 An expertly brewed tonic that replenishes the inner spark of destructive magic. It restores precision and energy to the caster, reigniting mastery over flame, frost, and storm alike.
 
-![Master Potion Of Restore Destruction](../../..\images\Master Potion of Restore Destruction_12-8-2,025_21-4-45.png)
+![Master Potion Of Restore Destruction](../../images/Master_Potion_of_Restore_Destruction_12-8-2_025_21-4-45.png)
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 1.0     | 125. 0|
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>1.0</td></tr>
+    <tr><th>Value</th><td>125. 0</td></tr>
+  </table>
+</div>
+
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/RestoreDestruction/">Restore Destruction</a></li>
+  </ul>
+</div>
+

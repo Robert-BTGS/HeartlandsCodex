@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Kaerith
 
 * Didren deity of cruelty, torture, pain, and suffering; embodiment of malice, torment, and merciless vengeance.

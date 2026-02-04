@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Assassin Guild 
 
 ## Guild Ranks 

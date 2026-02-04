@@ -1,4 +1,4 @@
 # Items
 
-See Heartlands Items here [Items](/HeartlandsCodex/Heartlands/Items)
+See Heartlands Items here [Items](../../Heartlands/Items/index.md)
 

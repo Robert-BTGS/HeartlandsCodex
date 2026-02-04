@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Jakora
 
 * Didren goddess of seduction, infidelity, temptation, and manipulation; mistress of betrayal, lust, forbidden desires, and the corruption of emotional bonds.

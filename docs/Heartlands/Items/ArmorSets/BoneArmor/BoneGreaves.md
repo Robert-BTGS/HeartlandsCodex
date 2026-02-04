@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Bone Greaves
 
 The chilling sight of these bone-encrusted greaves strikes fear into any foe, a reminder of death’s unyielding grip.
 
-![Bone Greaves](../../../images/Bone Helmet_13-8-2,025_20-5-50.png)
+![Bone Greaves](../../../images/Bone_Helmet_13-8-2_025_20-5-50.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 4.40    | 215.0 | 7.89   |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>4.40</td></tr>
+    <tr><th>Value</th><td>215.0</td></tr>
+    <tr><th>Armor</th><td>7.89</td></tr>
+  </table>
+</div>

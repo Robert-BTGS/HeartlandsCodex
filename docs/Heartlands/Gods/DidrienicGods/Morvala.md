@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Morvala
 
 * Didren deity of murder, dismemberment, brutality, and worldly pain; revels in violence, bloodshed, and the infliction of mortal agony.

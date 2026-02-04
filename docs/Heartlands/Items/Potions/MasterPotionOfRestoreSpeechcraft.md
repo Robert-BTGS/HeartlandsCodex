@@ -1,10 +1,27 @@
+---
+tags: [heartlands, item]
+---
+
 # Master Potion Of Restore Speechcraft
 
 This refined elixir restores eloquence, conviction, and composure. It renews the rhythm of speech and the grace of expression, allowing persuasion to flow naturally once more.
 
-![Master Potion Of Restore Speechcraft](../../..\images\Master Potion of Restore Speechcraft_12-8-2,025_21-8-48.png)
+![Master Potion Of Restore Speechcraft](../../images/Master_Potion_of_Restore_Speechcraft_12-8-2_025_21-8-48.png)
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 1.0     | 125. 0|
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>1.0</td></tr>
+    <tr><th>Value</th><td>125. 0</td></tr>
+  </table>
+</div>
+
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/RestoreSpeechcraft/">Restore Speechcraft</a></li>
+  </ul>
+</div>
+

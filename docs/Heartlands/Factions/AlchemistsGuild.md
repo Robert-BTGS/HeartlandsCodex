@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Alchemist's Guild
 
 ## Guild's Philosophy:

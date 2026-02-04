@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Eggplant
 
 In potioncraft, they are valued for their ability to absorb and hold enchantments, making them excellent vessels for complex brews and layered spells. When roasted and mashed, the flesh can be infused with calming or restorative magic, easing agitation of both mind and body. Raw slices, however, are sometimes steeped in shadow‑tonics, as they are said to bind and conceal magic until the moment it is needed.
 
-![Eggplant](../../../images\eggplant_12-8-2,025_20-4-40.png)
+![Eggplant](../../images/eggplant_12-8-2_025_20-4-40.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

@@ -1,10 +1,24 @@
+---
+tags: [heartlands, item]
+---
+
 # Bone Staff
 
 Fangs and horns are revered by grafters, and that reverence can be seen in this staff.
 
-![Bone Staff](../../../images/Bone Staff_11-8-2,025_23-19-15.png)
+![Bone Staff](../../../images/Bone_Staff_11-8-2_025_23-19-15.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 10.2    | 446.0 | 5.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>10.2</td></tr>
+    <tr><th>Value</th><td>446</td></tr>
+    <tr><th>Damage</th><td>5</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/Staff/">Staff</a></td></tr>
+    <tr><th>Damage Type</th><td>Physical</td></tr>
+    <tr><th>Holster Slot</th><td>Back</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Bone</td></tr>
+  </table>
+</div>

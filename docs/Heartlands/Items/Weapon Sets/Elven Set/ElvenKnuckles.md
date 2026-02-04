@@ -1,11 +1,25 @@
+---
+tags: [heartlands, item]
+---
+
 # Elven Knuckles
 
 
 Designed for quick, dexterous blows, they are favored by elven duelists, sentinels, and those who prefer finesse over brute strength.
 
-![Elven Knuckles](../../../images/Elven Knuckles_11-8-2,025_23-41-35.png)
+![Elven Knuckles](../../../images/Elven_Knuckles_11-8-2_025_23-41-35.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 3.9     | 127.0 | 7.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>3.9</td></tr>
+    <tr><th>Value</th><td>127</td></tr>
+    <tr><th>Damage</th><td>7</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/HandToHand/">Hand To Hand</a></td></tr>
+    <tr><th>Damage Type</th><td>Silver</td></tr>
+    <tr><th>Holster Slot</th><td>Hip</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Elven</td></tr>
+  </table>
+</div>

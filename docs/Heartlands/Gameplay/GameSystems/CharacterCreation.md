@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Character Creation
 
 1. Players first choose from a list of races.

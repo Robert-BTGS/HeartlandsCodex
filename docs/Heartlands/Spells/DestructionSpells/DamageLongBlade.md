@@ -1,12 +1,33 @@
+---
+tags: [heartlands, spell]
+---
+
 # Damage Long Blade
 
-* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
 
-* Spell Type: Rune, Projectile
+A spell you can cast.
 
-* Magic Effects: Damage Long Blade
+## Spell Info
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Spell Info</div>
+  <table>
+    <tr><th>Spell Type</th><td><a href="../../../Gameplay/SpellCasting/#projectile-spells">Projectile</a></td></tr>
+    <tr><th>Spell School</th><td><a href="../../../Gameplay/SchoolsOfMagic/Destruction/">Destruction</a></td></tr>
+    <tr><th>Damage Type</th><td>Magic</td></tr>
+    <tr><th>Affects Health</th><td>No</td></tr>
+    <tr><th>Affects Magic</th><td>No</td></tr>
+    <tr><th>Range</th><td>3000</td></tr>
+    <tr><th>Cooldown</th><td>5</td></tr>
+    <tr><th>Placement Radius</th><td>0</td></tr>
+    <tr><th>Channel Radius</th><td>10</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+  </table>
+</div>
 
-* Damage Type: Magic
-
-* Description: Decreases the target’s skill with long blades, lowering damage dealt with them.
-
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/DamageLongBlade/">Damage Long Blade</a></li>
+  </ul>
+</div>

@@ -1,20 +1,48 @@
+---
+tags: [class, heartlands]
+---
+
 # Champion
+
+## Quick Jump
+* <a href="#favored-attributes">Favored Attributes</a>
+* <a href="#skill-bonuses">Skill Bonuses</a>
+* <a href="#specialization">Specialization</a>
+
 
 Champions are heroes, celebrated for unmatched skill and daring feats. Their exploits are sung in taverns and feared by enemies. In battle, they lead by example, inspiring awe.
 
 ## Favored Attributes
-- Speed
-- Strength
+
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Favored Attributes</div>
+  <ul>
+    <li><a href="../../../Attributes/Speed">Speed</a></li>
+    <li><a href="../../../Attributes/Strength">Strength</a></li>
+  </ul>
+</div>
 
 ## Skill Bonuses
-- Blunt
-- Block
-- [Sneak](/HeartlandsCodex/Heartlands/Skills/sneak)
-- [Speechcraft](/HeartlandsCodex/Heartlands/Skills/speechcraft)
-- Unarmored
-- Hand To Hand
-- [Alchemy](/HeartlandsCodex/Heartlands/Skills/alchemy)
-- Mercantile
+
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Skill Bonuses</div>
+  <ul>
+    <li><a href="../../../Skills/Blunt">Blunt</a></li>
+    <li><a href="../../../Skills/Block">Block</a></li>
+    <li><a href="../../../Skills/Sneak">Sneak</a></li>
+    <li><a href="../../../Skills/Speechcraft">Speechcraft</a></li>
+    <li><a href="../../../Skills/Unarmored">Unarmored</a></li>
+    <li><a href="../../../Skills/HandToHand">Hand To Hand</a></li>
+    <li><a href="../../../Skills/Alchemy">Alchemy</a></li>
+    <li><a href="../../../Skills/Mercantile">Mercantile</a></li>
+  </ul>
+</div>
 
 ## Specialization
-- Combat
+
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Specialization</div>
+  <ul>
+    <li>Combat</li>
+  </ul>
+</div>

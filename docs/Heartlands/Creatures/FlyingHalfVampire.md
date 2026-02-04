@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Flying Half Vampire
 
 These are skeletal, corpse‑like predators, that are dangerously quick and cunning. Their withered skin clings tightly to jutting bones, their sunken eyes glowing with a cold, predatory light. Long, jagged fangs protrude from their gaping maws, and their clawed hands can tear through flesh as easily as cloth. Driven by pure hunger, they stalk in silence, striking with sudden, bone‑snapping ferocity.

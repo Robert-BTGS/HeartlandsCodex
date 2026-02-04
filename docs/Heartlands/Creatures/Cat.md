@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Cat
 
 Cats are nimble, sharp‑eyed hunters, moving with silent grace whether stalking prey in alley shadows or lazing in sun‑warmed windowsills. Their keen senses and quick reflexes make them natural predators, capable of striking with lightning speed when threatened. In many cultures, cats are seen as omens. Black furred bringing mystery, white furred bringing luck, and striped tabbies are said to walk between the realms of the living and the dead. 

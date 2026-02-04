@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Hustlewort
 
 * restore health, damage magic, fortify personality

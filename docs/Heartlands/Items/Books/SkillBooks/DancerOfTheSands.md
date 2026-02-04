@@ -1,3 +1,7 @@
+---
+tags: [heartlands, item]
+---
+
 # Dancer of The Sands
 
 Near the waters of oasis green

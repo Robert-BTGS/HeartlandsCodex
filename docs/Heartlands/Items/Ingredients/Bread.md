@@ -1,14 +1,51 @@
+---
+tags: [heartlands, item]
+---
+
 # Bread
 
  Freshly baked loaves, still warm and fragrant, can be infused with healing herbs and enchanted grains to carry restorative magic, turning each bite into a remedy for weariness and minor wounds. Stale bread, when dried and ground, is used as a binding agent in potions and poultices, helping disparate magical ingredients meld into harmony. Sharing bread with a stranger creates an unbreakable bond of hospitality, a magic said to protect both host and guest from harm for a single night.
 
 
-![Bread](../../../images\bread_12-8-2,025_18-5-16.png)
-![Bread](../../../images\bread_12-8-2,025_18-9-4.png)
-![Bread](../../../images\bread_12-8-2,025_18-13-36.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Bread" src="../../../images/bread_12-8-2_025_18-5-16.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Bread" src="../../../images/bread_12-8-2_025_18-9-4.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Bread" src="../../../images/bread_12-8-2_025_18-13-36.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Bread thumbnail" src="../../../images/bread_12-8-2_025_18-5-16.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Bread thumbnail" src="../../../images/bread_12-8-2_025_18-9-4.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Bread thumbnail" src="../../../images/bread_12-8-2_025_18-13-36.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>
 

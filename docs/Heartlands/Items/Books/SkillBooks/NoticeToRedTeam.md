@@ -1,3 +1,7 @@
+---
+tags: [heartlands, item]
+---
+
 # Notice To Red Team
 
 Listen up wicks! (or read up, not sure in this case)

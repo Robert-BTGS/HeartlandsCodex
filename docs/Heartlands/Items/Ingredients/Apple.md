@@ -1,3 +1,7 @@
+---
+tags: [heartlands, item]
+---
+
 # Apple
 Apples are among the most storied fruits in herbal lore. Their crisp flesh and sweet fragrance hide a wealth of magical potential.
 
@@ -5,13 +9,56 @@ Red Apples, shaded as warmly as the autumn sun, are prized for vitality tonics a
 
 Alchemists warn: An apple plucked under a new moon may carry a hidden curse, twisting its magic into something more perilous. 
 
-![Apple](../../../images\apple_12-8-2,025_19-6-29.png)
-![Apple](../../../images\apple_12-8-2,025_19-7-12.png)
-![Apple](../../../images\apple_12-8-2,025_19-7-38.png)
-![Apple](../../../images\apple_12-8-2,025_19-8-29.png)
-![Apple](../../../images\apple_12-8-2,025_19-13-26.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Apple" src="../../../images/apple_12-8-2_025_19-6-29.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple" src="../../../images/apple_12-8-2_025_19-7-12.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple" src="../../../images/apple_12-8-2_025_19-7-38.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple" src="../../../images/apple_12-8-2_025_19-8-29.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple" src="../../../images/apple_12-8-2_025_19-13-26.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Apple thumbnail" src="../../../images/apple_12-8-2_025_19-6-29.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple thumbnail" src="../../../images/apple_12-8-2_025_19-7-12.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple thumbnail" src="../../../images/apple_12-8-2_025_19-7-38.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple thumbnail" src="../../../images/apple_12-8-2_025_19-8-29.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Apple thumbnail" src="../../../images/apple_12-8-2_025_19-13-26.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Blunt
 
 
  Blunt arms, clubs, hammers, and maces have endured across ages not for their grace, but for their certainty. They do not slice or pierce; they crush. 
+
+## Usage
+
+Blunt weapons like clubs, maces, and hammers can be used one- or two-handed depending on their size.
+
 
 # Perks
 

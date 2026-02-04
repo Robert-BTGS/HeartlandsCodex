@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Companion System
 
 * World NPCs offering companionship for a cost (mercenary-like).

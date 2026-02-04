@@ -1,4 +1,4 @@
 # Locations
 
-See Heartlands Locations here [Locations](/HeartlandsCodex/Heartlands/Locations)
+See Heartlands Locations here [Locations](../../Heartlands/Locations/index.md)
 

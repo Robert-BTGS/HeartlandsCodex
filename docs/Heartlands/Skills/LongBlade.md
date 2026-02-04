@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Long Blade
 
 
 Excelling in reach and tactical control, you dominate in open spaces where your every swing brings devastating slashes.
+
+## Usage
+
+Long Blade covers both great swords and long swords. Long swords can be used one- or two-handed, while great swords require two hands for full effectiveness.
+
 
 # Perks
 

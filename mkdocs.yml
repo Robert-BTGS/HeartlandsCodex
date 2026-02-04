@@ -3,8 +3,8 @@ site_url: https://robert-btgs.github.io/HeartlandsCodex/
 
 theme:
   name: torillic
-  logo: images/HeartlandsLogo.png
-  favicon: images/HeartlandsLogo.png
+  logo: images/HeartlandsLogo.PNG
+  favicon: images/HeartlandsLogo.PNG
   background_image: images/HeartlandsCodexBackground.jpg
   features:
     - navigation.tabs
@@ -40,3 +40,16 @@ theme:
 plugins:
   - search
   - awesome-pages
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css
+  - assets/css/gallery.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js
+  - assets/js/swiper-init.js
+  - assets/js/random-page.js
+  - assets/js/breadcrumbs.js

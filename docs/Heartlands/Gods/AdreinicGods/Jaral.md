@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Jaral
 
 * God of Logic & Wisdom

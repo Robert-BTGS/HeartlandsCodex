@@ -1,10 +1,8 @@
+---
+tags: [heartlands, spell]
+---
+
 # Lock Hard
 
-* School of Magic [Alteration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Alteration)
-
-* Magic Effects: Lock  Hard
-
-* Damage Type: Magic
-
-* Description: Secures a container or door with a high-level magical lock, requiring advanced skill or magic to open.
+!Missing description.
 

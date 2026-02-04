@@ -1,3 +1,7 @@
+---
+tags: [heartlands, skill]
+---
+
 # Speechcraft
 
 Speech is a weapon, wielded with poise or provocation. A master of eloquence knows that wit cuts, guile bludgeons, and charm deflects with ease. 

@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Mages Guild
 
 ## Guild Ranks and quests

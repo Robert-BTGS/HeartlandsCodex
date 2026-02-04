@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Bear
 
 

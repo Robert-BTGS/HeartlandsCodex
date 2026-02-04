@@ -1,16 +1,14 @@
-# Virellia
+---
+tags: [heartlands, location]
+---
 
-## Garden of Cascades
+# Virellia (The Blossoming Expanse)
 
-* Capital:  Virella
+## The Blossoming Expanse
 
-* Land:  Subtropical forests, sprawling tree-savannas, and rivers cascading into crystal basins.
+* Capital: Virella
+* Dominant Race: [Terrans](../Races/Terran.md)
+* Landscape: Subtropical forests, waterfalls, tree savannas
 
-* People: The Terrans, artisans of wood and stone who live in harmony with their lush homeland.
-
-* Role: Known for artistry and agriculture, Virellia supplies fruits, silks, and elaborate crafts throughout the Empire. Their symphonies echo through arboreal amphitheaters, blending mortal song with birdsong.
-
-* History: Once fragmented city-states, the Terrans were united under imperial banners through diplomacy and intermarriage, their culture now both distinct and celebrated in imperial courts.
-
-
-
+## Essence
+In Virellia, life spills over with abundance. Terran cities perch in the boughs of titanic trees, their streets a dance of birdsong and flowerlight. Their culture reveres balance and renewal, drawing from ancient symbiosis with nature. Artisans, dreamers, and alchemists flourish beneath the green canopy, often guided by druidic circles and Heart Shard groves. To live in Virellia is to live with the forest, not merely within it.

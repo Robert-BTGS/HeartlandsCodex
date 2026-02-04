@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Xalrik
 
 * Didren deity of strict, oppressive order; enforces absolute discipline, conformity, and ruthless punishment for any deviation.

@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Specializations
 
 - magic

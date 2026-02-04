@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Blackwater Brotherhood
 
 ## Guild Overview

@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Gammorath
 
 * Didren deity of madness, insanity, delusion, and fractured minds; lord of mental torment, unpredictable chaos, and derangement.

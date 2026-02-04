@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Ebony Ore
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Ebony Ore](../../../images/Ebony Ore_12-8-2,025_0-49-13.png)
+![Ebony Ore](../../images/Ebony_Ore_12-8-2_025_0-49-13.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

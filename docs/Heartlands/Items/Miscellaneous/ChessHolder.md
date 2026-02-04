@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Chess Holder
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Chess Holder](../../../images/Chess Holder_12-8-2,025_0-45-51.png)
+![Chess Holder](../../images/Chess_Holder_12-8-2_025_0-45-51.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

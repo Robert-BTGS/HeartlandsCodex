@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Wand
 
 
 With a swish and a flick, simple sticks become implements of your will. Your power is precision, practiced to dazzle minds and scorch foes.
+
+## Usage
+
+Wands focus your magic into projectile spells. At low skill they cast a basic projectile; at higher skill you can channel a spell of your choice for greater damage.
+
 
 # Perks
 

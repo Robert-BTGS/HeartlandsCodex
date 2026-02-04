@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Thieves Guild
 
 Guild's Origin and Philosophy:

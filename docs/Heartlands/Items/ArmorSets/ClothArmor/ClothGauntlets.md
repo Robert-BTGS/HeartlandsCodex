@@ -1,10 +1,19 @@
+---
+tags: [heartlands, item]
+---
+
 # Cloth Gauntlets
 
 Crafted from soft, durable fabric and reinforced with light stitching, these gauntlets provide basic protection without hindering movement.
 
-![Cloth Gauntlets](../../../images/Cloth Gauntlets_13-8-2,025_20-44-2.png)
+![Cloth Gauntlets](../../../images/Cloth_Gauntlets_13-8-2_025_20-44-2.png)
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.52    | 6.0   | 1.2    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.52</td></tr>
+    <tr><th>Value</th><td>6.0</td></tr>
+    <tr><th>Armor</th><td>1.2</td></tr>
+  </table>
+</div>

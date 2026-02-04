@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Zhaedria
 
 * Didren deity of disease, pestilence, decay, and corruption; spreads plague, rot, illness, and relentless suffering among mortals.

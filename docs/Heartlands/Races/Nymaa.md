@@ -1,29 +1,56 @@
+---
+tags: [heartlands, race]
+---
+
 # Nymaa
 
-#### Information
+![Nymaa](../../images/Nymaa.png)
 
-Disparate jungle dwellers who believe they descend from the destroyer gods from legend. They are very well adapted to poisons and diseases, but they are weak to fire.
+Disparate jungle dwellers who believe they descend from the destroyer gods of legend. They are highly adapted to poisons and diseases, but they are weak to fire.
 
+**Ancestry:** Elf
 
+## Quick Jump
+* [Base Attributes](#base-attributes)
+* [Skill Bonuses](#skill-bonuses)
+* [Resistences](#resistences)
+* [Other](#other)
 
-![Kadian](../../images/Nymaa.png)
+## Homelands
 
-#### Physical Characteristics
+* [Zircara](../Locations/Zircara.md)
 
-*Green Skin*
-
-*Elf*
 ## Base Attributes
 
-| Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|------     |------        |------      |------  |------      |------        |------ |
-| 40        | 45           | 35         | 45     | 35         | 30           | 50    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Base Attributes</div>
+  <table>
+    <tr><th>Strength</th><td>40</td></tr>
+    <tr><th>Intelligence</th><td>45</td></tr>
+    <tr><th>Willpower</th><td>35</td></tr>
+    <tr><th>Speed</th><td>45</td></tr>
+    <tr><th>Endurance</th><td>35</td></tr>
+    <tr><th>Personality</th><td>30</td></tr>
+    <tr><th>Luck</th><td>50</td></tr>
+  </table>
+</div>
 
 ## Skill Bonuses
 
-| Conjuration  | Destruction | Herbology  | Light Armor  | Marksman  | Repair  | Short Blade  | Sneak  | Wand |
-|------        |------       |------      |------        |------     |------   |------        |------  |      |
-| 10           | 5           | 10         | 10           | 5         | 5       | 5            | 5      | 5    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Skill Bonuses</div>
+  <table>
+    <tr><th>Conjuration</th><td>10</td></tr>
+    <tr><th>Destruction</th><td>5</td></tr>
+    <tr><th>Herbology</th><td>10</td></tr>
+    <tr><th>Light Armor</th><td>10</td></tr>
+    <tr><th>Marksman</th><td>5</td></tr>
+    <tr><th>Repair</th><td>5</td></tr>
+    <tr><th>Short Blade</th><td>5</td></tr>
+    <tr><th>Sneak</th><td>5</td></tr>
+    <tr><th>Wand</th><td>5</td></tr>
+  </table>
+</div>
 
 ## Resistences
  - Poison +25%

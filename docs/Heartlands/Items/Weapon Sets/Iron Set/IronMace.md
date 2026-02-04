@@ -1,11 +1,25 @@
+---
+tags: [heartlands, item]
+---
+
 # Iron Mace
 
 
 These often serve as visual deterrents to would be thieves and highwaymen. 
 
-![Iron Mace](../../../images/Iron Mace_11-8-2,025_23-17-3.png)
+![Iron Mace](../../../images/Iron_Mace_11-8-2_025_23-17-3.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 18.2    | 344.0 | 9.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>18.2</td></tr>
+    <tr><th>Value</th><td>344</td></tr>
+    <tr><th>Damage</th><td>9</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/Blunt/">Blunt</a></td></tr>
+    <tr><th>Damage Type</th><td>Physical</td></tr>
+    <tr><th>Holster Slot</th><td>Hip</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Iron</td></tr>
+  </table>
+</div>

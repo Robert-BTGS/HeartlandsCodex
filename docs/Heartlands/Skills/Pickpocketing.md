@@ -1,3 +1,7 @@
+---
+tags: [heartlands, skill]
+---
+
 # Pickpocketing
 
 Pickpocketing is the art of silently lifting valuables, tools, or key items from unsuspecting targets. Whether it’s slipping a coin pouch from a distracted noble or lifting a cell key from a guard, pickpocketing requires finesse, timing, and a good exit plan. In the right hands, it's a tool for survival, sabotage, or just a little extra coin on the side.

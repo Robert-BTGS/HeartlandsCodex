@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Marshmallow
 
 * cure poison, resist shock, feather
@@ -5,4 +9,4 @@
 - tall plant with pale pink flowers
 - first grown in the wetlands of Zircara
 
-[Marshmallow](/HeartlandsCodex/Heartlands/Items/Ingredients/Marshmallow/)
+[Marshmallow](../Items/Ingredients/Marshmallow.md)

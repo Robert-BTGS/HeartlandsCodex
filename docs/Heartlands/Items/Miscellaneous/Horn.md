@@ -1,12 +1,49 @@
+---
+tags: [heartlands, item]
+---
+
 # Horn
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Horn](../../../images/Horn_12-8-2,025_0-50-38.png)
-![Horn](../../../images/horn_12-8-2,025_3-32-46.png)
-![Horn](../../../images/horn_12-8-2,025_3-34-38.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Horn" src="../../../images/Horn_12-8-2_025_0-50-38.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Horn" src="../../../images/horn_12-8-2_025_3-32-46.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Horn" src="../../../images/horn_12-8-2_025_3-34-38.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Horn thumbnail" src="../../../images/Horn_12-8-2_025_0-50-38.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Horn thumbnail" src="../../../images/horn_12-8-2_025_3-32-46.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Horn thumbnail" src="../../../images/horn_12-8-2_025_3-34-38.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value | Armor  |
-|---------|-------|--------|
-| 0.0     | 0.0   | 0.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>0.0</td></tr>
+    <tr><th>Armor</th><td>0.0</td></tr>
+  </table>
+</div>

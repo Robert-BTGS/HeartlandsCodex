@@ -1,31 +1,58 @@
+---
+tags: [heartlands, race]
+---
+
 # Antanian
 
-#### Information
+![Antanian](../../images/Antanian.png)
 
-Unique in their heritage, these island dwellers adhere to their matriarchal monarchy with a zeal the empire envies. Their elven heritage gives them a resistance to magic, but they have an unfortunate weakness to shock.
+Unique in their heritage, these island dwellers uphold a matriarchal monarchy with a zeal the Empire envies. Their elven blood grants a resistance to magic, but they carry an unfortunate weakness to shock.
 
+**Ancestry:** Half Elf
 
+## Quick Jump
+* [Base Attributes](#base-attributes)
+* [Skill Bonuses](#skill-bonuses)
+* [Resistences](#resistences)
+* [Other](#other)
 
-![Kadian](../../images/Antanian.png)
+## Homelands
 
-#### Physical Characteristics
+* [Ichpo Atu](../Locations/IchpoAtu.md)
 
-*Lightly Tanned Skin*
-
-*Half-Elf*
 ## Base Attributes
 
-| Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|-----------|--------------|------------|--------|------------|--------------|-------|
-| 30        | 45           | 45         | 30     | 30         | 50           | 50    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Base Attributes</div>
+  <table>
+    <tr><th>Strength</th><td>30</td></tr>
+    <tr><th>Intelligence</th><td>45</td></tr>
+    <tr><th>Willpower</th><td>45</td></tr>
+    <tr><th>Speed</th><td>30</td></tr>
+    <tr><th>Endurance</th><td>30</td></tr>
+    <tr><th>Personality</th><td>50</td></tr>
+    <tr><th>Luck</th><td>50</td></tr>
+  </table>
+</div>
 
 ## Skill Bonuses
 
-| Alchemy  | Alteration | Axe  | Destruction  | Enchanting | Heavy Armor | Long Blade | Marksman | Mercantile | Speechcraft | 
-|------    |---         |------|------        |------      |-------------|------------|----------|------------|-------------|
-| 5        | 5          | 10   | 5            |5           |5            | 5          | 5        | 5          | 5           |
-| Staff |
-| 5     |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Skill Bonuses</div>
+  <table>
+    <tr><th>Alchemy</th><td>5</td></tr>
+    <tr><th>Alteration</th><td>5</td></tr>
+    <tr><th>Axe</th><td>10</td></tr>
+    <tr><th>Destruction</th><td>5</td></tr>
+    <tr><th>Enchanting</th><td>5</td></tr>
+    <tr><th>Heavy Armor</th><td>5</td></tr>
+    <tr><th>Long Blade</th><td>5</td></tr>
+    <tr><th>Marksman</th><td>5</td></tr>
+    <tr><th>Mercantile</th><td>5</td></tr>
+    <tr><th>Speechcraft</th><td>5</td></tr>
+    <tr><th>Staff</th><td>5</td></tr>
+  </table>
+</div>
 
 
 ## Resistences

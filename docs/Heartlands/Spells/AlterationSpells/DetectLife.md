@@ -1,13 +1,33 @@
+---
+tags: [heartlands, spell]
+---
+
 # Detect Life
 
-* School of Magic [Alteration](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Alteration)
 
-* Spell Type: Self
+Show outlines of living beings even through walls, a favored spell of the assassin and the thief alike.
 
-* Magic Effects: Detect Life
+## Spell Info
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Spell Info</div>
+  <table>
+    <tr><th>Spell Type</th><td><a href="../../../Gameplay/SpellCasting/#self-spells">Self</a></td></tr>
+    <tr><th>Spell School</th><td><a href="../../../Gameplay/SchoolsOfMagic/Alteration/">Alteration</a></td></tr>
+    <tr><th>Damage Type</th><td>Magic</td></tr>
+    <tr><th>Affects Health</th><td>No</td></tr>
+    <tr><th>Affects Magic</th><td>No</td></tr>
+    <tr><th>Range</th><td>3000</td></tr>
+    <tr><th>Cooldown</th><td>5</td></tr>
+    <tr><th>Placement Radius</th><td>0</td></tr>
+    <tr><th>Channel Radius</th><td>10</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+  </table>
+</div>
 
-* Damage Type: Magic
-
-* Description: Reveals the presence of living creatures within a certain radius, even through walls or obstacles.
-
-
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/DetectLife/">Detect Life</a></li>
+  </ul>
+</div>

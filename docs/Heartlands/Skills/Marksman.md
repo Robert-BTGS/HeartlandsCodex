@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Marksman
 
 
 The heritage of hunters and trackers is swiftly carried on in your keen use of bows and arrows.
+
+## Usage
+
+Marksman governs archery. Bows have a power level that affects how hard they fling arrows, and different arrows deal different damage. Your best arrows auto‑equip into a quiver.
+
 
 # Perks
 

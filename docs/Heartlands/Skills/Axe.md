@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Axe
 
 
 The axe is not a weapon of finesse, it is a tool of finality. Each swing carries the weight of harvest and war alike, cleaving wood and bone in twain. There is no elegance in its arc, only intention. 
+
+## Usage
+
+Axes come in a couple shapes. Some work fine with one hand, while others require two hands to get full effectiveness.
+
 
 # Perks
 

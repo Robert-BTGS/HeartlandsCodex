@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Short Blade
 
 
 Agile and quick you know how to exploit every opening in armor and form. Short swords and daggers cut deeper in your hands.
+
+## Usage
+
+Short Blade covers daggers and short swords. These weapons are always one-handed and tend to be quicker and more nimble than larger blades.
+
 
 # Perks
 

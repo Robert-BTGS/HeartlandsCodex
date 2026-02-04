@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Heavy Armor
 
 
 Proficiency in plates of steel and chains of iron, you feel secure in weighty armors like Dwarven, Kyanite, and the legendary Void armor.
+
+## Usage
+
+Heavy Armor offers strong protection but slows you down.
+
 
 # Perks
 

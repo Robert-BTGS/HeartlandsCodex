@@ -1,4 +1,3 @@
 # Races
 
-All the information about the races that inhabit the lands.
-
+Playable and notable peoples of the Heartlands world.

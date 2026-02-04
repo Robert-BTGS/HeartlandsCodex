@@ -1,28 +1,57 @@
+---
+tags: [heartlands, race]
+---
+
 # Terran
 
-#### Information
+![Terran](../../images/Terran.png)
 
-Usually, you can find these people plying their skills as humble farmers and laborers in the vast grasslands spotting the Kadian Empire. They are surprisingly resistant to sickness and disease, though not as resilient to magic.
+Often found as farmers and laborers across the vast grasslands bordering the Kadian Empire. They are surprisingly resistant to sickness and disease, though not as resilient to magic.
 
+**Ancestry:** Human
 
-![Kadian](../../images/Terran.png)
+## Quick Jump
+* [Base Attributes](#base-attributes)
+* [Skill Bonuses](#skill-bonuses)
+* [Resistences](#resistences)
+* [Other](#other)
 
-#### Physical Characteristics
+## Homelands
 
-*Tanned Skin*
+* [Virellia](../Locations/Virellia.md)
 
-*Human*
 ## Base Attributes
 
-| Strength  | Intelligence | Willpower  | Speed  | Endurance  | Personality  | Luck  |
-|------     |------        |------      |------  |------      |------        |------ |
-| 30        | 35           | 45         | 30     | 50         | 40           | 50    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Base Attributes</div>
+  <table>
+    <tr><th>Strength</th><td>30</td></tr>
+    <tr><th>Intelligence</th><td>35</td></tr>
+    <tr><th>Willpower</th><td>45</td></tr>
+    <tr><th>Speed</th><td>30</td></tr>
+    <tr><th>Endurance</th><td>50</td></tr>
+    <tr><th>Personality</th><td>40</td></tr>
+    <tr><th>Luck</th><td>50</td></tr>
+  </table>
+</div>
 
 ## Skill Bonuses
 
-| Block  | Blunt | Heavy Armor  | Herbology  | Light Armor  | Marksman  | Mercantile  | Repair  | Restoration | Sneak |
-|------  |------ |------        |------      |------        |------     |------       |------   | ---------   | ----- |
-| 5      | 5     | 5            | 10         | 5            | 10        | 5           | 5       | 5           | 5     |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Skill Bonuses</div>
+  <table>
+    <tr><th>Block</th><td>5</td></tr>
+    <tr><th>Blunt</th><td>5</td></tr>
+    <tr><th>Heavy Armor</th><td>5</td></tr>
+    <tr><th>Herbology</th><td>10</td></tr>
+    <tr><th>Light Armor</th><td>5</td></tr>
+    <tr><th>Marksman</th><td>10</td></tr>
+    <tr><th>Mercantile</th><td>5</td></tr>
+    <tr><th>Repair</th><td>5</td></tr>
+    <tr><th>Restoration</th><td>5</td></tr>
+    <tr><th>Sneak</th><td>5</td></tr>
+  </table>
+</div>
 
 
 ## Resistences

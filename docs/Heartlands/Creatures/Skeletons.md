@@ -1,3 +1,7 @@
+---
+tags: [creature, heartlands]
+---
+
 # Skeletons
 
 Skeletons are the reanimated remains of the dead, bound to unholy magic or cursed duty. Their empty eye sockets glow with pale, unnatural light, and their brittle bones move with eerie precision.

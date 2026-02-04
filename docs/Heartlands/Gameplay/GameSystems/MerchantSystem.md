@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Merchant System
 
 * Trading requires visiting a merchant with a set-up shop section

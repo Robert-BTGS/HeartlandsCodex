@@ -1,3 +1,7 @@
+---
+tags: [heartlands, item]
+---
+
 # Letter from a Craftsman
 
 For the last time Hasffan,

@@ -1,10 +1,27 @@
+---
+tags: [heartlands, item]
+---
+
 # Very Weak Potion Of Restore Speechcraft
 
 This gentle elixir restores confidence and calm in speech. It refreshes the clarity of thought and presence needed to turn words into understanding.
 
-![Very Weak Potion Of Restore Speechcraft](../../..\images\Very Weak Potion of Restore Speechcraft_12-8-2,025_21-8-33.png)
+![Very Weak Potion Of Restore Speechcraft](../../images/Very_Weak_Potion_of_Restore_Speechcraft_12-8-2_025_21-8-33.png)
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 1.0     | 15. 0 |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>1.0</td></tr>
+    <tr><th>Value</th><td>15. 0</td></tr>
+  </table>
+</div>
+
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/RestoreSpeechcraft/">Restore Speechcraft</a></li>
+  </ul>
+</div>
+

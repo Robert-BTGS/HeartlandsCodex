@@ -1,6 +1,15 @@
+---
+tags: [heartlands, skill]
+---
+
 # Light Armor
 
 Often, light armor is chosen for its lower noise and minimal encumbrance. It allows its wearer to defend themselves from many attacks, with a high capability for positional response. Light armor favors those who value 
+
+## Usage
+
+Light Armor offers less protection than heavy armor but keeps you nimble.
+
 
 
 # Perks

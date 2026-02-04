@@ -1,11 +1,25 @@
+---
+tags: [heartlands, item]
+---
+
 # Kadian Short Sword
 
 
 With a sharp, pointed blade, it's ideal for both offense and defense, offering the user maneuverability while maintaining deadly precision.
 
-![Kadian Short Sword](../../../images/Kadian Short Sword_11-8-2,025_23-44-20.png)
+![Kadian Short Sword](../../../images/Kadian_Short_Sword_11-8-2_025_23-44-20.png)
 
 ## Item stats
-| Weight  | Value | Damage |
-|---------|-------|--------|
-| 17.8    | 631.0 | 7.0    |
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Item stats</div>
+  <table>
+    <tr><th>Weight</th><td>17.8</td></tr>
+    <tr><th>Value</th><td>631</td></tr>
+    <tr><th>Damage</th><td>500</td></tr>
+    <tr><th>Skill</th><td><a href="../../../../Skills/ShortBlade/">Short Blade</a></td></tr>
+    <tr><th>Damage Type</th><td>Silver</td></tr>
+    <tr><th>Holster Slot</th><td>Hip</td></tr>
+    <tr><th>Two Handed</th><td>No</td></tr>
+    <tr><th>Weapon Set</th><td>Bone</td></tr>
+  </table>
+</div>

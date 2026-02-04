@@ -1,11 +1,33 @@
+---
+tags: [heartlands, spell]
+---
+
 # Fire Pit
 
-* Spell Type: Ground
 
-* Magic Effects: Fire Damage
+Causes the ground where you focus to bubble and burn with fire.
 
-* Damage Type: Fire
+## Spell Info
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Spell Info</div>
+  <table>
+    <tr><th>Spell Type</th><td><a href="../../../Gameplay/SpellCasting/#placement-spells">Ground</a></td></tr>
+    <tr><th>Spell School</th><td><a href="../../../Gameplay/SchoolsOfMagic/Destruction/">Destruction</a></td></tr>
+    <tr><th>Damage Type</th><td>Fire</td></tr>
+    <tr><th>Affects Health</th><td>Yes</td></tr>
+    <tr><th>Affects Magic</th><td>No</td></tr>
+    <tr><th>Range</th><td>3000</td></tr>
+    <tr><th>Cooldown</th><td>15</td></tr>
+    <tr><th>Placement Radius</th><td>10</td></tr>
+    <tr><th>Channel Radius</th><td>10</td></tr>
+    <tr><th>Two Handed</th><td>Yes</td></tr>
+  </table>
+</div>
 
-* Description: Creates a stationary area of flames that burns any creature entering its radius, dealing continuous fire damage.
-
-* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)
+## Magic Effects
+<div class="hl-infobox">
+  <div class="hl-infobox-title">Magic Effects</div>
+  <ul>
+    <li><a href="../../../Gameplay/MagicEffects/FireDamage_Flames_01/">FIre Damage</a></li>
+  </ul>
+</div>

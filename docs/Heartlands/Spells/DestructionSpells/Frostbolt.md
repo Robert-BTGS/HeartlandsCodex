@@ -1,11 +1,8 @@
+---
+tags: [heartlands, spell]
+---
+
 # Frostbolt
 
-* Spell Type: Projectile
+!Missing description.
 
-* Magic Effects: Frost Damage
-
-* Damage Type: Frost
-
-* Description: Launches a shard of ice at the target, dealing frost damage and slowing movement.
-
-* School of Magic [Destruction](/HeartlandsCodex/Heartlands/Gameplay/SchoolsOfMagic/Destruction)

@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Dialogue System
 
 * To start a conversation, the player must be within dialogue range and wave at the character.

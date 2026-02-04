@@ -1,3 +1,7 @@
+---
+tags: [faction, heartlands]
+---
+
 # Mariners Guild
 
 Guild Overview

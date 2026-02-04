@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Allium
 
 * fortify health, restore magic, weakness to poison
@@ -7,4 +11,4 @@
 - favored by the Nymaa
 - planted on graves to keep the Didren from whispering into the minds of the dead
 
-[Allium](/HeartlandsCodex/Heartlands/Items/Ingredients/Allium/)
+[Allium](../Items/Ingredients/Allium.md)

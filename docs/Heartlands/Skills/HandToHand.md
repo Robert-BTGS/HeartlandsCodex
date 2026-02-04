@@ -1,7 +1,16 @@
+---
+tags: [heartlands, skill]
+---
+
 # Hand To Hand
 
 
 Whether in tavern brawls, arena pits, or monastary gardens, you've learned to eshew weapons in favor of punches and kicks.
+
+## Usage
+
+Hand to hand weapons include spiked knuckle gear and similar tools, but you can also fight bare‑handed by closing your fists and striking.
+
 
 # Perks
 

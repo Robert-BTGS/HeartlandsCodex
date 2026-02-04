@@ -1,12 +1,48 @@
+---
+tags: [heartlands, item]
+---
+
 # Alchemy Alembic
 
 All the information about all the items you might come across in the world of Heartlands.
 
-![Alchemy Alembic](../../../images/alembic_12-8-2,025_1-4-36.png)
-![Alchemy Alembic](../../../images/alembic_12-8-2,025_1-4-40.png)
-![Alchemy Alembic](../../../images/alembic_12-8-2,025_1-4-43.png)
+<div class="hl-gallery">
+  <div class="swiper swiper-main">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic" src="../../../images/alembic_12-8-2_025_1-4-36.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic" src="../../../images/alembic_12-8-2_025_1-4-40.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic" src="../../../images/alembic_12-8-2_025_1-4-43.png" />
+      </div>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <div class="swiper swiper-thumbs">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic thumbnail" src="../../../images/alembic_12-8-2_025_1-4-36.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic thumbnail" src="../../../images/alembic_12-8-2_025_1-4-40.png" />
+      </div>
+      <div class="swiper-slide">
+        <img alt="Alchemy Alembic thumbnail" src="../../../images/alembic_12-8-2_025_1-4-43.png" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Item stats
-| Weight  | Value |
-|---------|-------|
-| 0.0     | 40.0  | 
+<div class="hl-infobox">
+  <div class="hl-infobox-title">ITEM STATS</div>
+  <table>
+    <tr><th>Weight</th><td>0.0</td></tr>
+    <tr><th>Value</th><td>40.0</td></tr>
+  </table>
+</div>

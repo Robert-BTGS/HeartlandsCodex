@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Xalrok
 
 * Didren deity of chaos, destruction, ruin, and disorder; embodies upheaval, turmoil, and the collapse of structure.

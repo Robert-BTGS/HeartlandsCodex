@@ -1,3 +1,7 @@
+---
+tags: [heartlands]
+---
+
 # Recipes
 
 * Restore Endurance potion
