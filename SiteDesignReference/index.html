@@ -3,9 +3,11 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Home - Heartlands Codex</title>
-  <link rel="icon" type="image/x-icon" href="../images/HeartlandsLogo.png">
+  <title>Site Design Reference - Heartlands Codex</title>
+  <link rel="icon" type="image/x-icon" href="../images/HeartlandsLogo.PNG">
   <link href="../css/torillic.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet">
+  <link href="../assets/css/gallery.css" rel="stylesheet">
   <style>
     .torillic-background {
       
@@ -31,7 +33,19 @@
     <nav>
       
       
-      <a class="" href="..">Home</a>
+      <a class="" href="..">Heartlands Codex</a>
+      
+      
+      
+      <a class="" href="../StartHere/">Start Here</a>
+      
+      
+      
+      <a class="" href="../Indexes/">Indexes</a>
+      
+      
+      
+      <a class="" href="../Tags/">Tags</a>
       
       
       
@@ -39,32 +53,37 @@
       
       
       
-      <a class="" href="../Heartlands_TLC/">Heartlands TLC</a>
+      <a class="" href="../Heartlands_TheArena/">Heartlands: The Arena</a>
       
       
       
-      <a class="" href="../Heartlands_TheArena/">Heartlands TheArena</a>
+      <a class="" href="../Heartlands_TLC/">Heartlands: The Lost Colony</a>
       
       
       
       <a class="current" href="./">SiteDesignReference</a>
       
       
+      
+      <a class="" href="../Templates/">Templates</a>
+      
+      
     </nav>
   </header>
   <main class="torillic-page">
     
-    <h1 id="home">Home</h1>
-<p>The Single Hash gives you this font size</p>
-<h2 id="formatting">Formatting</h2>
-<p>The Double Hash gives you a smaller but still header style font</p>
+    <h1 id="site-design-reference">Site Design Reference</h1>
+<p>This page is the style guide for the Heartlands Codex. Keep entries concise, consistent, and easy to scan.</p>
+<h2 id="headers">Headers</h2>
 <ul>
-<li>This is how you make a bullet list.</li>
-<li>Stars</li>
-<li>See.</li>
-<li>Simple</li>
+<li><code>#</code> for page title</li>
+<li><code>##</code> for primary sections</li>
+<li><code>###</code> for subsections</li>
 </ul>
-<p>collapsible sections can be added like this</p>
+<h2 id="lists">Lists</h2>
+<p>Use bullet lists for quick facts and scannable sections.</p>
+<h2 id="collapsible-sections">Collapsible Sections</h2>
+<p>Use collapsible blocks for long lore or spoilers.</p>
 <details>
 <summary>Click to expand history</summary>
 
@@ -72,8 +91,76 @@ The Kadian Empire was founded in...
 
 </details>
 
-<p>Add links to other pages like this</p>
-<p><strong>Race:</strong> <a href="/HeartlandsCodex/Heartlands/Races/Kadian">Kadian</a></p>
+<h2 id="linking">Linking</h2>
+<p>Use relative links so pages work locally and on GitHub Pages.</p>
+<p><strong>Race:</strong> <a href="../Heartlands/Races/Kadian/">Kadian</a></p>
+<h2 id="galleries">Galleries</h2>
+<p>Use the gallery pattern for pages with multiple images. The gallery supports a large main image with a thumbnail strip.</p>
+<p>Example:</p>
+<pre><code class="language-html">&lt;div class=&quot;hl-gallery&quot; data-gallery&gt;
+  &lt;div class=&quot;hl-gallery-main swiper&quot;&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;/images/example-1.png&quot; alt=&quot;Example 1&quot; /&gt;&lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;/images/example-2.png&quot; alt=&quot;Example 2&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;swiper-button-prev&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;swiper-button-next&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;hl-gallery-thumbs swiper&quot;&gt;
+    &lt;div class=&quot;swiper-wrapper&quot;&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;/images/example-1.png&quot; alt=&quot;Example 1 thumbnail&quot; /&gt;&lt;/div&gt;
+      &lt;div class=&quot;swiper-slide&quot;&gt;&lt;img src=&quot;/images/example-2.png&quot; alt=&quot;Example 2 thumbnail&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<p>Notes:
+* Keep images relative to the current page.
+* Use the same image list for the main carousel and thumbnails.</p>
+<h2 id="infoboxes">Infoboxes</h2>
+<p>Use infoboxes for key stats and profiles so pages read consistently.</p>
+<pre><code class="language-html">&lt;div class=&quot;hl-infobox&quot;&gt;
+  &lt;div class=&quot;hl-infobox-title&quot;&gt;Item Stats&lt;/div&gt;
+  &lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Weight&lt;/th&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th&gt;Value&lt;/th&gt;&lt;td&gt;0.0&lt;/td&gt;&lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+</code></pre>
+<h2 id="page-templates">Page Templates</h2>
+<p>Use these templates when creating new pages. Copy one and fill it out:
+* <a href="../Templates/NPC/">NPC Template</a>
+* <a href="../Templates/Location/">Location Template</a>
+* <a href="../Templates/Item/">Item Template</a>
+* <a href="../Templates/Quest/">Quest Template</a>
+* <a href="../Templates/Faction/">Faction Template</a>
+* <a href="../Templates/Race/">Race Template</a></p>
+<h2 id="tags">Tags</h2>
+<p>Tags help group related pages. Add tags in a front matter block at the very top of a page:</p>
+<pre><code class="language-yaml">---
+tags: [example, lore, faction]
+---
+</code></pre>
+<p>See the <a href="../Tags/">Tags Index</a> for available tags.</p>
+<h2 id="regenerating-indexes-and-tags">Regenerating Indexes And Tags</h2>
+<p>If you add or remove pages, run the helper script to rebuild indexes, tags, and the home page “Latest Additions”.</p>
+<pre><code class="language-bash">python3 docs/tools/regenerate_indexes_and_tags.py
+</code></pre>
+<h2 id="quick-jump">Quick Jump</h2>
+<p>Use quick jump buttons for longer pages so readers can jump to sections.</p>
+<p>Example:</p>
+<pre><code class="language-md">## Quick Jump
+* [Summary](#summary)
+* [Appearance](#appearance)
+* [History](#history)
+</code></pre>
+<h2 id="links-and-paths">Links and Paths</h2>
+<p>Use pretty URLs and relative links without <code>.md</code> where possible. Examples:</p>
+<ul>
+<li>Good: <code>../Skills/ShortBlade/</code></li>
+<li>Good: <code>../Gameplay/ShieldTypes/#buckler-shields</code></li>
+<li>Avoid: <code>../Skills/ShortBlade.md</code></li>
+</ul>
 
     
     
@@ -108,9 +195,13 @@ The Kadian Empire was founded in...
 
 
 
-<a href=".." class="torillic-backlink">🡐 Home</a>
+<a href=".." class="torillic-backlink">🡐 Heartlands Codex</a>
     
   </main>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="../assets/js/swiper-init.js"></script>
+  <script src="../assets/js/random-page.js"></script>
+  <script src="../assets/js/breadcrumbs.js"></script>
   <script src="../search/main.js"></script>
 </body>
 

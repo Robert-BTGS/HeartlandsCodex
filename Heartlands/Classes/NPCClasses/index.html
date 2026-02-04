@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>NPC Classes - Heartlands Codex</title>
+  <link rel="icon" type="image/x-icon" href="../../../images/HeartlandsLogo.PNG">
+  <link href="../../../css/torillic.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet">
+  <link href="../../../assets/css/gallery.css" rel="stylesheet">
+  <style>
+    .torillic-background {
+      
+      background-image: url("../../../images/HeartlandsCodexBackground.jpg");
+      
+    }
+  </style>
+  <script>
+    function toggleSpoiler(element) {
+      // add/remove "hidden" class
+      if (element.classList.contains("hidden")) {
+        element.classList.remove("hidden");
+      } else {
+        element.classList.add("hidden");
+      }
+    }
+  </script>
+</head>
+
+<body class="torillic-background">
+  <header class="torillic-header">
+    <h1>Heartlands Codex</h1>
+    <nav>
+      
+      
+      <a class="" href="../../..">Heartlands Codex</a>
+      
+      
+      
+      <a class="" href="../../../StartHere/">Start Here</a>
+      
+      
+      
+      <a class="" href="../../../Indexes/">Indexes</a>
+      
+      
+      
+      <a class="" href="../../../Tags/">Tags</a>
+      
+      
+      
+      <a class="current" href="../../">Heartlands</a>
+      
+      
+      
+      <a class="" href="../../../Heartlands_TheArena/">Heartlands: The Arena</a>
+      
+      
+      
+      <a class="" href="../../../Heartlands_TLC/">Heartlands: The Lost Colony</a>
+      
+      
+      
+      <a class="" href="../../../SiteDesignReference/">SiteDesignReference</a>
+      
+      
+      
+      <a class="" href="../../../Templates/">Templates</a>
+      
+      
+    </nav>
+  </header>
+  <main class="torillic-page">
+    
+    <h1 id="npc-classes">NPC Classes</h1>
+<p>All the information about the classes that make up the stats of the various npcs and yourself as you play Heartlands.</p>
+
+    
+    
+    
+
+<h4>Contents</h4>
+
+<blockquote class=torillic-toc>
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Agent/">Agent</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Alchemist/">Alchemist</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Archer/">Archer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Bandit/">Bandit</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="BanditArcher/">Bandit Archer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="BanditBoss/">Bandit Boss</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="BanditWizard/">Bandit Wizard</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Blademaster/">Blademaster</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Bookseller/">Bookseller</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Champion/">Champion</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Clothier/">Clothier</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Commoner/">Commoner</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Conjurer/">Conjurer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Drillmaster/">Drillmaster</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Enchanter/">Enchanter</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Enforcer/">Enforcer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Farmer/">Farmer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Forgemaster/">Forgemaster</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Guard/">Guard</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="GuardArcher/">Guard Archer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="GuardBattlemage/">Guard Battlemage</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Herald/">Herald</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Herder/">Herder</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Hunter/">Hunter</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Knight/">Knight</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Mage/">Mage</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Marauder/">Marauder</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="MarauderArcher/">Marauder Archer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="MarauderBoss/">Marauder Boss</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="MarauderMage/">Marauder Mage</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Merchant/">Merchant</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Necromancer/">Necromancer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Nightblade/">Nightblade</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Noble/">Noble</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Ostler/">Ostler</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Pauper/">Pauper</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Pawnbroker/">Pawnbroker</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Priest/">Priest</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Publican/">Publican</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Rogue/">Rogue</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Savant/">Savant</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Scout/">Scout</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Sorcerer/">Sorcerer</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Thief/">Thief</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Trader/">Trader</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Warlock/">Warlock</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Warrior/">Warrior</a>
+    </li>
+    
+
+    
+    
+    
+    
+    
+    
+    <li class="torillic-toc-page">
+        <a href="Witch/">Witch</a>
+    </li>
+    
+
+</blockquote>
+
+    
+    
+    
+    
+    
+
+
+
+    
+        
+        
+    
+
+
+
+    
+        
+    
+
+
+<a href="../" class="torillic-backlink">🡐 Classes</a>
+    
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="../../../assets/js/swiper-init.js"></script>
+  <script src="../../../assets/js/random-page.js"></script>
+  <script src="../../../assets/js/breadcrumbs.js"></script>
+  <script src="../../../search/main.js"></script>
+</body>
+
+</html>
